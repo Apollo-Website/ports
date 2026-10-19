@@ -1,0 +1,85 @@
+{
+  "id": "kindergarten",
+  "folder": "Kindergarten",
+  "source": "https://selenite.cc/resources/semag/kindergarten1",
+  "partBytes": 19922944,
+  "build": "Kindergarten",
+  "dataBytes": 19545045,
+  "dataParts": 1,
+  "dataSha256": "157a864e9b4adae67b2c8b10db7d3293ad683369f6d8d2454ea9d8c4186af5ea",
+  "wasmBytes": 54860216,
+  "wasmParts": 3,
+  "wasmSha256": "8640307841368d1a390cc40bb39a778136a00dbbf437d34f1159cbdb72e98f5b",
+  "files": [
+    {
+      "path": "Build/Kindergarten.wasm.part1",
+      "bytes": 19922944,
+      "sha256": "f2ee27e5c968c2e6e825c1fcf1f2ae0bd92d33fa551b5a7c89e79b38f7751d7d"
+    },
+    {
+      "path": "Build/Kindergarten.wasm.part2",
+      "bytes": 19922944,
+      "sha256": "802735d3be948eda08c420219b905e920a231ecfa00897ef1406dd1ddb44304d"
+    },
+    {
+      "path": "Build/Kindergarten.wasm.part3",
+      "bytes": 15014328,
+      "sha256": "b9ffab40e7c5e81e8b2463117c7a13b74497ccddee857b131413fa8d152859ef"
+    },
+    {
+      "path": "Build/Kindergarten.loader.js",
+      "bytes": 14746,
+      "sha256": "e389eeec578421d425e8404784af13fe7bf48e7304c30afe6b89e854b59b0370"
+    },
+    {
+      "path": "Build/Kindergarten.framework.js",
+      "bytes": 589443,
+      "sha256": "88df039c50eb419becf743f8c3a5563226477d895baea9f3c205a830dca01e3b"
+    },
+    {
+      "path": ".gitattributes",
+      "bytes": 20,
+      "sha256": "5482beca81a7ea24dbb0fe809c03e4969cb40b9433333315f2e2d4981fcd1b59"
+    },
+    {
+      "path": "Build/Kindergarten.data.part1",
+      "bytes": 19545045,
+      "sha256": "157a864e9b4adae67b2c8b10db7d3293ad683369f6d8d2454ea9d8c4186af5ea"
+    }
+  ],
+  "changedObjects": [
+    [
+      "globalgamemanagers",
+      1
+    ],
+    [
+      "level0",
+      407
+    ],
+    [
+      "level0",
+      417
+    ],
+    [
+      "level0",
+      450
+    ],
+    [
+      "level0",
+      495
+    ],
+    [
+      "level0",
+      496
+    ],
+    [
+      "level0",
+      1937
+    ],
+    [
+      "level0",
+      2004
+    ]
+  ],
+  "unchangedObjectCount": 12972
+}

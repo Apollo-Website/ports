@@ -1,0 +1,90 @@
+{
+  "id": "kindergarten2",
+  "folder": "Kindergarten2",
+  "source": "https://selenite.cc/resources/semag/kindergarten2",
+  "partBytes": 19922944,
+  "build": "Kindergarten2",
+  "dataBytes": 28117366,
+  "dataParts": 2,
+  "dataSha256": "dc95c1edf0c6aa3d2ee50035821fcdfca3d3f788a6537127337aadfd2c41e340",
+  "wasmBytes": 54845563,
+  "wasmParts": 3,
+  "wasmSha256": "891e251dd72074c02b836ff9799e7ed615b60aff9fd4a1a43fff1b961faabbdc",
+  "files": [
+    {
+      "path": "Build/Kindergarten2.wasm.part1",
+      "bytes": 19922944,
+      "sha256": "f23f015ee6eadb898253d727f436ad33066c1cec1794f70d5f9f4670ee0d6df4"
+    },
+    {
+      "path": "Build/Kindergarten2.wasm.part2",
+      "bytes": 19922944,
+      "sha256": "a7e8fa62212c9be050fa7a6c329e2e632ad3dfbab6b70262ba7e6b3b61fe796e"
+    },
+    {
+      "path": "Build/Kindergarten2.wasm.part3",
+      "bytes": 14999675,
+      "sha256": "bcbcb1721b0f6c2440c7b7f4d0117d2b6602882520d12a38f16d9fc8acd3a5d2"
+    },
+    {
+      "path": "Build/Kindergarten2.loader.js",
+      "bytes": 14741,
+      "sha256": "1ab5437d36e4358574e316b763242862aeb88c07edc12cf5f004852faaccc7d1"
+    },
+    {
+      "path": "Build/Kindergarten2.framework.js",
+      "bytes": 589443,
+      "sha256": "d07bb8e1b6ffdcc79bbfcee937c87393f56bdfb8f1fb3ae322dff3efae31f6fb"
+    },
+    {
+      "path": ".gitattributes",
+      "bytes": 20,
+      "sha256": "5482beca81a7ea24dbb0fe809c03e4969cb40b9433333315f2e2d4981fcd1b59"
+    },
+    {
+      "path": "Build/Kindergarten2.data.part1",
+      "bytes": 19922944,
+      "sha256": "219c4a021bbc94d87cca7a29ad2ca7958ed3ce52fd658e6af69946ae0bb9b06d"
+    },
+    {
+      "path": "Build/Kindergarten2.data.part2",
+      "bytes": 8194422,
+      "sha256": "6a22532b506104935a4d3c4ef04ab8592bc144a27a2a7277624ec58d7710b408"
+    }
+  ],
+  "changedObjects": [
+    [
+      "globalgamemanagers",
+      1
+    ],
+    [
+      "level0",
+      1125
+    ],
+    [
+      "level0",
+      1132
+    ],
+    [
+      "level0",
+      1174
+    ],
+    [
+      "level0",
+      1196
+    ],
+    [
+      "level0",
+      1197
+    ],
+    [
+      "level0",
+      4052
+    ],
+    [
+      "level0",
+      4090
+    ]
+  ],
+  "unchangedObjectCount": 43915
+}

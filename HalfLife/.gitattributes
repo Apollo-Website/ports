@@ -1,0 +1,2 @@
+*.part* -text -diff
+*.mem -text -diff

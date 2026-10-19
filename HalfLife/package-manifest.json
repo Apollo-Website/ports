@@ -1,0 +1,95 @@
+{
+  "folder": "HalfLife",
+  "files": [
+    {
+      "path": "browserfs.min.js",
+      "bytes": 248736,
+      "sha256": "283bdb3f6d3492204e8e038d885ad46f4b038595382f628ffdecd6333c6fe977"
+    },
+    {
+      "path": "xash.html.mem",
+      "bytes": 408235,
+      "sha256": "faae714931de2b9ef9494067883c9bb0d69ed4610eb74285474bd0661b9318e5"
+    },
+    {
+      "path": "xash.js",
+      "bytes": 7035242,
+      "sha256": "881f4bcc95dad8231be7f46c7092e4994542bb1f4c23bdf15a67bb787d36ab14"
+    },
+    {
+      "path": "server.js",
+      "bytes": 3114078,
+      "sha256": "ad5db7f9fcbff8c9ad143ab7e2b8d96a72aaec77818fc963a060ebe2290907c9"
+    },
+    {
+      "path": "client.js",
+      "bytes": 867789,
+      "sha256": "5746c8c9094a7e0558fe95d90a25ee414ddc6114cb5ff1f68c4128930ea797bd"
+    },
+    {
+      "path": "menu.js",
+      "bytes": 717299,
+      "sha256": "584c87c33fe079adb462ab6c92d0a78835a5bf6ffc65136df8ef22adb58ff4cd"
+    },
+    {
+      "path": "halflife.zip.part1",
+      "bytes": 19922944,
+      "sha256": "aa2165181fbd76663468ca2ea0fefc939a7d00eac6faa4da4aca51beda1ce973"
+    },
+    {
+      "path": "halflife.zip.part2",
+      "bytes": 19922944,
+      "sha256": "a1ea8fa9ea2c33d6cf4f860c65922285722a93c7c09f8488dfe5fe4ab277bd1e"
+    },
+    {
+      "path": "halflife.zip.part3",
+      "bytes": 19922944,
+      "sha256": "23cdc5ade4a6911138f691bebafa048e6b842596f34d3d5ac32a68c6945120ef"
+    },
+    {
+      "path": "halflife.zip.part4",
+      "bytes": 19922944,
+      "sha256": "fed99cee37af6dc7b3b34e0888d4fe5ae5fb5fc4036e92adf6d168ab06f6f950"
+    },
+    {
+      "path": "halflife.zip.part5",
+      "bytes": 19922944,
+      "sha256": "d0ac336661fdf910e68c85c3bb2a730ab508acb4bf67e3d9c076066069320aa7"
+    },
+    {
+      "path": "halflife.zip.part6",
+      "bytes": 19922944,
+      "sha256": "f57650991aca9af5e5aafc9d8cf8f4b72e748483514740396db50add2d7b724e"
+    },
+    {
+      "path": "halflife.zip.part7",
+      "bytes": 19922944,
+      "sha256": "b1e9af45512fa08adc56a4a4681f794040dfdae254b2184a66a2b1b386264b0c"
+    },
+    {
+      "path": "halflife.zip.part8",
+      "bytes": 19922944,
+      "sha256": "0099cefe2b51b08357a559135c8247c8834b8964b8adf0c8bd2c82e1b85b3a5f"
+    },
+    {
+      "path": "halflife.zip.part9",
+      "bytes": 19922944,
+      "sha256": "1b186fdffdbbade7efc54d3568f5b68111e085ed32ad204fbb9741d2b4de43fd"
+    },
+    {
+      "path": "halflife.zip.part10",
+      "bytes": 19922944,
+      "sha256": "bf4c47ee249152c0df0e7acf49d1ff5858d291f0e5a2351319b333bb0776a37b"
+    },
+    {
+      "path": "halflife.zip.part11",
+      "bytes": 15054061,
+      "sha256": "0b046525181afa249ed9b751a5469b8fed593e708ac26156bcacd15240a8c1b3"
+    },
+    {
+      "path": ".gitattributes",
+      "bytes": 38,
+      "sha256": "ad38ccb99a0f28aefba878840684bc3882782ed59d1d302b4af5721567c9d3bc"
+    }
+  ]
+}

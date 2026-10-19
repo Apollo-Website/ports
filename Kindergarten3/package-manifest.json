@@ -1,0 +1,94 @@
+{
+  "id": "kindergarten3",
+  "folder": "Kindergarten3",
+  "source": "https://selenite.cc/resources/semag/kindergarten3",
+  "partBytes": 19922944,
+  "build": "Kindergarten3",
+  "dataBytes": 36833234,
+  "dataParts": 2,
+  "dataSha256": "a64f2337d7eb87518fe9df991bc2635e2238b054d90e2610b1130933f4c0abcf",
+  "wasmBytes": 50167318,
+  "wasmParts": 3,
+  "wasmSha256": "7316377de38229a7206063114a284f00d46f13d30e7a5703b4930f6e91c3e400",
+  "files": [
+    {
+      "path": "Build/Kindergarten3.wasm.part1",
+      "bytes": 19922944,
+      "sha256": "610d9010fd6f417bc2079580789ba095f9584a7490bcd7f4eb833ac45f420f2b"
+    },
+    {
+      "path": "Build/Kindergarten3.wasm.part2",
+      "bytes": 19922944,
+      "sha256": "f401390a17fc8c125c379ffb2a6da74236d0d2c54e1199a69481eeff917b79f1"
+    },
+    {
+      "path": "Build/Kindergarten3.wasm.part3",
+      "bytes": 10321430,
+      "sha256": "0876749be135152eae5c870b187b52d1a957122ac5fcb95666e2e98bc8dea2e5"
+    },
+    {
+      "path": "Build/Kindergarten3.loader.js",
+      "bytes": 17846,
+      "sha256": "6b1557070784e9a435a84b6510c266fc752769080003930c4ccc089d62b76f9e"
+    },
+    {
+      "path": "Build/Kindergarten3.framework.js",
+      "bytes": 615554,
+      "sha256": "fb250a70021ec586473d98bcecbbc09f65c0642920c2b62e25fdbec774164025"
+    },
+    {
+      "path": ".gitattributes",
+      "bytes": 20,
+      "sha256": "5482beca81a7ea24dbb0fe809c03e4969cb40b9433333315f2e2d4981fcd1b59"
+    },
+    {
+      "path": "Build/Kindergarten3.data.part1",
+      "bytes": 19922944,
+      "sha256": "fc7f6c80b97766b71b86b78dc164f36754e1c14bde07d8ec0405ae7859854f5f"
+    },
+    {
+      "path": "Build/Kindergarten3.data.part2",
+      "bytes": 16910290,
+      "sha256": "c2ff5e149ff50d078c1aa6f3d4f8b13368fb690aeafea056b6231e86e3e00109"
+    }
+  ],
+  "changedObjects": [
+    [
+      "globalgamemanagers",
+      1
+    ],
+    [
+      "level1",
+      636
+    ],
+    [
+      "level1",
+      955
+    ],
+    [
+      "level1",
+      987
+    ],
+    [
+      "level1",
+      1119
+    ],
+    [
+      "level1",
+      3206
+    ],
+    [
+      "level1",
+      3224
+    ],
+    [
+      "level1",
+      3428
+    ],
+    [
+      "sharedassets1.assets",
+      967
+    ]
+  ],
+  "unchangedObjectCount": 24130
+}
