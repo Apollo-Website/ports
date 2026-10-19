@@ -4,17 +4,21 @@
   "unityPy": "1.25.4",
   "partBytes": 19922944,
   "build": "ULTRAKILL",
-  "dataBytes": 65713589,
+  "dataBytes": 65713569,
   "dataParts": 4,
   "wasmBytes": 31248672,
   "wasmParts": 2,
   "sourceDataSha256": "2eaedea855f80bca8abb5f7e70849704348e4fb6ba36321a43d32c97e6e789d0",
-  "dataSha256": "96963fe47a991cd04fb7df096f50fe5bd60cf6c7216131d394a5ea56414687b8",
+  "dataSha256": "bd3a6d69eef59fc207b4499ab08fdbf031f753b066743fb7de7fcaecbfc7c700",
   "wasmSha256": "3f8380c0d3db6665f95f14bbd907d60ca61573203bdb77fea0385d56df82ccc0",
   "changedObjects": [
     [
       "globalgamemanagers",
       1
+    ],
+    [
+      "globalgamemanagers.assets",
+      1355
     ],
     [
       "level10",
@@ -33,27 +37,27 @@
   "removedStartupSprites": [
     1494
   ],
-  "unchangedObjectCount": 312903,
+  "unchangedObjectCount": 312902,
   "files": [
     {
       "path": "Build/ULTRAKILL.data.part1",
       "bytes": 19922944,
-      "sha256": "2c0433ba9c1c6dd98118b392e617b95ced5ee15db56dc65204226ac996ee8ead"
+      "sha256": "420e181b64a277bec738532c8486d2a41606663e0bc4d9e07fdabfea741481ba"
     },
     {
       "path": "Build/ULTRAKILL.data.part2",
       "bytes": 19922944,
-      "sha256": "91d1c9a4f4a48003d5a2eb79d9163a7553c182d1606ddd253b70c0d2ff8f6144"
+      "sha256": "1752fbe2c9616d484a2850113bf21e23b9980f4c6b576d98dcf32a895173271f"
     },
     {
       "path": "Build/ULTRAKILL.data.part3",
       "bytes": 19922944,
-      "sha256": "66f39c2b29a9937eb83ec4610f26570c31d241d255a536a226abecf0189c41df"
+      "sha256": "f959cb51d5ba45a1fb387659cf7df4366cadf82ca88c0242a3bdee3d5d572fe4"
     },
     {
       "path": "Build/ULTRAKILL.data.part4",
-      "bytes": 5944757,
-      "sha256": "5cac3c0de998baecad4574e3a89ea93fe366ac24dfc2c3269a5b292001637e28"
+      "bytes": 5944737,
+      "sha256": "bde39463ce39ede4dd52317b1a29b26f5dc62773645af38a6795449dce2166a7"
     },
     {
       "path": "Build/ULTRAKILL.wasm.part1",
@@ -85,5 +89,6 @@
       "bytes": 20,
       "sha256": "5482beca81a7ea24dbb0fe809c03e4969cb40b9433333315f2e2d4981fcd1b59"
     }
-  ]
+  ],
+  "hiddenUnityLogoSprite": 1355
 }
