@@ -4,9 +4,9 @@
   "source": "https://selenite.cc/resources/semag/kindergarten3",
   "partBytes": 19922944,
   "build": "Kindergarten3",
-  "dataBytes": 36833234,
+  "dataBytes": 36833195,
   "dataParts": 2,
-  "dataSha256": "a64f2337d7eb87518fe9df991bc2635e2238b054d90e2610b1130933f4c0abcf",
+  "dataSha256": "fe16ef47bfc274c3c1cda4a881be0253918ed3b9a91cfd04b061c1fce71c6ab0",
   "wasmBytes": 50167318,
   "wasmParts": 3,
   "wasmSha256": "7316377de38229a7206063114a284f00d46f13d30e7a5703b4930f6e91c3e400",
@@ -44,12 +44,12 @@
     {
       "path": "Build/Kindergarten3.data.part1",
       "bytes": 19922944,
-      "sha256": "fc7f6c80b97766b71b86b78dc164f36754e1c14bde07d8ec0405ae7859854f5f"
+      "sha256": "f699ef1aa6e609cc34c7f73a3f92a5987882fd17a5d40cfdefe42942cceacb68"
     },
     {
       "path": "Build/Kindergarten3.data.part2",
-      "bytes": 16910290,
-      "sha256": "c2ff5e149ff50d078c1aa6f3d4f8b13368fb690aeafea056b6231e86e3e00109"
+      "bytes": 16910251,
+      "sha256": "7c3e19994c474ab52b6d316bd8322129c9efbfc35889d28a3b2a25e75a00c90e"
     }
   ],
   "changedObjects": [

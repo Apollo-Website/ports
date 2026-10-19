@@ -1,15 +1,15 @@
 {
   "id": "ultrakill",
   "source": "https://selenite.cc/resources/semag/ultrakill/index.html",
-  "unityPy": "1.25.3",
+  "unityPy": "1.25.4",
   "partBytes": 19922944,
   "build": "ULTRAKILL",
-  "dataBytes": 65713818,
+  "dataBytes": 65713589,
   "dataParts": 4,
   "wasmBytes": 31248672,
   "wasmParts": 2,
   "sourceDataSha256": "2eaedea855f80bca8abb5f7e70849704348e4fb6ba36321a43d32c97e6e789d0",
-  "dataSha256": "96bf59195742c5332f02379e67174239b849586271cba68109f65eb885dd1797",
+  "dataSha256": "96963fe47a991cd04fb7df096f50fe5bd60cf6c7216131d394a5ea56414687b8",
   "wasmSha256": "3f8380c0d3db6665f95f14bbd907d60ca61573203bdb77fea0385d56df82ccc0",
   "changedObjects": [
     [
@@ -30,27 +30,30 @@
     "m_ShowUnitySplashLogo"
   ],
   "removedPortCredit": "PORT BY 98CORBINS",
+  "removedStartupSprites": [
+    1494
+  ],
   "unchangedObjectCount": 312903,
   "files": [
     {
       "path": "Build/ULTRAKILL.data.part1",
       "bytes": 19922944,
-      "sha256": "b480094c59369019e777d86ee05fc454066d99d07ac55531bd2c727445d4701d"
+      "sha256": "2c0433ba9c1c6dd98118b392e617b95ced5ee15db56dc65204226ac996ee8ead"
     },
     {
       "path": "Build/ULTRAKILL.data.part2",
       "bytes": 19922944,
-      "sha256": "114db5763bcb37c986ee51eb6b7ae73bbf61da847b34ce2b2c4512f2bbd1cb18"
+      "sha256": "91d1c9a4f4a48003d5a2eb79d9163a7553c182d1606ddd253b70c0d2ff8f6144"
     },
     {
       "path": "Build/ULTRAKILL.data.part3",
       "bytes": 19922944,
-      "sha256": "8c28bac7833df3b5cb864877412dd9ee06d1457d5d91f5b926b7817dbaf695f1"
+      "sha256": "66f39c2b29a9937eb83ec4610f26570c31d241d255a536a226abecf0189c41df"
     },
     {
       "path": "Build/ULTRAKILL.data.part4",
-      "bytes": 5944986,
-      "sha256": "0dda8b10859eaafb74a4f2b78e57a1fa4bd6ddcf120919c475e9e842286b04d4"
+      "bytes": 5944757,
+      "sha256": "5cac3c0de998baecad4574e3a89ea93fe366ac24dfc2c3269a5b292001637e28"
     },
     {
       "path": "Build/ULTRAKILL.wasm.part1",
