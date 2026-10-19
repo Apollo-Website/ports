@@ -1,0 +1,77 @@
+{
+  "id": "ultrakill",
+  "source": "https://selenite.cc/resources/semag/ultrakill/index.html",
+  "unityPy": "1.25.3",
+  "partBytes": 19922944,
+  "build": "ULTRAKILL",
+  "dataBytes": 65713826,
+  "dataParts": 4,
+  "wasmBytes": 31248672,
+  "wasmParts": 2,
+  "sourceDataSha256": "2eaedea855f80bca8abb5f7e70849704348e4fb6ba36321a43d32c97e6e789d0",
+  "dataSha256": "0b9c2ceda9032b029054cb06238bb9f7522b33f7b1e5656dd121001e05bdbf1d",
+  "wasmSha256": "3f8380c0d3db6665f95f14bbd907d60ca61573203bdb77fea0385d56df82ccc0",
+  "changedObjects": [
+    [
+      "globalgamemanagers",
+      1
+    ]
+  ],
+  "disabledSettings": [
+    "m_ShowUnitySplashScreen",
+    "m_ShowUnitySplashLogo"
+  ],
+  "unchangedObjectCount": 312905,
+  "files": [
+    {
+      "path": "Build/ULTRAKILL.data.part1",
+      "bytes": 19922944,
+      "sha256": "b21603c0c43e2162f72b5c9ffa3c46de12519c634f0738aa07ef619bbdf0e699"
+    },
+    {
+      "path": "Build/ULTRAKILL.data.part2",
+      "bytes": 19922944,
+      "sha256": "7a6d6b9fcb3a5550ba2e9b2de7550ed6c0172c9aa5e0bc70a9d28322af42b1fd"
+    },
+    {
+      "path": "Build/ULTRAKILL.data.part3",
+      "bytes": 19922944,
+      "sha256": "62e79d52fc99301b6828d8d1dff8e1857b2ed9b3c51802a5e2712ba4eabff93b"
+    },
+    {
+      "path": "Build/ULTRAKILL.data.part4",
+      "bytes": 5944994,
+      "sha256": "0a05bba02883175365c24443a634ae28d3c120cbaf81dece70b46fb1afe7cdc3"
+    },
+    {
+      "path": "Build/ULTRAKILL.wasm.part1",
+      "bytes": 19922944,
+      "sha256": "9696146205eb25ee89e659a3e97fb32545b0bd5bfaf54bef24941e80b8dce4d4"
+    },
+    {
+      "path": "Build/ULTRAKILL.wasm.part2",
+      "bytes": 11325728,
+      "sha256": "eb48517192d53cd3d4035df745faffcad5e286dc5416044221892026d56b5721"
+    },
+    {
+      "path": "Build/ULTRAKILL.framework.js",
+      "bytes": 422236,
+      "sha256": "107c1ff7e2e57e0a011ae03b20052b149b91d93e6a846e1d530f7dc5c9a640e6"
+    },
+    {
+      "path": "Build/ULTRAKILL.loader.js",
+      "bytes": 208262,
+      "sha256": "01be56ce0740824889c8eafa54df3946e3de9d84c144c59f9d7035fc9d7e369e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 98,
+      "sha256": "93d82aa0e85a584e77e8df8b7b266aa7f15c2ad2ec1fe1efd1dcb4cc0645d779"
+    },
+    {
+      "path": ".gitattributes",
+      "bytes": 20,
+      "sha256": "5482beca81a7ea24dbb0fe809c03e4969cb40b9433333315f2e2d4981fcd1b59"
+    }
+  ]
+}
