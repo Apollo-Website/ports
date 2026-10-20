@@ -1,0 +1,413 @@
+{
+  "id": "eggy-car",
+  "folder": "EggyCar",
+  "html5": true,
+  "source": "https://truffled.lol/gamefile/eggycar.html",
+  "files": [
+    {
+      "path": "c5runtime.js",
+      "bytes": 1108282,
+      "sha256": "2e1ca3097ee13345f3f9239e69442a99d0eab145a70bf1e3127c5176599beb67"
+    },
+    {
+      "path": "changaone_regular.ttf.ttf",
+      "bytes": 9379,
+      "sha256": "b620507312c5e97566a3c6cfaf99144fefc18a0da7d941401dfa0f5f58fb0368"
+    },
+    {
+      "path": "data.js",
+      "bytes": 423860,
+      "sha256": "22b120898487e76ff4fe22bccf3931bdaba42b217eb03d89fc209bb639d43ed7"
+    },
+    {
+      "path": "icon-256.png",
+      "bytes": 9379,
+      "sha256": "b620507312c5e97566a3c6cfaf99144fefc18a0da7d941401dfa0f5f58fb0368"
+    },
+    {
+      "path": "images/a_coin-sheet0.png",
+      "bytes": 33669,
+      "sha256": "7d54280e2c6e052fd5f3ec5ae185f006d7e47707af02045206fa2e712091cfd8"
+    },
+    {
+      "path": "images/a_dial_needle-sheet0.png",
+      "bytes": 539,
+      "sha256": "e73b3cc29c15107f9858aca4b33426bb42e4db4180774119e294b15bda93e5b6"
+    },
+    {
+      "path": "images/a_dial-sheet0.png",
+      "bytes": 11905,
+      "sha256": "377d360d93d4ca20f40f667182afbfbe3ede4980003786e518ee9b4a28e473a5"
+    },
+    {
+      "path": "images/a_dial-sheet1.png",
+      "bytes": 12024,
+      "sha256": "56ece2651f0fac3f2f225d0f2dd8f3dd4a5f374954d8a4e945673f42d51e5b43"
+    },
+    {
+      "path": "images/a_egg_crack-sheet0.png",
+      "bytes": 4800,
+      "sha256": "b6b968e611c0c1577d34883091578f48c6d9e43c598b8e3ac67b06c90c19461c"
+    },
+    {
+      "path": "images/a_egg_crack-sheet1.png",
+      "bytes": 4684,
+      "sha256": "7881e12715aea36abc0cee858205b0e7aa23e860d204146dfa90c58e18171272"
+    },
+    {
+      "path": "images/a_egg_outline-sheet0.png",
+      "bytes": 2404,
+      "sha256": "542194d5f3cf503a956e0e62f218107d8a4004ec67af809a55724ea761f9461e"
+    },
+    {
+      "path": "images/a_egg-sheet0.png",
+      "bytes": 5602,
+      "sha256": "07fb8e39b1c4ff2841198dae08af8be289cc2957002cde9e9cadd7e75f5e8865"
+    },
+    {
+      "path": "images/a_focus-sheet0.png",
+      "bytes": 22245,
+      "sha256": "7c03d509cdb0f81e5768c9248a5f55a944e4701ad84b4f0f52d750f498c4464f"
+    },
+    {
+      "path": "images/a_power_up-sheet0.png",
+      "bytes": 6158,
+      "sha256": "0978bce332c6fadd749b49e1f77cde1df1206d7daf8abed750e37eb1ba132f79"
+    },
+    {
+      "path": "images/a_power_up-sheet1.png",
+      "bytes": 7647,
+      "sha256": "eae258305469d792d8c43599239dd3ab3c440f5012ce74283f6f375d5a71ae40"
+    },
+    {
+      "path": "images/a_track-sheet0.png",
+      "bytes": 210395,
+      "sha256": "a0f75af3917a3dc2bf0e389127be724ea92ea0e21bf18d5bb12ade77b28004d4"
+    },
+    {
+      "path": "images/a_track-sheet1.png",
+      "bytes": 251838,
+      "sha256": "b4028aa820f7c6d2dd113d9e15e959c2159b002652f199f28a0c83dce0a2f770"
+    },
+    {
+      "path": "images/a_track-sheet2.png",
+      "bytes": 266220,
+      "sha256": "1233d60c3600873757c88704ad201ee1cc5818dd8f9852d9e3bff207ea107e62"
+    },
+    {
+      "path": "images/a_track-sheet3.png",
+      "bytes": 208604,
+      "sha256": "e58eeaeb6114ffc1253f079120e5f98e41ffa671a5bd3ed65ef612a1c4c98c79"
+    },
+    {
+      "path": "images/a_track-sheet4.png",
+      "bytes": 281708,
+      "sha256": "013fd6be81227466d70ef18a1e80efe7077b4c659308104a1816fe632b40b6b2"
+    },
+    {
+      "path": "images/a_track-sheet5.png",
+      "bytes": 133012,
+      "sha256": "93015a8c9756178ad7a3c95c93ed2c3b5a0525c04f96664275cfeec0a2a1fdaf"
+    },
+    {
+      "path": "images/bg_parrallax_back-sheet0.png",
+      "bytes": 224312,
+      "sha256": "3fdd46419b6afb8a5926dddd8625f3f550e1d939c883880ba10af08f76598e13"
+    },
+    {
+      "path": "images/bg_parrallax_front-sheet0.png",
+      "bytes": 140034,
+      "sha256": "680be44e078c63ca13bc18b488c71eb578a38e5f6dbad5379e2906d3598a45d5"
+    },
+    {
+      "path": "images/blockage-sheet0.png",
+      "bytes": 10289,
+      "sha256": "f34abf7d53ae79cf171cd7004bff3160a29c317b9ac3169d167ecd7e2317d82d"
+    },
+    {
+      "path": "images/btn_car_selection-sheet0.png",
+      "bytes": 17438,
+      "sha256": "b49b6087111d1783f1b9dcaa58807a62eb9ad2d3612e4fa20a8a660072aba261"
+    },
+    {
+      "path": "images/btn_close-sheet0.png",
+      "bytes": 7081,
+      "sha256": "af0192fb6ceea0f3c6ddc999396846b4117ced07b737d8c65e5cba724ab40d1a"
+    },
+    {
+      "path": "images/btn_continue-sheet0.png",
+      "bytes": 20366,
+      "sha256": "170f1d0912ecabf0b89d2a839da13352efb75891587079cf3089298dba88f2f9"
+    },
+    {
+      "path": "images/btn_music-sheet0.png",
+      "bytes": 22013,
+      "sha256": "f1bf7b0b5db89e21eae9848349fee679eac11aa9658d3fa021002e0ac3f873f1"
+    },
+    {
+      "path": "images/btn_play-sheet0.png",
+      "bytes": 16401,
+      "sha256": "a2b56220279471f467f8864ba907a6234fbebc6efe1904f812e18ddbf18ba47d"
+    },
+    {
+      "path": "images/btn_sound-sheet0.png",
+      "bytes": 21501,
+      "sha256": "6c2e4943f28dcb0caede36ba966a259a459d4bb6d59d79202780bcaab802858a"
+    },
+    {
+      "path": "images/car_0_tyre-sheet0.png",
+      "bytes": 1651,
+      "sha256": "1fecd868e2fba822c9bfd5fc8d07ed07d715c28066471e607b3a8ce7ff8be55b"
+    },
+    {
+      "path": "images/car_0_tyre-sheet1.png",
+      "bytes": 1196,
+      "sha256": "7c1f36eeb13cdc68facdd21e2e055fd2120ac5cbd220283941db3748453805b3"
+    },
+    {
+      "path": "images/car_0-sheet0.png",
+      "bytes": 15299,
+      "sha256": "6af8216a1d1d074e92913933a86276b022df7702ecc841335c42901a6134e08a"
+    },
+    {
+      "path": "images/car_sel_button-sheet0.png",
+      "bytes": 8190,
+      "sha256": "4f6ecac1dcee653b9d5b853ce07e93fc5ddc11430f23e5d3cc9e2335cdb87672"
+    },
+    {
+      "path": "images/car_sel_button-sheet1.png",
+      "bytes": 5315,
+      "sha256": "aa829fd82dc4b87c04a85289c8907e04bfe01554384b2c093d86f8ddc5aec62d"
+    },
+    {
+      "path": "images/car_sel_card-sheet0.png",
+      "bytes": 39904,
+      "sha256": "53f50a3789cefd5b33eabffa6126455756afb16742b916a6df77ed10270ed17f"
+    },
+    {
+      "path": "images/car_sel_card-sheet1.png",
+      "bytes": 42504,
+      "sha256": "f92d716f0bd7f175e4b5ced2a63e5c5b2b3858373ba2cc27e111cdea18f7cf3d"
+    },
+    {
+      "path": "images/car_sel_card-sheet2.png",
+      "bytes": 8627,
+      "sha256": "3d41b0a062de14996494f6ed915662a814059272b8e1d65b71824c61aa58aa74"
+    },
+    {
+      "path": "images/car_sel_frame-sheet0.png",
+      "bytes": 119642,
+      "sha256": "e701ba1990179bb1832d217589ddb08b8bba991bb0a23e12aaf3b6211bdf4465"
+    },
+    {
+      "path": "images/dotted_line.png",
+      "bytes": 112,
+      "sha256": "ff9ccc42a9738ba0b25e4ac9aac58ff28907e2b5ace8b2fcfd6ee389e1e72b07"
+    },
+    {
+      "path": "images/egg_freeze_vfx-sheet0.png",
+      "bytes": 9114,
+      "sha256": "8e22d47018276ab52b96d8bcdf909332201b618549c63c0091f3074e4f5b7e54"
+    },
+    {
+      "path": "images/ground_detector-sheet0.png",
+      "bytes": 94,
+      "sha256": "c2a6a3550e844ddc29a2c1ec4f0dfb6f917a8480275ab4733b275b24ba577618"
+    },
+    {
+      "path": "images/hud_paddle-sheet0.png",
+      "bytes": 12985,
+      "sha256": "e1111fddee792e56f4b3c8e1a10f43fb8fbc25bc0829ca69da712edd60086f9d"
+    },
+    {
+      "path": "images/hud_paddle-sheet1.png",
+      "bytes": 9734,
+      "sha256": "007453822290485b777348f5a77512477949b53e40ff2b3b6bf9c8780cb75d09"
+    },
+    {
+      "path": "images/icon_coin-sheet0.png",
+      "bytes": 7088,
+      "sha256": "343e84f075ee28cfa86efb79b5e57d10be682f532744bf16c266a16d1554644b"
+    },
+    {
+      "path": "images/icon_trophy-sheet0.png",
+      "bytes": 4043,
+      "sha256": "94bd51a401e519825b55eb234f6d56526151f30c00eed55cfaa3f328bb594ff8"
+    },
+    {
+      "path": "images/logo_tyre-sheet0.png",
+      "bytes": 1722,
+      "sha256": "368a584960a3e583051736da3b8428d7c5032bcbb78a2b116fcea3e10407ebdc"
+    },
+    {
+      "path": "images/logo-sheet0.png",
+      "bytes": 48331,
+      "sha256": "7dc717ca5efb232a083de06d102acbd0cb3218d18a7534a6125fc042b579820d"
+    },
+    {
+      "path": "images/particles.png",
+      "bytes": 512,
+      "sha256": "9663cb079f1f536e08f512583cf65ae705ab4f93db5a4f705d80b745dcae02a8"
+    },
+    {
+      "path": "images/particles2.png",
+      "bytes": 1071,
+      "sha256": "c13d35c0850cbacb247054254ae8df3ac4b0b91c9b3de8774a5e6c0d32956767"
+    },
+    {
+      "path": "images/particles3.png",
+      "bytes": 1071,
+      "sha256": "ceef00d64b4b62d2cd6fe319d5a34ecfd218ec5f48d4493ab7b2d40654a7d4f1"
+    },
+    {
+      "path": "images/particles4.png",
+      "bytes": 1696,
+      "sha256": "986acb871fb2e576ce90d572a55d249c2fd286bdeec77d58cc4c4868c455b8a1"
+    },
+    {
+      "path": "images/power_up_bar_frame-sheet0.png",
+      "bytes": 305,
+      "sha256": "9c651294f7b6d0a92bdee8b13deb23436542ab2072c260209149089d96e576c5"
+    },
+    {
+      "path": "images/power_up_bar.png",
+      "bytes": 421,
+      "sha256": "3adfb00d04e4caa90970c572c4c53a2c665139b94ea5bc078b7dd6239b2e2f09"
+    },
+    {
+      "path": "images/shaft-sheet0.png",
+      "bytes": 92,
+      "sha256": "e214377f02893e0f0b28ac1c16402278ed3cf2e4aa0181ee952569d98ed71175"
+    },
+    {
+      "path": "images/sprite2-sheet0.png",
+      "bytes": 94,
+      "sha256": "7b7783e82cf424b191d7bb0dd4860d57846fab0f10d696a086b54ef1a9b077cc"
+    },
+    {
+      "path": "images/sprite2-sheet1.png",
+      "bytes": 94,
+      "sha256": "a454e5fd6e7adb3db6a95cb420f8a399cbdb72c67fd7424675b3abfc8ee8a0e2"
+    },
+    {
+      "path": "images/sprite3-sheet0.png",
+      "bytes": 23069,
+      "sha256": "c6d95d1a47b4fe0988956dff2ae8679dd275c3743faead50ccee9c19067d985b"
+    },
+    {
+      "path": "images/spritefont.png",
+      "bytes": 29972,
+      "sha256": "0807dcd1dc772f4d1162370b1eec92ad037ac2322ff8d8927024663ff1a7cf2f"
+    },
+    {
+      "path": "images/tuto-sheet0.png",
+      "bytes": 233649,
+      "sha256": "ccf13ffa512f7b45d95eb531cca9194b2394fcca2f4fe48e163dcca165e36ee8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 830,
+      "sha256": "ac905717441f46feb9c19a0edff72dcb05c1d66c331d02274e2d76a33a8859a6"
+    },
+    {
+      "path": "jquery-2.1.1.min.js",
+      "bytes": 121098,
+      "sha256": "5f0d496f553021da46487ec28429198668d77aba59de8d5fa0364cd097631134"
+    },
+    {
+      "path": "loading-logo.png",
+      "bytes": 8721,
+      "sha256": "848ceec2476fdc0d52ced518249b25b803322c1161994ff82b135e2fac431a1e"
+    },
+    {
+      "path": "main.min.js",
+      "bytes": 321,
+      "sha256": "5e41cdfbcc32330d63ceadabb67e92dc039001d4d21fa12299fbd8755c8c1b1b"
+    },
+    {
+      "path": "media/bg music.ogg",
+      "bytes": 1787218,
+      "sha256": "ad13e8d45ee8faee98a80050871aa8d10527e7e39a688a85ec3bb25361ca3176"
+    },
+    {
+      "path": "media/chat_msg.ogg",
+      "bytes": 8952,
+      "sha256": "011d1c524b1feaa3fe402695c55c954989b47426f5a800654a8f9f00baec2828"
+    },
+    {
+      "path": "media/click_0.ogg",
+      "bytes": 5031,
+      "sha256": "d67517088eba506f90371b19694bd25aec18ecca17c6a749a0f266e2843046db"
+    },
+    {
+      "path": "media/coin_add.ogg",
+      "bytes": 6074,
+      "sha256": "80ebf945aaaafed5ed61c073063e36656dd804fa4fab8da0923c16a40da69060"
+    },
+    {
+      "path": "media/coin_hit.ogg",
+      "bytes": 6192,
+      "sha256": "d9a92d3e0dc419cd6500a0739703d29da8f2a7cc8b3f9177439c299e6e8a3655"
+    },
+    {
+      "path": "media/coin.ogg",
+      "bytes": 10150,
+      "sha256": "c4581654e2c12f186587c471b272b9b259c900dfa97e52551172fa05935305b1"
+    },
+    {
+      "path": "media/egg_broken.ogg",
+      "bytes": 14652,
+      "sha256": "87f1fabaf526edf93964da066326d95c15cbba6b5c3c436dbf9bcde325b9223a"
+    },
+    {
+      "path": "media/egg_hit_0.ogg",
+      "bytes": 7215,
+      "sha256": "68badd71009ecdb2982aaa0d525753002e87175c2b33ece84264ccf4d1af93c9"
+    },
+    {
+      "path": "media/egg_hit_1.ogg",
+      "bytes": 6730,
+      "sha256": "369b132b5a45649a044db7d13a862f0df4c14dc189e2e3a284ddc6ff9f8dfc29"
+    },
+    {
+      "path": "media/egg_hit_2.ogg",
+      "bytes": 7300,
+      "sha256": "923536b68d239ce293fccc377c1448592d1ce6ca2aafaba8c0b456cf0ec5a067"
+    },
+    {
+      "path": "media/egg_hit_3.ogg",
+      "bytes": 6907,
+      "sha256": "fa5795238997b47216123ce1008860807d2d9d99c53418cb26b51d04e392eeb0"
+    },
+    {
+      "path": "media/game_over.ogg",
+      "bytes": 26302,
+      "sha256": "07afb8a9318dad89e4e063f11aef8df2c275769a0c6647ecd040e16a472947ac"
+    },
+    {
+      "path": "media/ice.ogg",
+      "bytes": 34608,
+      "sha256": "4cb2a3ced29a6618bad8302e635911ef0e508c2057acb75932239f5414f6ef77"
+    },
+    {
+      "path": "media/not_ready.ogg",
+      "bytes": 15384,
+      "sha256": "5c94b87eddb2a6c8d64a655e2e011dcf1b116515a1e6aad69a95b73d3c368a60"
+    },
+    {
+      "path": "media/unlock.ogg",
+      "bytes": 36815,
+      "sha256": "dcc3f5ba66de20ffed7e03e1a48e0055a0e8a670a6d1f0b1bc66baa4d7aac3fb"
+    },
+    {
+      "path": "offlineClient.js",
+      "bytes": 60,
+      "sha256": "2578f4155ba5b8f48ea45de62336f2e7bfd812429e8d35a9119d10925dd9654f"
+    },
+    {
+      "path": ".gitattributes",
+      "bytes": 22,
+      "sha256": "bc3bbfd0a42e545fb02b63aa5f885b6416bc3eebcf834bd66adc4db32277f8a3"
+    }
+  ]
+}

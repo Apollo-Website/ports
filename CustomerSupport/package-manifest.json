@@ -46,6 +46,11 @@
       "path": "Build/CustomerSupport.data.part2",
       "bytes": 14639036,
       "sha256": "71d12dd17a5531f17c7588ed3d072a92cfe5e40b33c55143ba8f688f021c66ef"
+    },
+    {
+      "path": "cover.png",
+      "bytes": 316211,
+      "sha256": "30165a0ee0a117b03d7549f6b23ef7da1d480a718f63ce062d78267313ce69b4"
     }
   ],
   "changedObjects": [

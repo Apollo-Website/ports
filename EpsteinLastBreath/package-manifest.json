@@ -56,6 +56,11 @@
       "path": "Build/EpsteinLastBreath.data.part3",
       "bytes": 19842491,
       "sha256": "17950c1d641bb63335f7667729e733abbb8316ad5265404d1153c4791cdbf381"
+    },
+    {
+      "path": "cover.png",
+      "bytes": 1284751,
+      "sha256": "40673b1a1742c0b0eb7c8b535e499fe1835e768e2e70a43f3755baf36dbafa35"
     }
   ],
   "changedObjects": [

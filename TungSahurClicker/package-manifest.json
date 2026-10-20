@@ -1,0 +1,69 @@
+{
+  "id": "tung-tung-sahur-clicker",
+  "folder": "TungSahurClicker",
+  "source": "https://games.azgame.io/game/tung-sahur-clicker/25051601/",
+  "partBytes": 19922944,
+  "build": "TungSahurClicker",
+  "html5": true,
+  "dataBytes": 16235368,
+  "dataParts": 1,
+  "dataSha256": "70b2f5c647be06cd340928c1f6f7bdadbb87179090c81ac44f27f4f0508f7c98",
+  "wasmBytes": 32525931,
+  "wasmParts": 2,
+  "wasmSha256": "b8ceecd27c8031b2da789c2f9bf4ffa41fc1d673da5226a2ecf368e9bb732ea2",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 22,
+      "sha256": "bc3bbfd0a42e545fb02b63aa5f885b6416bc3eebcf834bd66adc4db32277f8a3"
+    },
+    {
+      "path": "Build/TungSahurClicker.data.part1",
+      "bytes": 16235368,
+      "sha256": "70b2f5c647be06cd340928c1f6f7bdadbb87179090c81ac44f27f4f0508f7c98"
+    },
+    {
+      "path": "Build/TungSahurClicker.framework.js",
+      "bytes": 538693,
+      "sha256": "09419aabe448612038f275478c4a8bd757f1c3a4950d84f60b3b4e7c4eef3081"
+    },
+    {
+      "path": "Build/TungSahurClicker.loader.js",
+      "bytes": 42734,
+      "sha256": "132d2acb8544b812974ff7e328499bf9b5e2d8fe71d0daeb6b75ce997e9b47f3"
+    },
+    {
+      "path": "Build/TungSahurClicker.wasm.part1",
+      "bytes": 19922944,
+      "sha256": "c895f230d61b163256464fb84be0ca047ccaa24fcccb92b2847dcdee26bed708"
+    },
+    {
+      "path": "Build/TungSahurClicker.wasm.part2",
+      "bytes": 12602987,
+      "sha256": "0c5d3115936ca8d15db91e586c8d32fa60256d09c85fe2d8da7321f9d8818092"
+    },
+    {
+      "path": "cover.png",
+      "bytes": 407402,
+      "sha256": "739c9ac38af4d75aa9fff82b0daf506230c7e9f3a0dd4fd9ad014d688d6d76e7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2527,
+      "sha256": "89c1a3d0e04bca72335e3091fde44b541cd8021dd018a699b422d0aa4a842174"
+    },
+    {
+      "path": "StreamingAssets/UnityServicesProjectConfiguration.json",
+      "bytes": 1666,
+      "sha256": "81b3e2efd877edf2954a148dd6e6fb04448db7f78d71cf3ccd411d52942c1047"
+    }
+  ],
+  "changedObjects": [
+    [
+      "globalgamemanagers",
+      1
+    ]
+  ],
+  "removedPortUI": [],
+  "unchangedObjectCount": 6924
+}

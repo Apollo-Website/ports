@@ -1,0 +1,1 @@
+window.gdsdk={getSession:async()=>({location:{parentDomain:location.hostname}}),showAd:async()=>{window.GD_OPTIONS?.onEvent?.({name:'SDK_GAME_START'})},preloadAd:async()=>{},sendEvent:async()=>{},AdType:{Rewarded:'rewarded',Interstitial:'interstitial'}};setTimeout(()=>window.GD_OPTIONS?.onEvent?.({name:'SDK_READY'}),0);

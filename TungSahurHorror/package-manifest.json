@@ -1,0 +1,74 @@
+{
+  "id": "tung-tung-sahur-horror",
+  "folder": "TungSahurHorror",
+  "source": "https://games.azgame.io/game/tung-sahur-horror/25051505/",
+  "partBytes": 19922944,
+  "build": "TungSahurHorror",
+  "html5": true,
+  "dataBytes": 44198723,
+  "dataParts": 3,
+  "dataSha256": "109eb77a92266c08f99a9645ca686a2d32b7b5befdb31cacd12fce638900f69b",
+  "wasmBytes": 32512279,
+  "wasmParts": 2,
+  "wasmSha256": "46593b3c3d36dd98ec1a6934d5572d966f175a7b2bbd92b6fe6d3c2e4c753157",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 22,
+      "sha256": "bc3bbfd0a42e545fb02b63aa5f885b6416bc3eebcf834bd66adc4db32277f8a3"
+    },
+    {
+      "path": "Build/TungSahurHorror.data.part1",
+      "bytes": 19922944,
+      "sha256": "5cdfbc42f8c69bbf5851de328326aa05819ce75e5dc93eb7c52a689312ff9dc5"
+    },
+    {
+      "path": "Build/TungSahurHorror.data.part2",
+      "bytes": 19922944,
+      "sha256": "2e433a6b69348b14de5119135b8cf8ee18532ea171a52171e75da2caf9c8a7d0"
+    },
+    {
+      "path": "Build/TungSahurHorror.data.part3",
+      "bytes": 4352835,
+      "sha256": "c0a5e03918cc3f2a2d69dfe2947bf57ba69053845bddc42004f87bf03ed69e9e"
+    },
+    {
+      "path": "Build/TungSahurHorror.framework.js",
+      "bytes": 500360,
+      "sha256": "a2bd234d206477315b0705c179b0e0be123d15067b8ae8a34b108302df828ea5"
+    },
+    {
+      "path": "Build/TungSahurHorror.loader.js",
+      "bytes": 42734,
+      "sha256": "132d2acb8544b812974ff7e328499bf9b5e2d8fe71d0daeb6b75ce997e9b47f3"
+    },
+    {
+      "path": "Build/TungSahurHorror.wasm.part1",
+      "bytes": 19922944,
+      "sha256": "2ac6e1173e4654e27344e6959a363c8200a704e3d8573ce8109acf9d1c889c0f"
+    },
+    {
+      "path": "Build/TungSahurHorror.wasm.part2",
+      "bytes": 12589335,
+      "sha256": "0e163c6f18d26fca87270625d33a0e8e5b98f66f69704cad8625cb845f0ea6d5"
+    },
+    {
+      "path": "cover.png",
+      "bytes": 641195,
+      "sha256": "c9a50a4d85fb2abbcf68361a1f03e3151ea24f876007ceb08ee2c02fe35a00b1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2520,
+      "sha256": "ff25d46c00c91ff9652828ff7dd29b40f3ad74afdbea997b0bfeba1d08c8aca9"
+    }
+  ],
+  "changedObjects": [
+    [
+      "globalgamemanagers",
+      1
+    ]
+  ],
+  "removedPortUI": [],
+  "unchangedObjectCount": 17296
+}
