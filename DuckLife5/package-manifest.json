@@ -1,0 +1,23 @@
+{
+  "id": "ducklife5",
+  "folder": "DuckLife5",
+  "player": "flash",
+  "source": "https://www.wix.games/api/legacy-asset?url=https%3A%2F%2Fgames.wixgames.co.uk%2Fgames%2Fducklifetreasurehunt%2Fswf%2Fgame.swf",
+  "files": [
+    {
+      "path": "cover.png",
+      "bytes": 74692,
+      "sha256": "99e5e11dfa1ac98e273795b7ccc313f1d10c1e4232ec7e81893cb36d392e100b"
+    },
+    {
+      "path": "game.swf",
+      "bytes": 15937162,
+      "sha256": "7a16776c7ca3a58cd00393ae5a2c301ff4ada2184a24749c2fe8f71159ba8f3d"
+    },
+    {
+      "path": ".gitattributes",
+      "bytes": 22,
+      "sha256": "bc3bbfd0a42e545fb02b63aa5f885b6416bc3eebcf834bd66adc4db32277f8a3"
+    }
+  ]
+}

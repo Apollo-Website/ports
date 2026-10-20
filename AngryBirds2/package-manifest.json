@@ -1,0 +1,350 @@
+{
+  "id": "angry-birds-2",
+  "folder": "AngryBirds2",
+  "engine": "legacy-unity",
+  "source": "https://truffled.lol/games/angrybirds2/Build/",
+  "partBytes": 19922944,
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 22,
+      "sha256": "bc3bbfd0a42e545fb02b63aa5f885b6416bc3eebcf834bd66adc4db32277f8a3"
+    },
+    {
+      "path": "Build/game.data.part1",
+      "bytes": 19922944,
+      "sha256": "67440e66eb78e575acfa070f5d0efb4b5a043ef6affe40151cc73206d351dea7"
+    },
+    {
+      "path": "Build/game.data.part2",
+      "bytes": 19922944,
+      "sha256": "7a095b027e24c4ec201fc8c7124a022ada04c4f57828a4ff359b769a781c025c"
+    },
+    {
+      "path": "Build/game.data.part3",
+      "bytes": 19922944,
+      "sha256": "7780a2a214bb88ad3fcba02e0f1be89f0cd6da77fa5b36e2d78c2549c55d02ea"
+    },
+    {
+      "path": "Build/game.data.part4",
+      "bytes": 19922944,
+      "sha256": "ef897eb68c92fb16637be2ce4b3624c95b30b4a1b2eee81948329586b6244db3"
+    },
+    {
+      "path": "Build/game.data.part5",
+      "bytes": 19922944,
+      "sha256": "fce0563c370d3b790a1eabc73d0301e4712bd66d70b62ac15547a29171a86f20"
+    },
+    {
+      "path": "Build/game.data.part6",
+      "bytes": 19922944,
+      "sha256": "314ac2efe499e33747567dcbe424b05d6cd58e3b6c0c3c568d676ef126ef3d72"
+    },
+    {
+      "path": "Build/game.data.part7",
+      "bytes": 14425128,
+      "sha256": "35a1b1a80460058d5db71ad670f3ea6459c8c71618a1a8bd8a40888dedb584e5"
+    },
+    {
+      "path": "Build/game.framework.js",
+      "bytes": 537233,
+      "sha256": "bd351a78ae1749c4c9eea69704f95cd65afc3be995992fe6cb1426da2b34ce93"
+    },
+    {
+      "path": "Build/game.json",
+      "bytes": 366,
+      "sha256": "6d3b0f2ad4aec82c0a54485fa7aa3d766a071a6552606d4c9e139d84759d8d48"
+    },
+    {
+      "path": "Build/game.wasm",
+      "bytes": 24919065,
+      "sha256": "d89ce1e264827d35e5f4bd84f8e937e5c38d1693d021e8785536d0067f54caea"
+    },
+    {
+      "path": "cover.png",
+      "bytes": 954409,
+      "sha256": "f7fa270197901f37b20a13265c8a446906115c87c9b95f25bd91309a91bc2692"
+    },
+    {
+      "path": "streaming-fix.js",
+      "bytes": 27449,
+      "sha256": "584b6396a3e054b91ce5857e9851edfc262456b0066c1820a3b0ee2274c7c058"
+    },
+    {
+      "path": "UnityLoader.js",
+      "bytes": 157128,
+      "sha256": "09cf226e3d59b235f51dceec11eccd0cab4e415a132af33a2eaa3e5354deddd9"
+    }
+  ],
+  "resources": [
+    {
+      "path": "Build/game.data",
+      "bytes": 133962792,
+      "parts": 7
+    },
+    {
+      "path": "Build/game.wasm",
+      "bytes": 24919065
+    },
+    {
+      "path": "Build/game.framework.js",
+      "bytes": 537233
+    },
+    {
+      "path": "UnityLoader.js",
+      "bytes": 157128
+    },
+    {
+      "path": "Build/game.json",
+      "bytes": 366
+    },
+    {
+      "path": "streaming-fix.js",
+      "bytes": 27449
+    }
+  ],
+  "dataBytes": 133962792,
+  "dataParts": 7,
+  "dataSha256": "54f783cc217a3b7acedb1379a15ec8d2487cf5b832d9ad9227344edd781ea229",
+  "changedObjects": [
+    [
+      "globalgamemanagers",
+      1
+    ],
+    [
+      "resources.assets",
+      6340
+    ],
+    [
+      "resources.assets",
+      9856
+    ],
+    [
+      "resources.assets",
+      10075
+    ],
+    [
+      "resources.assets",
+      11429
+    ],
+    [
+      "resources.assets",
+      14754
+    ],
+    [
+      "resources.assets",
+      15288
+    ],
+    [
+      "resources.assets",
+      17741
+    ],
+    [
+      "resources.assets",
+      19947
+    ],
+    [
+      "resources.assets",
+      20642
+    ],
+    [
+      "resources.assets",
+      21448
+    ],
+    [
+      "resources.assets",
+      34233
+    ],
+    [
+      "resources.assets",
+      34253
+    ],
+    [
+      "resources.assets",
+      34489
+    ],
+    [
+      "resources.assets",
+      35455
+    ],
+    [
+      "resources.assets",
+      36985
+    ],
+    [
+      "resources.assets",
+      108784
+    ],
+    [
+      "resources.assets",
+      108829
+    ],
+    [
+      "resources.assets",
+      108901
+    ],
+    [
+      "resources.assets",
+      109010
+    ],
+    [
+      "resources.assets",
+      110023
+    ],
+    [
+      "resources.assets",
+      115621
+    ],
+    [
+      "resources.assets",
+      115990
+    ],
+    [
+      "resources.assets",
+      116575
+    ],
+    [
+      "resources.assets",
+      120054
+    ],
+    [
+      "resources.assets",
+      120399
+    ],
+    [
+      "resources.assets",
+      122379
+    ],
+    [
+      "resources.assets",
+      122587
+    ],
+    [
+      "resources.assets",
+      123032
+    ],
+    [
+      "resources.assets",
+      124496
+    ],
+    [
+      "resources.assets",
+      124604
+    ],
+    [
+      "resources.assets",
+      124799
+    ],
+    [
+      "resources.assets",
+      125413
+    ],
+    [
+      "resources.assets",
+      125649
+    ],
+    [
+      "resources.assets",
+      125677
+    ],
+    [
+      "resources.assets",
+      127379
+    ],
+    [
+      "resources.assets",
+      128357
+    ],
+    [
+      "resources.assets",
+      129694
+    ],
+    [
+      "resources.assets",
+      130374
+    ],
+    [
+      "resources.assets",
+      131384
+    ],
+    [
+      "resources.assets",
+      132554
+    ],
+    [
+      "resources.assets",
+      136584
+    ],
+    [
+      "resources.assets",
+      137700
+    ],
+    [
+      "resources.assets",
+      139371
+    ],
+    [
+      "resources.assets",
+      142324
+    ],
+    [
+      "resources.assets",
+      142918
+    ],
+    [
+      "resources.assets",
+      143211
+    ],
+    [
+      "resources.assets",
+      144240
+    ],
+    [
+      "resources.assets",
+      145396
+    ],
+    [
+      "resources.assets",
+      145801
+    ],
+    [
+      "resources.assets",
+      147120
+    ]
+  ],
+  "removedPortUI": [],
+  "unchangedObjectCount": 515854,
+  "runtimePatch": {
+    "sourceSha256": "277467715a849b43487bc5cf69d2db60b66cd7427d028f1cbba650a775f16c9e",
+    "patched": [
+      {
+        "index": 30296,
+        "sourceSha256": "819674f541208b02064237fa82d2db5c161bf81502336eb869ee2d736732de45",
+        "methods": [
+          "MainMenuPortCredit$$Bootstrap"
+        ]
+      },
+      {
+        "index": 30305,
+        "sourceSha256": "7fab9fed3818877a291507561a06180cec78bd882bbc2d6b95b41042f44b2567",
+        "methods": [
+          "MainMenuPortCredit$$OnGUI"
+        ]
+      },
+      {
+        "index": 30306,
+        "sourceSha256": "10c04be19d619dbd6ec093b615349a527d53b85df4e9da0a0522a97e6664e29c",
+        "methods": [
+          "MainMenuPortCredit$$OpenLink"
+        ]
+      },
+      {
+        "index": 49328,
+        "sourceSha256": "266206ff69d20d4afb3d342192c12c22056238765aa22fafabc02c5daa69c085",
+        "methods": [
+          "UnityEngine.Application$$OpenURL"
+        ]
+      }
+    ]
+  }
+}

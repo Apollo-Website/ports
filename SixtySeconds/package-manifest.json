@@ -1,0 +1,94 @@
+{
+  "id": "60-seconds",
+  "folder": "SixtySeconds",
+  "source": "https://raw.githubusercontent.com/usheje883-maker/60-Seconds-Webport/4a1ebbeb5d93e269e12530cd6f56fae314cea8f0/",
+  "partBytes": 19922944,
+  "build": "SixtySeconds",
+  "html5": false,
+  "dataBytes": 148622916,
+  "dataParts": 8,
+  "dataSha256": "141c1c0660d57c4ff9454a20eabd7b72bd28e590115b022e20aded0f62b4d697",
+  "wasmBytes": 52134612,
+  "wasmParts": 3,
+  "wasmSha256": "b7ae6d19a4b47dd657998b31aba984b8ed4ee680273e99e83b895b0d19f19250",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 22,
+      "sha256": "bc3bbfd0a42e545fb02b63aa5f885b6416bc3eebcf834bd66adc4db32277f8a3"
+    },
+    {
+      "path": "Build/SixtySeconds.data.part1",
+      "bytes": 19922944,
+      "sha256": "47c250970c6feaaac23340d46c7e9ee5b0155aa4eae60f99a27993ff08ff5e24"
+    },
+    {
+      "path": "Build/SixtySeconds.data.part2",
+      "bytes": 19922944,
+      "sha256": "afa911b04f5a17a8d704e3f18d275ea04582549fa5af72e6e7ffe03db7eeac58"
+    },
+    {
+      "path": "Build/SixtySeconds.data.part3",
+      "bytes": 19922944,
+      "sha256": "fbdaf173f8fae7c3bd16cd61830c47e5f5ed18a32bf0e177858d5426baa20eb4"
+    },
+    {
+      "path": "Build/SixtySeconds.data.part4",
+      "bytes": 19922944,
+      "sha256": "870a5adf30fc8bd24206a86d97bd7e78476125bbfc53c76bad7c71a5ba236d9d"
+    },
+    {
+      "path": "Build/SixtySeconds.data.part5",
+      "bytes": 19922944,
+      "sha256": "0def5048bd47586fdbd39152d33cc9db99dd04705b012761bee9227bda036def"
+    },
+    {
+      "path": "Build/SixtySeconds.data.part6",
+      "bytes": 19922944,
+      "sha256": "d93d47d7cf103d3668501506069cd8bb5ee4dbf97cc40607f47181ac2623b33f"
+    },
+    {
+      "path": "Build/SixtySeconds.data.part7",
+      "bytes": 19922944,
+      "sha256": "a169a1cf7e645a9d319993952ed6ac17147fcbcb2c3dbf17ce8a89eeb5106f6b"
+    },
+    {
+      "path": "Build/SixtySeconds.data.part8",
+      "bytes": 9162308,
+      "sha256": "18da90ef70563803789c75c39af602e93c7cd388fdebcfa72d433afe72f4a33c"
+    },
+    {
+      "path": "Build/SixtySeconds.framework.js",
+      "bytes": 876941,
+      "sha256": "fc5e018fa7b78ad696bcfb060666a18d91e327862e3a070080baa6148bba097c"
+    },
+    {
+      "path": "Build/SixtySeconds.loader.js",
+      "bytes": 104712,
+      "sha256": "4114ee3ce3f0102783669405fc67b20ad1a58defe9c2d6fa264baeb8d55234fd"
+    },
+    {
+      "path": "Build/SixtySeconds.wasm.part1",
+      "bytes": 19922944,
+      "sha256": "f96d39d68f44d82441a71d8f4bb413f42ca9ca9d84aff52988fb0cd0910be21f"
+    },
+    {
+      "path": "Build/SixtySeconds.wasm.part2",
+      "bytes": 19922944,
+      "sha256": "243a48064ce3ac7bb9c274d03b22bdd4d20c15a2876ea52bedf5913425bea13c"
+    },
+    {
+      "path": "Build/SixtySeconds.wasm.part3",
+      "bytes": 12288724,
+      "sha256": "0ca7c178f99b8ff19f69233b4388f585cc76b7063286368a190670ca9a0b449b"
+    }
+  ],
+  "changedObjects": [
+    [
+      "globalgamemanagers",
+      1
+    ]
+  ],
+  "removedPortUI": [],
+  "unchangedObjectCount": 179063
+}

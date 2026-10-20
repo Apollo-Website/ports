@@ -1,0 +1,129 @@
+{
+  "id": "ducklife6",
+  "folder": "DuckLife6",
+  "engine": "legacy-unity",
+  "source": "https://raw.githubusercontent.com/bubbls/UGS-Assets/9cf433220236bb0471ab3a68ec8fe3e0a2799e36/duck%20life%206/Build/",
+  "partBytes": 19922944,
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 22,
+      "sha256": "bc3bbfd0a42e545fb02b63aa5f885b6416bc3eebcf834bd66adc4db32277f8a3"
+    },
+    {
+      "path": "Build/game.asm.js.part1",
+      "bytes": 19922944,
+      "sha256": "e57b49caeffe6d6f08fda504c5369999a1f769dc23028373ea5ecb1de9c8cf92"
+    },
+    {
+      "path": "Build/game.asm.js.part2",
+      "bytes": 12648021,
+      "sha256": "cdc3b105af69908d2e205b07a9e8a7b50441a84c03f663e979147bc8f52c3713"
+    },
+    {
+      "path": "Build/game.data.part1",
+      "bytes": 19922944,
+      "sha256": "8fb8be9be6479268c454d5535649f9eb9ef910598b1fe7b67a13b69e1d5f2d61"
+    },
+    {
+      "path": "Build/game.data.part2",
+      "bytes": 19922944,
+      "sha256": "bc9d2227efcafa3dda43b23666e90609609b16a042f6a6f924445969ca2f72bf"
+    },
+    {
+      "path": "Build/game.data.part3",
+      "bytes": 19922944,
+      "sha256": "37cf9617798b87430d4621c9679e176868f5225609ed19f7168b71bab39f0fce"
+    },
+    {
+      "path": "Build/game.data.part4",
+      "bytes": 3242019,
+      "sha256": "5ec4f57102e4164c8a525c0d7bed8855c46917c8ac7d824709e6f35560ba29a9"
+    },
+    {
+      "path": "Build/game.framework.js",
+      "bytes": 465361,
+      "sha256": "ac0a8541af168a2400635a84d03db4e7307939e450d2fca383618e837fe6ef95"
+    },
+    {
+      "path": "Build/game.json",
+      "bytes": 395,
+      "sha256": "6f42a79577f69177e8f077a9116c86eccd9acc39468687fa9c5f32c9414dcee0"
+    },
+    {
+      "path": "Build/game.mem",
+      "bytes": 1870715,
+      "sha256": "47d8de0c1e31719a1612db306533fa5f30aba09435ca40f005fc0f0d93b3e05a"
+    },
+    {
+      "path": "cover.png",
+      "bytes": 296654,
+      "sha256": "9a93a89f59c05afdd5439b85867d05b310d1f43e85b65e32f4e8801b63d8042b"
+    },
+    {
+      "path": "UnityLoader.js",
+      "bytes": 203947,
+      "sha256": "9ae739d89e3e7f2f4342b4257e10e2f4b9d0d092a378c94aac55bd10a5de160c"
+    }
+  ],
+  "resources": [
+    {
+      "path": "Build/game.data",
+      "bytes": 63010851,
+      "parts": 4
+    },
+    {
+      "path": "Build/game.asm.js",
+      "bytes": 32570965,
+      "parts": 2
+    },
+    {
+      "path": "Build/game.mem",
+      "bytes": 1870715
+    },
+    {
+      "path": "Build/game.framework.js",
+      "bytes": 465361
+    },
+    {
+      "path": "UnityLoader.js",
+      "bytes": 203947
+    },
+    {
+      "path": "Build/game.json",
+      "bytes": 395
+    }
+  ],
+  "dataBytes": 63010851,
+  "dataParts": 4,
+  "dataSha256": "61e88991aeab4750a64b3cdc4f99108b28270adc51b8a8ec13b4ac6bedead6cc",
+  "changedObjects": [
+    [
+      "globalgamemanagers",
+      1
+    ],
+    [
+      "level93",
+      10
+    ],
+    [
+      "level93",
+      47
+    ]
+  ],
+  "removedPortUI": [
+    {
+      "file": "level93",
+      "id": 181,
+      "owner": "B iOS",
+      "navigation": true
+    },
+    {
+      "file": "level93",
+      "id": 216,
+      "owner": "B Android",
+      "navigation": true
+    }
+  ],
+  "unchangedObjectCount": 40042
+}
