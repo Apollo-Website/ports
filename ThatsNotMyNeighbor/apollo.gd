@@ -27,7 +27,7 @@ func _inspect(node):
 	if node is Control:
 		content += " " + node.tooltip_text.to_lower()
 	if node is Button or node is Label or node is RichTextLabel:
-		content += " " + node.text.to_lower()
+		content += " " + node.text.to_lower() + " " + node.tr(node.text).to_lower()
 	if node is LinkButton:
 		content += " " + node.uri.to_lower()
 	var texture = null
@@ -39,6 +39,8 @@ func _inspect(node):
 		content += " " + texture.resource_path.to_lower()
 	for term in ["port by", "ported by", "port made by", "viet guy", "ricefarmer", "stratus", "truffled", "discord", "github", "website", "itch.io", "https://", "http://"]:
 		if term in content:
+			if "viet guy" in content or "ricefarmer" in content:
+				JavaScriptBridge.eval("window.__APOLLO_CREDIT_REMOVED__=true")
 			node.hide()
 			node.process_mode = Node.PROCESS_MODE_DISABLED
 			return

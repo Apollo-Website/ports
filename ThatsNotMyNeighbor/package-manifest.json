@@ -18,8 +18,8 @@
     },
     {
       "path": "apollo.gd",
-      "bytes": 1238,
-      "sha256": "c9d599def7e427055d4ed4c3ee8335adf346b757fd9283389c5aef04ed64b12c"
+      "bytes": 1399,
+      "sha256": "b635107a19e690f85ab470918fab36e4d85cb43d40a2fe7b72616952e92087cc"
     },
     {
       "path": "thats-not-my-neighbor-2.0.4.audio.worklet.js",
@@ -34,7 +34,7 @@
     {
       "path": "thats-not-my-neighbor-2.0.4.pck.part1",
       "bytes": 19922944,
-      "sha256": "264e23691dd784c649518382cfeb145e8ef53e24d3bec098010c13ddbb7f4736"
+      "sha256": "86f49314011551379b59ae3cdc32c540d09233900635a0700f2183a8e6632f62"
     },
     {
       "path": "thats-not-my-neighbor-2.0.4.pck.part2",
@@ -103,8 +103,8 @@
     },
     {
       "path": "thats-not-my-neighbor-2.0.4.pck.part15",
-      "bytes": 16704438,
-      "sha256": "c39257373e118437b9b5d330a04e403586c64ad6dbabba8facd6e796832ee9e3"
+      "bytes": 16704599,
+      "sha256": "f58cecc78b574c1d165268d0ee8510771c62a4cfb6fee37fd9792108755762fc"
     },
     {
       "path": "thats-not-my-neighbor-2.0.4.wasm.part1",
@@ -125,7 +125,7 @@
   "resources": [
     {
       "path": "thats-not-my-neighbor-2.0.4.pck",
-      "bytes": 295625654,
+      "bytes": 295625815,
       "parts": 15
     },
     {
@@ -143,7 +143,7 @@
     },
     {
       "path": "apollo.gd",
-      "bytes": 1238
+      "bytes": 1399
     },
     {
       "path": "apollo-directories.json",
