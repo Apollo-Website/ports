@@ -15,8 +15,8 @@
     },
     {
       "path": "apollo.gd",
-      "bytes": 944,
-      "sha256": "89e2a3891743cc7934f1d6a6fb9a9a48fda395d0ddaf762814a2aefb3d956549"
+      "bytes": 1196,
+      "sha256": "354cc5e2a95d3b4636b46ef9236a8e59ba3dbe230f781a25f6c65bd8d1287ab2"
     },
     {
       "path": "GlitchesBuckshot-W-MPsupport.audio.position.worklet.js",
@@ -36,7 +36,7 @@
     {
       "path": "GlitchesBuckshot-W-MPsupport.pck.part1",
       "bytes": 19922944,
-      "sha256": "3aa16667a4b2b224b677c934f42e2fe3501a3ec778c72f737e855b97ddefceb6"
+      "sha256": "3551c43d658a3d3c32118dcc664921d57406d32ebb088731c6a9cc61faaa2be1"
     },
     {
       "path": "GlitchesBuckshot-W-MPsupport.pck.part2",
@@ -215,8 +215,8 @@
     },
     {
       "path": "GlitchesBuckshot-W-MPsupport.pck.part37",
-      "bytes": 7928680,
-      "sha256": "63d45d0f1d37afd8f1a8d458fca6c998e7dca240fee138518c80c686541ae3a4"
+      "bytes": 7929980,
+      "sha256": "cdaff36a7fa19a8e346a5ffe752881acd950865937305d672c16f37af160e889"
     },
     {
       "path": "GlitchesBuckshot-W-MPsupport.wasm.part1",
@@ -244,11 +244,11 @@
     },
     {
       "path": "apollo.gd",
-      "bytes": 944
+      "bytes": 1196
     },
     {
       "path": "GlitchesBuckshot-W-MPsupport.pck",
-      "bytes": 725154664,
+      "bytes": 725155964,
       "parts": 37
     },
     {
@@ -256,5 +256,6 @@
       "bytes": 39513091,
       "parts": 2
     }
-  ]
+  ],
+  "cleanupAutoload": true
 }

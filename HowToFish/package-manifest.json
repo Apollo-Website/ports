@@ -13,39 +13,9 @@
   "wasmSha256": "565c7225eec7c23b8158962fb166669fab566e6fe50e1ebda5d6ea6d0e61ec80",
   "files": [
     {
-      "path": "Build/HowToFish.loader.js",
-      "bytes": 27222,
-      "sha256": "093451e6f3d5a817a2ca68d1f8718cef6147dd35d71ad8f8cadb5d6ff3974816"
-    },
-    {
-      "path": "Build/HowToFish.framework.js",
-      "bytes": 354118,
-      "sha256": "6103cdc74d9bada9e9ecb5f6a9ac0a8e8edfcba80cd648213bb110a35e66bf29"
-    },
-    {
       "path": ".gitattributes",
       "bytes": 22,
       "sha256": "bc3bbfd0a42e545fb02b63aa5f885b6416bc3eebcf834bd66adc4db32277f8a3"
-    },
-    {
-      "path": "Build/HowToFish.wasm.part1",
-      "bytes": 19922944,
-      "sha256": "46649e34ceb3c43ea4232c38d5dfc00f20806af53c7bf65f4ffe885fb266b906"
-    },
-    {
-      "path": "Build/HowToFish.wasm.part2",
-      "bytes": 19922944,
-      "sha256": "d2e34f2fb3301e867f9f391b4fa93368a39fa905651a47636bd9298d5828b47b"
-    },
-    {
-      "path": "Build/HowToFish.wasm.part3",
-      "bytes": 19922944,
-      "sha256": "6a46c345371921ec98d4e8a0803257a79c01d6ff5aef26c28bd18eb94ef97f23"
-    },
-    {
-      "path": "Build/HowToFish.wasm.part4",
-      "bytes": 4279314,
-      "sha256": "232e2e4591888e6e79aa3420a0ae03a19566c91e0b18930bdf2a0d5e9941d9b9"
     },
     {
       "path": "Build/HowToFish.data.part1",
@@ -81,6 +51,41 @@
       "path": "Build/HowToFish.data.part7",
       "bytes": 6888096,
       "sha256": "cbd1cff64b3b0ca810197560792ef1da04648fc5503b580d36619bb62f3a48d8"
+    },
+    {
+      "path": "Build/HowToFish.framework.js",
+      "bytes": 354118,
+      "sha256": "6103cdc74d9bada9e9ecb5f6a9ac0a8e8edfcba80cd648213bb110a35e66bf29"
+    },
+    {
+      "path": "Build/HowToFish.loader.js",
+      "bytes": 27222,
+      "sha256": "093451e6f3d5a817a2ca68d1f8718cef6147dd35d71ad8f8cadb5d6ff3974816"
+    },
+    {
+      "path": "Build/HowToFish.wasm.part1",
+      "bytes": 19922944,
+      "sha256": "46649e34ceb3c43ea4232c38d5dfc00f20806af53c7bf65f4ffe885fb266b906"
+    },
+    {
+      "path": "Build/HowToFish.wasm.part2",
+      "bytes": 19922944,
+      "sha256": "d2e34f2fb3301e867f9f391b4fa93368a39fa905651a47636bd9298d5828b47b"
+    },
+    {
+      "path": "Build/HowToFish.wasm.part3",
+      "bytes": 19922944,
+      "sha256": "6a46c345371921ec98d4e8a0803257a79c01d6ff5aef26c28bd18eb94ef97f23"
+    },
+    {
+      "path": "Build/HowToFish.wasm.part4",
+      "bytes": 4279314,
+      "sha256": "232e2e4591888e6e79aa3420a0ae03a19566c91e0b18930bdf2a0d5e9941d9b9"
+    },
+    {
+      "path": "cover.png",
+      "bytes": 489874,
+      "sha256": "26db4105ed643a35e64fb80b17fb577431db1ccf6d161cbd7cfee2c5696e092d"
     }
   ],
   "changedObjects": [
