@@ -1,0 +1,187 @@
+{
+  "id": "lethal-company",
+  "folder": "LethalCompany",
+  "source": "https://truffled.lol/games/lethal/",
+  "partBytes": 19922944,
+  "build": "LethalCompany",
+  "html5": false,
+  "dataBytes": 347463615,
+  "dataParts": 18,
+  "dataSha256": "8181ee9060f696a04612a6ea46213db87c0a04181bc916478abec806db346fb5",
+  "wasmBytes": 89359091,
+  "wasmParts": 5,
+  "wasmSha256": "f35f4aec25f3cb00ea48c55e578faef0e0fdc82ff557f4785e6e69128c593a99",
+  "files": [
+    {
+      "path": "Build/LethalCompany.wasm.part1",
+      "bytes": 19922944,
+      "sha256": "92e572ec39c288d9e7bae14f622324b744c86c5dbb8676e1d14985f0704fcc6a"
+    },
+    {
+      "path": "Build/LethalCompany.wasm.part2",
+      "bytes": 19922944,
+      "sha256": "7fde66894ab513c551717adfec572777a3cceeadffd75c56168c77029ac52dda"
+    },
+    {
+      "path": "Build/LethalCompany.wasm.part3",
+      "bytes": 19922944,
+      "sha256": "fb8e095a17cfd0edf8f7aff044917fac43e613ee624ef397f66a566f959cdf04"
+    },
+    {
+      "path": "Build/LethalCompany.wasm.part4",
+      "bytes": 19922944,
+      "sha256": "cf246ca4b95f30658df690f6e821aad0ca33d759bee9148c313bffe55c9aacdb"
+    },
+    {
+      "path": "Build/LethalCompany.wasm.part5",
+      "bytes": 9667315,
+      "sha256": "5f14901fe85a8c1a388d0ce8c36892dee24864d18ee9ca8264c91e1b957f2cb7"
+    },
+    {
+      "path": "Build/LethalCompany.loader.js",
+      "bytes": 20680,
+      "sha256": "ccdcff569aba2ca1631a5aa41bb47c9b5861596b94fcadb01e826bda937561ae"
+    },
+    {
+      "path": "Build/LethalCompany.framework.js",
+      "bytes": 498341,
+      "sha256": "c7904ec90cff2c6bfe188afad5d3ab722b4daeb2fc043ca2ab89a82f7531cf1a"
+    },
+    {
+      "path": ".gitattributes",
+      "bytes": 22,
+      "sha256": "bc3bbfd0a42e545fb02b63aa5f885b6416bc3eebcf834bd66adc4db32277f8a3"
+    },
+    {
+      "path": "Build/LethalCompany.data.part1",
+      "bytes": 19922944,
+      "sha256": "607f54e14f44fd218d42cfef660d06c025b18f1c73cfc78ca203a75d3a5f66a2"
+    },
+    {
+      "path": "Build/LethalCompany.data.part2",
+      "bytes": 19922944,
+      "sha256": "8ea12253aa176a2368c3865dad27cf0ccf46066949d09ed1677c0cbbe8a108e0"
+    },
+    {
+      "path": "Build/LethalCompany.data.part3",
+      "bytes": 19922944,
+      "sha256": "d9d87c63a0b3c19b195537a854c8ad2a525b78c0f9bf87a3a73e4a0719902407"
+    },
+    {
+      "path": "Build/LethalCompany.data.part4",
+      "bytes": 19922944,
+      "sha256": "751993011caf3cf901f77fa2ef0b4f55b6eddb937eca8704b66c01462473f56c"
+    },
+    {
+      "path": "Build/LethalCompany.data.part5",
+      "bytes": 19922944,
+      "sha256": "237e2f57b253557f825d7ce9a1773d9eb2b168aa2bacf643ca6cc4e75c0068ce"
+    },
+    {
+      "path": "Build/LethalCompany.data.part6",
+      "bytes": 19922944,
+      "sha256": "40648256fcd8a43262dffb3d68c3561ff613a2d9e2bb6e13bd29d27aeafe4171"
+    },
+    {
+      "path": "Build/LethalCompany.data.part7",
+      "bytes": 19922944,
+      "sha256": "7fca7c414f61b5cb58567fabb919eeba7877c47d11fe437a62a9200bb6e7bb3b"
+    },
+    {
+      "path": "Build/LethalCompany.data.part8",
+      "bytes": 19922944,
+      "sha256": "8203274ba34eabfea1324c6138bae35e05eba641f3b3521a0b83ef52b68b05ad"
+    },
+    {
+      "path": "Build/LethalCompany.data.part9",
+      "bytes": 19922944,
+      "sha256": "c46208eb065d64b7b28e1bcb919d285ea2cc5c5e06f52fa6c73efb1b68f45e8f"
+    },
+    {
+      "path": "Build/LethalCompany.data.part10",
+      "bytes": 19922944,
+      "sha256": "95799478d084353889f74aad481c05b08de25cb987c8f8e3da450f257f7cc90f"
+    },
+    {
+      "path": "Build/LethalCompany.data.part11",
+      "bytes": 19922944,
+      "sha256": "c96d5e0571741aed541493a3c9437eeebeba7ffde20737d9e26d77bb1e6a7a95"
+    },
+    {
+      "path": "Build/LethalCompany.data.part12",
+      "bytes": 19922944,
+      "sha256": "4b1499b1f64c2e7a13ef7f59b024394c5de8e8e54cec25373889aecbfb8b2bff"
+    },
+    {
+      "path": "Build/LethalCompany.data.part13",
+      "bytes": 19922944,
+      "sha256": "a9c44000e6a79b986409ba3f64b9ff903113166ffe9bfdccb50d8159fbf21d63"
+    },
+    {
+      "path": "Build/LethalCompany.data.part14",
+      "bytes": 19922944,
+      "sha256": "cf98bf2fd55b4d807f8528a26dde09a35d15faf272716dc636a47e43955124ab"
+    },
+    {
+      "path": "Build/LethalCompany.data.part15",
+      "bytes": 19922944,
+      "sha256": "d458aeb74829e37a42fadadc5de32a7f53b9f560b78ee4cc770c66a5e4bae1ca"
+    },
+    {
+      "path": "Build/LethalCompany.data.part16",
+      "bytes": 19922944,
+      "sha256": "08d2283175b2427b9a42b6d3d69bdedfd9344a54efb0d2fcb97f8dcca5687bc0"
+    },
+    {
+      "path": "Build/LethalCompany.data.part17",
+      "bytes": 19922944,
+      "sha256": "55fcd885ceac4d13bfa71473401f1443d06d94cf2768e61993cd752331b91dcc"
+    },
+    {
+      "path": "Build/LethalCompany.data.part18",
+      "bytes": 8773567,
+      "sha256": "960b93c967249202e938cdc3102c98bbcb4c9f823f43532ef4815d141dead2b8"
+    }
+  ],
+  "changedObjects": [
+    [
+      "globalgamemanagers",
+      1
+    ],
+    [
+      "globalgamemanagers.assets",
+      2076
+    ],
+    [
+      "level2",
+      166
+    ],
+    [
+      "level2",
+      199
+    ],
+    [
+      "level2",
+      1366
+    ],
+    [
+      "level2",
+      1373
+    ]
+  ],
+  "removedPortUI": [
+    {
+      "file": "level2",
+      "id": 1366,
+      "owner": "CreditsText",
+      "navigation": false
+    },
+    {
+      "file": "level2",
+      "id": 1373,
+      "owner": "QuitButton",
+      "navigation": false
+    }
+  ],
+  "unchangedObjectCount": 132689
+}

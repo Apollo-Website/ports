@@ -1,0 +1,73 @@
+{
+  "id": "five-nights-at-epsteins-the-last-breath",
+  "folder": "EpsteinLastBreath",
+  "source": "https://raw.githubusercontent.com/bubbls/UGS-Assets/9cf433220236bb0471ab3a68ec8fe3e0a2799e36/last-breath-epstein/",
+  "partBytes": 19922944,
+  "build": "EpsteinLastBreath",
+  "html5": false,
+  "dataBytes": 59688379,
+  "dataParts": 3,
+  "dataSha256": "c41b590ae4a3108ce295d68a46c726d3a590211e5c8a4923ef98b591f537df4f",
+  "wasmBytes": 49603389,
+  "wasmParts": 3,
+  "wasmSha256": "8d1871d275f75b0a5abf669c5ff70c1944e3f9952de14b03600f2d4e43478b7c",
+  "files": [
+    {
+      "path": "Build/EpsteinLastBreath.wasm.part1",
+      "bytes": 19922944,
+      "sha256": "e68fc758fb8d1df0944cdf9ce777154b1896ddb42ff03fa74c1b6d8ba54f0e9f"
+    },
+    {
+      "path": "Build/EpsteinLastBreath.wasm.part2",
+      "bytes": 19922944,
+      "sha256": "f9fcb8ca1b63027e0cdf0dfb80de30505e01459b51da27328a3b437b86ffb257"
+    },
+    {
+      "path": "Build/EpsteinLastBreath.wasm.part3",
+      "bytes": 9757501,
+      "sha256": "b0eaac8595739fa44385a6f36b7f0cd545b23b1de8e928ab6eabae63b252b373"
+    },
+    {
+      "path": "Build/EpsteinLastBreath.loader.js",
+      "bytes": 34258,
+      "sha256": "951d2554f0a64d76fb7f8dc0d345a6ff9cbcddbeffa8baec00e5ae9d8c3ee09a"
+    },
+    {
+      "path": "Build/EpsteinLastBreath.framework.js",
+      "bytes": 453491,
+      "sha256": "f7e947f245da194eb596be243240b902b2878d377d94d99948813c8aad1229cd"
+    },
+    {
+      "path": ".gitattributes",
+      "bytes": 22,
+      "sha256": "bc3bbfd0a42e545fb02b63aa5f885b6416bc3eebcf834bd66adc4db32277f8a3"
+    },
+    {
+      "path": "Build/EpsteinLastBreath.data.part1",
+      "bytes": 19922944,
+      "sha256": "cd06a92ddfd6d23290fc85d653373f27e081a665473330e46ec71676a47e1c38"
+    },
+    {
+      "path": "Build/EpsteinLastBreath.data.part2",
+      "bytes": 19922944,
+      "sha256": "bc7f98d8b0b9ebdd96da1b1c58e80b21ba0ad170add0fdb2057eeee64e6f4bd8"
+    },
+    {
+      "path": "Build/EpsteinLastBreath.data.part3",
+      "bytes": 19842491,
+      "sha256": "17950c1d641bb63335f7667729e733abbb8316ad5265404d1153c4791cdbf381"
+    }
+  ],
+  "changedObjects": [
+    [
+      "globalgamemanagers",
+      1
+    ],
+    [
+      "globalgamemanagers.assets",
+      2278
+    ]
+  ],
+  "removedPortUI": [],
+  "unchangedObjectCount": 7043
+}

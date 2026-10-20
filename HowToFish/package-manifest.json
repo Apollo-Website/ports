@@ -1,0 +1,165 @@
+{
+  "id": "how-to-fish",
+  "folder": "HowToFish",
+  "source": "https://truffled.lol/games/htf/",
+  "partBytes": 19922944,
+  "build": "HowToFish",
+  "html5": false,
+  "dataBytes": 126425760,
+  "dataParts": 7,
+  "dataSha256": "8f19c41780bbd02efef0275e41e749f00d082fad742297df866eb8bbaa859e39",
+  "wasmBytes": 64048146,
+  "wasmParts": 4,
+  "wasmSha256": "565c7225eec7c23b8158962fb166669fab566e6fe50e1ebda5d6ea6d0e61ec80",
+  "files": [
+    {
+      "path": "Build/HowToFish.loader.js",
+      "bytes": 27222,
+      "sha256": "093451e6f3d5a817a2ca68d1f8718cef6147dd35d71ad8f8cadb5d6ff3974816"
+    },
+    {
+      "path": "Build/HowToFish.framework.js",
+      "bytes": 354118,
+      "sha256": "6103cdc74d9bada9e9ecb5f6a9ac0a8e8edfcba80cd648213bb110a35e66bf29"
+    },
+    {
+      "path": ".gitattributes",
+      "bytes": 22,
+      "sha256": "bc3bbfd0a42e545fb02b63aa5f885b6416bc3eebcf834bd66adc4db32277f8a3"
+    },
+    {
+      "path": "Build/HowToFish.wasm.part1",
+      "bytes": 19922944,
+      "sha256": "46649e34ceb3c43ea4232c38d5dfc00f20806af53c7bf65f4ffe885fb266b906"
+    },
+    {
+      "path": "Build/HowToFish.wasm.part2",
+      "bytes": 19922944,
+      "sha256": "d2e34f2fb3301e867f9f391b4fa93368a39fa905651a47636bd9298d5828b47b"
+    },
+    {
+      "path": "Build/HowToFish.wasm.part3",
+      "bytes": 19922944,
+      "sha256": "6a46c345371921ec98d4e8a0803257a79c01d6ff5aef26c28bd18eb94ef97f23"
+    },
+    {
+      "path": "Build/HowToFish.wasm.part4",
+      "bytes": 4279314,
+      "sha256": "232e2e4591888e6e79aa3420a0ae03a19566c91e0b18930bdf2a0d5e9941d9b9"
+    },
+    {
+      "path": "Build/HowToFish.data.part1",
+      "bytes": 19922944,
+      "sha256": "18e9383aee12e55292afe26d3a4f4311edfce3e19f4cf18e218d47dd0caa6beb"
+    },
+    {
+      "path": "Build/HowToFish.data.part2",
+      "bytes": 19922944,
+      "sha256": "b052622fedc3c75f3efe48e3253532b34cd812a1b69b633d478bc8fa212a9140"
+    },
+    {
+      "path": "Build/HowToFish.data.part3",
+      "bytes": 19922944,
+      "sha256": "59b5702174b837f7d0ac35e2fe7d25adfcecd47167624984bc17315ad58a8663"
+    },
+    {
+      "path": "Build/HowToFish.data.part4",
+      "bytes": 19922944,
+      "sha256": "f27552e91cca679b2a29a736a5bdf72e0038f770e6ac6c2acbe9fce55c59426c"
+    },
+    {
+      "path": "Build/HowToFish.data.part5",
+      "bytes": 19922944,
+      "sha256": "cd035b6ec2e2227a74b6970c83b6872ef99aacb75010f0685db2c1a5715d8823"
+    },
+    {
+      "path": "Build/HowToFish.data.part6",
+      "bytes": 19922944,
+      "sha256": "8a30bd83c0b7c54e380ed8212bb10d8fbde5cb4eab0aa3c94899dc7add3d1f3c"
+    },
+    {
+      "path": "Build/HowToFish.data.part7",
+      "bytes": 6888096,
+      "sha256": "cbd1cff64b3b0ca810197560792ef1da04648fc5503b580d36619bb62f3a48d8"
+    }
+  ],
+  "changedObjects": [
+    [
+      "globalgamemanagers",
+      1
+    ],
+    [
+      "globalgamemanagers.assets",
+      1991
+    ],
+    [
+      "level0",
+      809
+    ],
+    [
+      "level0",
+      834
+    ],
+    [
+      "level0",
+      1405
+    ],
+    [
+      "level0",
+      4668
+    ],
+    [
+      "level0",
+      4691
+    ],
+    [
+      "level0",
+      4872
+    ],
+    [
+      "level0",
+      6238
+    ],
+    [
+      "resources.assets",
+      2160
+    ],
+    [
+      "resources.assets",
+      9203
+    ]
+  ],
+  "removedPortUI": [
+    {
+      "file": "level0",
+      "id": 4668,
+      "owner": "QuitButton",
+      "navigation": false
+    },
+    {
+      "file": "level0",
+      "id": 4691,
+      "owner": "DiscordText",
+      "navigation": false
+    },
+    {
+      "file": "level0",
+      "id": 4872,
+      "owner": "CreditsButton",
+      "navigation": false
+    },
+    {
+      "file": "level0",
+      "id": 6238,
+      "owner": "QuitButton",
+      "navigation": false
+    },
+    {
+      "file": "resources.assets",
+      "id": 9203,
+      "owner": "DiscordText",
+      "navigation": false
+    }
+  ],
+  "unchangedObjectCount": 40038
+}

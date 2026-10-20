@@ -1,0 +1,151 @@
+{
+  "id": "clustertruck",
+  "folder": "Clustertruck",
+  "source": "https://truffled.lol/games/clustertruck/",
+  "partBytes": 19922944,
+  "build": "Clustertruck",
+  "html5": false,
+  "dataBytes": 103271328,
+  "dataParts": 6,
+  "dataSha256": "c7affe74bfd3cc37d8c177d0a787cd737c21a7b033fe51a9922e7aff88ba3022",
+  "wasmBytes": 84590178,
+  "wasmParts": 5,
+  "wasmSha256": "0e20d037fd69a713973f85ece9d79925a887a849d16f3e32a33a9215d1e27885",
+  "files": [
+    {
+      "path": "Build/Clustertruck.wasm.part1",
+      "bytes": 19922944,
+      "sha256": "9d7bbb3359740f1606307d34b66ef1530161ed4527035330310e475ae6c35a8f"
+    },
+    {
+      "path": "Build/Clustertruck.wasm.part2",
+      "bytes": 19922944,
+      "sha256": "c9149b3d84f55f1dfce80ce798745a6c3621c22c8391deda46f458e46491429a"
+    },
+    {
+      "path": "Build/Clustertruck.wasm.part3",
+      "bytes": 19922944,
+      "sha256": "bd4538e093419423e8f20bad1d66d6735341fcb0c4f19e69c6c1789c19bcf1f5"
+    },
+    {
+      "path": "Build/Clustertruck.wasm.part4",
+      "bytes": 19922944,
+      "sha256": "60aba983399315caedc072e092157c452d900b9b1c67035e606e94e850d4a8fa"
+    },
+    {
+      "path": "Build/Clustertruck.wasm.part5",
+      "bytes": 4898402,
+      "sha256": "ea28642b740381ca3302d62f83e7651b1e0f4802f7212a5137bf25f2003a8bfd"
+    },
+    {
+      "path": "Build/Clustertruck.loader.js",
+      "bytes": 20680,
+      "sha256": "95d413ec942c6764ee89174a13da7a4c7f80567f6a4fb43992a6e8273c3b93d2"
+    },
+    {
+      "path": "Build/Clustertruck.framework.js",
+      "bytes": 511360,
+      "sha256": "b86ec9d4b1de569e6424209ef17f77a40dc15c8dfeb8dcd990e5d9004aca2c63"
+    },
+    {
+      "path": ".gitattributes",
+      "bytes": 22,
+      "sha256": "bc3bbfd0a42e545fb02b63aa5f885b6416bc3eebcf834bd66adc4db32277f8a3"
+    },
+    {
+      "path": "Build/Clustertruck.data.part1",
+      "bytes": 19922944,
+      "sha256": "05ba1519304ad9d830239c997743a55790cfff512e7277a24138b0c5b763a11b"
+    },
+    {
+      "path": "Build/Clustertruck.data.part2",
+      "bytes": 19922944,
+      "sha256": "ff4d2b6826e15377ff6b742c95c61ad984130ea7b4cb5d6abe164bbe17deeb25"
+    },
+    {
+      "path": "Build/Clustertruck.data.part3",
+      "bytes": 19922944,
+      "sha256": "bee706ce63537e9389d72e6e55497c01d71efbcac8fa5d2aea1776475a14bea1"
+    },
+    {
+      "path": "Build/Clustertruck.data.part4",
+      "bytes": 19922944,
+      "sha256": "ab43dfc129fbe8ae5e304024c69b364cb28ecee3c6632570d09a425b640ca309"
+    },
+    {
+      "path": "Build/Clustertruck.data.part5",
+      "bytes": 19922944,
+      "sha256": "dcbe68fba4130a53187007f017e68199694056eeea9791d17a5bdd3d0b656b4e"
+    },
+    {
+      "path": "Build/Clustertruck.data.part6",
+      "bytes": 3656608,
+      "sha256": "c9d39170252efaa5f0d83af0c362f2a1ee0f1d8538933a7e31222d56eddb1512"
+    }
+  ],
+  "changedObjects": [
+    [
+      "globalgamemanagers",
+      1
+    ],
+    [
+      "globalgamemanagers.assets",
+      1932
+    ],
+    [
+      "level0",
+      2659
+    ],
+    [
+      "level0",
+      2721
+    ],
+    [
+      "level0",
+      3214
+    ],
+    [
+      "level0",
+      15323
+    ],
+    [
+      "level0",
+      15353
+    ],
+    [
+      "level0",
+      15708
+    ],
+    [
+      "level0",
+      15710
+    ]
+  ],
+  "removedPortUI": [
+    {
+      "file": "level0",
+      "id": 15323,
+      "owner": "quit",
+      "navigation": false
+    },
+    {
+      "file": "level0",
+      "id": 15353,
+      "owner": "Text",
+      "navigation": false
+    },
+    {
+      "file": "level0",
+      "id": 15708,
+      "owner": "quit",
+      "navigation": false
+    },
+    {
+      "file": "level0",
+      "id": 15710,
+      "owner": "quit (1)",
+      "navigation": false
+    }
+  ],
+  "unchangedObjectCount": 236854
+}

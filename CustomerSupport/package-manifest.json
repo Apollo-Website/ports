@@ -1,0 +1,102 @@
+{
+  "id": "customer-support",
+  "folder": "CustomerSupport",
+  "source": "https://truffled.lol/games/CustomerSupport/",
+  "partBytes": 19922944,
+  "build": "CustomerSupport",
+  "html5": false,
+  "dataBytes": 34561980,
+  "dataParts": 2,
+  "dataSha256": "9d40cf409fda85215bf2ab8ef7330ee67bbc73eeb40ea759007b0ea69a8550c0",
+  "wasmBytes": 35416905,
+  "wasmParts": 2,
+  "wasmSha256": "4e9774b706c7ee6d839e9b91367c9d98e4c8ceb444d7204641ca4fcba1f3dcdb",
+  "files": [
+    {
+      "path": "Build/CustomerSupport.wasm.part1",
+      "bytes": 19922944,
+      "sha256": "4437f64e8a86b84b4d017d1160b3159ff7111de50cbacbf960df4765a7aeeff6"
+    },
+    {
+      "path": "Build/CustomerSupport.wasm.part2",
+      "bytes": 15493961,
+      "sha256": "b721bd5fea262f38df522e0b49489370a04753d1407a9565063e3fb1c8d8542f"
+    },
+    {
+      "path": "Build/CustomerSupport.loader.js",
+      "bytes": 26416,
+      "sha256": "865f12ae35e42d988573e64ae6bb852ef08d94700c36a6f3a37284062c7e6d3e"
+    },
+    {
+      "path": "Build/CustomerSupport.framework.js",
+      "bytes": 401945,
+      "sha256": "4d15143e2130b08b66def533f4e635aea4d0d3657efb351c9b94cd298243249e"
+    },
+    {
+      "path": ".gitattributes",
+      "bytes": 22,
+      "sha256": "bc3bbfd0a42e545fb02b63aa5f885b6416bc3eebcf834bd66adc4db32277f8a3"
+    },
+    {
+      "path": "Build/CustomerSupport.data.part1",
+      "bytes": 19922944,
+      "sha256": "86fe456f8b5463217898b7502cd3d65b049d01423d20d0189a2a4d57f1bb1996"
+    },
+    {
+      "path": "Build/CustomerSupport.data.part2",
+      "bytes": 14639036,
+      "sha256": "71d12dd17a5531f17c7588ed3d072a92cfe5e40b33c55143ba8f688f021c66ef"
+    }
+  ],
+  "changedObjects": [
+    [
+      "globalgamemanagers",
+      1
+    ],
+    [
+      "globalgamemanagers.assets",
+      542
+    ],
+    [
+      "level0",
+      151
+    ],
+    [
+      "level0",
+      176
+    ],
+    [
+      "level0",
+      386
+    ],
+    [
+      "level0",
+      1499
+    ],
+    [
+      "level0",
+      1537
+    ]
+  ],
+  "removedPortUI": [
+    {
+      "file": "level0",
+      "id": 1499,
+      "owner": "Discord Link (1)",
+      "navigation": false
+    },
+    {
+      "file": "level0",
+      "id": 1520,
+      "owner": "Discord Link",
+      "navigation": true
+    },
+    {
+      "file": "level0",
+      "id": 1537,
+      "owner": "watermark",
+      "navigation": false
+    }
+  ],
+  "unchangedObjectCount": 4140
+}
