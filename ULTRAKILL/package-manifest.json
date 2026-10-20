@@ -6,11 +6,11 @@
   "build": "ULTRAKILL",
   "dataBytes": 65713569,
   "dataParts": 4,
-  "wasmBytes": 31248672,
+  "wasmBytes": 31248619,
   "wasmParts": 2,
   "sourceDataSha256": "2eaedea855f80bca8abb5f7e70849704348e4fb6ba36321a43d32c97e6e789d0",
   "dataSha256": "bd3a6d69eef59fc207b4499ab08fdbf031f753b066743fb7de7fcaecbfc7c700",
-  "wasmSha256": "3f8380c0d3db6665f95f14bbd907d60ca61573203bdb77fea0385d56df82ccc0",
+  "wasmSha256": "2b75fa6bb666ee0a27699eb1fff40f290f2b20a45b3af880af0f7e142bf2d9ba",
   "changedObjects": [
     [
       "globalgamemanagers",
@@ -40,6 +40,11 @@
   "unchangedObjectCount": 312902,
   "files": [
     {
+      "path": ".gitattributes",
+      "bytes": 22,
+      "sha256": "bc3bbfd0a42e545fb02b63aa5f885b6416bc3eebcf834bd66adc4db32277f8a3"
+    },
+    {
       "path": "Build/ULTRAKILL.data.part1",
       "bytes": 19922944,
       "sha256": "420e181b64a277bec738532c8486d2a41606663e0bc4d9e07fdabfea741481ba"
@@ -60,16 +65,6 @@
       "sha256": "bde39463ce39ede4dd52317b1a29b26f5dc62773645af38a6795449dce2166a7"
     },
     {
-      "path": "Build/ULTRAKILL.wasm.part1",
-      "bytes": 19922944,
-      "sha256": "9696146205eb25ee89e659a3e97fb32545b0bd5bfaf54bef24941e80b8dce4d4"
-    },
-    {
-      "path": "Build/ULTRAKILL.wasm.part2",
-      "bytes": 11325728,
-      "sha256": "eb48517192d53cd3d4035df745faffcad5e286dc5416044221892026d56b5721"
-    },
-    {
       "path": "Build/ULTRAKILL.framework.js",
       "bytes": 422236,
       "sha256": "107c1ff7e2e57e0a011ae03b20052b149b91d93e6a846e1d530f7dc5c9a640e6"
@@ -80,15 +75,25 @@
       "sha256": "01be56ce0740824889c8eafa54df3946e3de9d84c144c59f9d7035fc9d7e369e"
     },
     {
+      "path": "Build/ULTRAKILL.wasm.part1",
+      "bytes": 19922944,
+      "sha256": "1e92f2bc26afce15c8166f063aec994fca85a9a294aa267e05f406b39abb2dd0"
+    },
+    {
+      "path": "Build/ULTRAKILL.wasm.part2",
+      "bytes": 11325675,
+      "sha256": "9e28477c1fabcd3d053d76d4b30708404161d5752e190decbc9173e758ec2500"
+    },
+    {
       "path": "index.html",
       "bytes": 98,
       "sha256": "93d82aa0e85a584e77e8df8b7b266aa7f15c2ad2ec1fe1efd1dcb4cc0645d779"
-    },
-    {
-      "path": ".gitattributes",
-      "bytes": 20,
-      "sha256": "5482beca81a7ea24dbb0fe809c03e4969cb40b9433333315f2e2d4981fcd1b59"
     }
   ],
-  "hiddenUnityLogoSprite": 1355
+  "hiddenUnityLogoSprite": 1355,
+  "movementPatch": {
+    "heading": "camera",
+    "functionIndex": 42069,
+    "sourceSha256": "3f8380c0d3db6665f95f14bbd907d60ca61573203bdb77fea0385d56df82ccc0"
+  }
 }

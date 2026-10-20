@@ -1,0 +1,153 @@
+{
+  "id": "thats-not-my-neighbor",
+  "folder": "ThatsNotMyNeighbor",
+  "engine": "godot",
+  "build": "thats-not-my-neighbor-2.0.4",
+  "partBytes": 19922944,
+  "source": "https://github.com/linkawaken1979-alt/Thats-not-my-neighbor-itch-io-2.0.4-web-port/tree/706a9ccf86bc713936f148ca160b45d0b6d211af",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 22,
+      "sha256": "bc3bbfd0a42e545fb02b63aa5f885b6416bc3eebcf834bd66adc4db32277f8a3"
+    },
+    {
+      "path": "apollo-directories.json",
+      "bytes": 3459,
+      "sha256": "41548ee6bef82b69c25844144980ba62a8a2b038213c43fc4a474198bc8fc717"
+    },
+    {
+      "path": "apollo.gd",
+      "bytes": 944,
+      "sha256": "89e2a3891743cc7934f1d6a6fb9a9a48fda395d0ddaf762814a2aefb3d956549"
+    },
+    {
+      "path": "thats-not-my-neighbor-2.0.4.audio.worklet.js",
+      "bytes": 7298,
+      "sha256": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3"
+    },
+    {
+      "path": "thats-not-my-neighbor-2.0.4.js",
+      "bytes": 299478,
+      "sha256": "d3a2e384e2a627f6d95fda5ee9063bdf8ed2b0a2667e9d158c5bb93b64ce4628"
+    },
+    {
+      "path": "thats-not-my-neighbor-2.0.4.pck.part1",
+      "bytes": 19922944,
+      "sha256": "088771bcb44c2a0263485a97e94882c2c497e359b4383c18cd0d9bd61836e5b9"
+    },
+    {
+      "path": "thats-not-my-neighbor-2.0.4.pck.part2",
+      "bytes": 19922944,
+      "sha256": "ab76e058da91ba1c0eb34af0a58c40a087770a2f724042d884c1c0510f1806e7"
+    },
+    {
+      "path": "thats-not-my-neighbor-2.0.4.pck.part3",
+      "bytes": 19922944,
+      "sha256": "d35a0ee2753899c936a8c9ab4ead7584afb7e76ffdbd813ca02ec14e49782777"
+    },
+    {
+      "path": "thats-not-my-neighbor-2.0.4.pck.part4",
+      "bytes": 19922944,
+      "sha256": "70014fe42dc10e28ebfa987470cab8a393919894c85f9d7ca588800236976639"
+    },
+    {
+      "path": "thats-not-my-neighbor-2.0.4.pck.part5",
+      "bytes": 19922944,
+      "sha256": "bc055f321cd9f9a0c4712010e8e61a7a05066717c854083f786cb7c681370a7a"
+    },
+    {
+      "path": "thats-not-my-neighbor-2.0.4.pck.part6",
+      "bytes": 19922944,
+      "sha256": "8e236b7ff50f0a138b77b7aa261b845ac639054f4acce5f424dca692a05def23"
+    },
+    {
+      "path": "thats-not-my-neighbor-2.0.4.pck.part7",
+      "bytes": 19922944,
+      "sha256": "1477bf858faa0975afff66f62ea7ef720ba2ba78e0adcbee262e125fc66637f8"
+    },
+    {
+      "path": "thats-not-my-neighbor-2.0.4.pck.part8",
+      "bytes": 19922944,
+      "sha256": "59057a781a0748481418caa1a371807969ab4275f9abf5338b24b8d6c2a5dd4a"
+    },
+    {
+      "path": "thats-not-my-neighbor-2.0.4.pck.part9",
+      "bytes": 19922944,
+      "sha256": "ee95674b1bb930c05062b33bb4d6fc7c5f238f249dd6a734e7f5fdc26283fd16"
+    },
+    {
+      "path": "thats-not-my-neighbor-2.0.4.pck.part10",
+      "bytes": 19922944,
+      "sha256": "4d6c728031cc96332df1f5a381216ee5889ffd67a9bbd2e28fadda367cdff55a"
+    },
+    {
+      "path": "thats-not-my-neighbor-2.0.4.pck.part11",
+      "bytes": 19922944,
+      "sha256": "501a4b63640129a9d4920b3bd768ef14e0cd5a60dddbfaf8615fd917003ce801"
+    },
+    {
+      "path": "thats-not-my-neighbor-2.0.4.pck.part12",
+      "bytes": 19922944,
+      "sha256": "ba58ccd14caa51938073ad4baccc6112b7ab98abd7eb90071d741cf77ae847f6"
+    },
+    {
+      "path": "thats-not-my-neighbor-2.0.4.pck.part13",
+      "bytes": 19922944,
+      "sha256": "0fb48a90734209117466645f731d1443e015daf7b6744a06c6d042e31b6ef8b3"
+    },
+    {
+      "path": "thats-not-my-neighbor-2.0.4.pck.part14",
+      "bytes": 19922944,
+      "sha256": "c881f5d57d2dbe33163127072429db5f7ec017c85c5ab027e4b5418a9f7673c2"
+    },
+    {
+      "path": "thats-not-my-neighbor-2.0.4.pck.part15",
+      "bytes": 16630941,
+      "sha256": "6939184930014288804fe6eb0acc9443b91a630bbbc076366ef8ec73ac083235"
+    },
+    {
+      "path": "thats-not-my-neighbor-2.0.4.wasm.part1",
+      "bytes": 19922944,
+      "sha256": "f0fb376daf22c0aff6bd338d383dc9afc9af5c75309421fe4d551b00c5aba502"
+    },
+    {
+      "path": "thats-not-my-neighbor-2.0.4.wasm.part2",
+      "bytes": 19922944,
+      "sha256": "f777afe854a07e41f00c5ac0e2be67edaaac6800008e4d503af009b2c05502ef"
+    },
+    {
+      "path": "thats-not-my-neighbor-2.0.4.wasm.part3",
+      "bytes": 3171045,
+      "sha256": "92e7cf3931bbd9521002adb4bb5cf76424e5af699f89f22c02a9f9f1c662e966"
+    }
+  ],
+  "resources": [
+    {
+      "path": "thats-not-my-neighbor-2.0.4.pck",
+      "bytes": 295552157,
+      "parts": 15
+    },
+    {
+      "path": "thats-not-my-neighbor-2.0.4.wasm",
+      "bytes": 43016933,
+      "parts": 3
+    },
+    {
+      "path": "thats-not-my-neighbor-2.0.4.audio.worklet.js",
+      "bytes": 7298
+    },
+    {
+      "path": "thats-not-my-neighbor-2.0.4.js",
+      "bytes": 299478
+    },
+    {
+      "path": "apollo.gd",
+      "bytes": 944
+    },
+    {
+      "path": "apollo-directories.json",
+      "bytes": 3459
+    }
+  ]
+}

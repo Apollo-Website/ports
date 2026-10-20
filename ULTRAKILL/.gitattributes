@@ -1,1 +1,2 @@
-Build/* -text -diff
+* -text
+*.part* -diff

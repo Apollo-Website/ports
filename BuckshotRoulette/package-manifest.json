@@ -1,0 +1,260 @@
+{
+  "id": "buckshot-roulette",
+  "engine": "godot",
+  "folder": "BuckshotRoulette",
+  "build": "GlitchesBuckshot-W-MPsupport",
+  "partBytes": 19922944,
+  "source": "https://github.com/Stratus-Games/Buckshot-NEWEST-Port/tree/cfd404f4b39d1563204860a7539d228b9fa12b67",
+  "projectBytes": 36082,
+  "bootSplashDisabled": true,
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 22,
+      "sha256": "bc3bbfd0a42e545fb02b63aa5f885b6416bc3eebcf834bd66adc4db32277f8a3"
+    },
+    {
+      "path": "apollo.gd",
+      "bytes": 944,
+      "sha256": "89e2a3891743cc7934f1d6a6fb9a9a48fda395d0ddaf762814a2aefb3d956549"
+    },
+    {
+      "path": "GlitchesBuckshot-W-MPsupport.audio.position.worklet.js",
+      "bytes": 2973,
+      "sha256": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8"
+    },
+    {
+      "path": "GlitchesBuckshot-W-MPsupport.audio.worklet.js",
+      "bytes": 7298,
+      "sha256": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3"
+    },
+    {
+      "path": "GlitchesBuckshot-W-MPsupport.js",
+      "bytes": 279831,
+      "sha256": "df35d3f25e8a3bf033d75f90f738964b9da18721b4af48fe381a03d5db63c8cc"
+    },
+    {
+      "path": "GlitchesBuckshot-W-MPsupport.pck.part1",
+      "bytes": 19922944,
+      "sha256": "3aa16667a4b2b224b677c934f42e2fe3501a3ec778c72f737e855b97ddefceb6"
+    },
+    {
+      "path": "GlitchesBuckshot-W-MPsupport.pck.part2",
+      "bytes": 19922944,
+      "sha256": "2dda77239320bab5eb23b09c87a4e9968717a6d9615cef844142817f7d79ddad"
+    },
+    {
+      "path": "GlitchesBuckshot-W-MPsupport.pck.part3",
+      "bytes": 19922944,
+      "sha256": "c44d0f5a853a336487095ca96fa0710253ac8601be1666002970e6b7abfbc11e"
+    },
+    {
+      "path": "GlitchesBuckshot-W-MPsupport.pck.part4",
+      "bytes": 19922944,
+      "sha256": "84ba7941d912ae72085846004b7104e4894fcddca18500ce5dba5fa1ed38e231"
+    },
+    {
+      "path": "GlitchesBuckshot-W-MPsupport.pck.part5",
+      "bytes": 19922944,
+      "sha256": "079762a7389a7ad000ee9a9ec79cbad7116dfd048fc0341167f67b17259d8a78"
+    },
+    {
+      "path": "GlitchesBuckshot-W-MPsupport.pck.part6",
+      "bytes": 19922944,
+      "sha256": "a68fc7606dc9c2be0cf120d9d4483ccd78ac19c4632fa97338541595229f7d79"
+    },
+    {
+      "path": "GlitchesBuckshot-W-MPsupport.pck.part7",
+      "bytes": 19922944,
+      "sha256": "cd250176643594054953e16878af9b31469d0166b9287d175071e189fb30e7df"
+    },
+    {
+      "path": "GlitchesBuckshot-W-MPsupport.pck.part8",
+      "bytes": 19922944,
+      "sha256": "c35bc1140a5485a5268f6295d2b7012c574a06b86b8b13b37445486c4ebc16d6"
+    },
+    {
+      "path": "GlitchesBuckshot-W-MPsupport.pck.part9",
+      "bytes": 19922944,
+      "sha256": "f28bbb29eee63d3768ef07fe6dfa78d70b815deb7d4ce39bf59155a886af406c"
+    },
+    {
+      "path": "GlitchesBuckshot-W-MPsupport.pck.part10",
+      "bytes": 19922944,
+      "sha256": "b78a4e2ed1077fd1c44d4ec7ccd005694a87521a5a66c7961de2318a5a00a704"
+    },
+    {
+      "path": "GlitchesBuckshot-W-MPsupport.pck.part11",
+      "bytes": 19922944,
+      "sha256": "6830f91cdb82df3fdf8e529f8649515ef2cc9906b4a96458c5415b81384616cc"
+    },
+    {
+      "path": "GlitchesBuckshot-W-MPsupport.pck.part12",
+      "bytes": 19922944,
+      "sha256": "954acaf1b2b1e362f92f2139575bf4dde16dee1eaad6d51acb8bec92a32e6870"
+    },
+    {
+      "path": "GlitchesBuckshot-W-MPsupport.pck.part13",
+      "bytes": 19922944,
+      "sha256": "d366b4f0aefb0f9f79e66ba2eced7b17d9704bf2419578b9063a1d045843aef7"
+    },
+    {
+      "path": "GlitchesBuckshot-W-MPsupport.pck.part14",
+      "bytes": 19922944,
+      "sha256": "7e42ade4302da252dee745b44d680bc154e9135326aa2de89a26e4c5ccc2dcac"
+    },
+    {
+      "path": "GlitchesBuckshot-W-MPsupport.pck.part15",
+      "bytes": 19922944,
+      "sha256": "42f41fda33c497239a94bcf4258f3d90ed5ca2e0056a954e23a9d0b05689ecc1"
+    },
+    {
+      "path": "GlitchesBuckshot-W-MPsupport.pck.part16",
+      "bytes": 19922944,
+      "sha256": "919709d7cf629e688ae4b0483eab82714811be996575cd3bd9de3bc16c85e40f"
+    },
+    {
+      "path": "GlitchesBuckshot-W-MPsupport.pck.part17",
+      "bytes": 19922944,
+      "sha256": "8e9fec33a3ef7b34c733c12c5c125e93badae68f6c6f8cece880419e206dcbd9"
+    },
+    {
+      "path": "GlitchesBuckshot-W-MPsupport.pck.part18",
+      "bytes": 19922944,
+      "sha256": "3f9b85a81bdec1c19cbd4c04b3839620adf0027e0d5e25d95ad2109a192bc17d"
+    },
+    {
+      "path": "GlitchesBuckshot-W-MPsupport.pck.part19",
+      "bytes": 19922944,
+      "sha256": "6d4827dd1332066cb7925398f02f5cdfe142761cefc35aa142d09a9feeb2859f"
+    },
+    {
+      "path": "GlitchesBuckshot-W-MPsupport.pck.part20",
+      "bytes": 19922944,
+      "sha256": "e0fcee000f90aee00568fd1fafae8eb18c10af0b131e28061d316ab3d415a1a5"
+    },
+    {
+      "path": "GlitchesBuckshot-W-MPsupport.pck.part21",
+      "bytes": 19922944,
+      "sha256": "5b007bcc211dc93d988919bc4d9f25b40d9c480d554395118aea867b79b1a4b1"
+    },
+    {
+      "path": "GlitchesBuckshot-W-MPsupport.pck.part22",
+      "bytes": 19922944,
+      "sha256": "9a0e0da4611359a084c8d59cfadc26ef9d491cc7e24b46815766a312a8982f6d"
+    },
+    {
+      "path": "GlitchesBuckshot-W-MPsupport.pck.part23",
+      "bytes": 19922944,
+      "sha256": "e56164e38a7eceb98b36fe620616d8fd9ea669cbafb956da17c290eed208e232"
+    },
+    {
+      "path": "GlitchesBuckshot-W-MPsupport.pck.part24",
+      "bytes": 19922944,
+      "sha256": "0aeffee4f6b6a9f081b6e18207260e24c17eb1a7b858c278300f80011ec19e34"
+    },
+    {
+      "path": "GlitchesBuckshot-W-MPsupport.pck.part25",
+      "bytes": 19922944,
+      "sha256": "e93075cca4818572bbfaf8a568222a2a4777010da8c724ec93003f68913bdba0"
+    },
+    {
+      "path": "GlitchesBuckshot-W-MPsupport.pck.part26",
+      "bytes": 19922944,
+      "sha256": "f6ebbe77931df8eddd0e00e471f1ec3d5684056f234379a07b8a4b5c55625a80"
+    },
+    {
+      "path": "GlitchesBuckshot-W-MPsupport.pck.part27",
+      "bytes": 19922944,
+      "sha256": "a4f2dc58bc495bd40848ab7823bd95bd7ca45c705ad60bc08389995ad1ec358d"
+    },
+    {
+      "path": "GlitchesBuckshot-W-MPsupport.pck.part28",
+      "bytes": 19922944,
+      "sha256": "11aa348bf0409446f96852729cf794c345975173107ee8a61331f2b4d5708a61"
+    },
+    {
+      "path": "GlitchesBuckshot-W-MPsupport.pck.part29",
+      "bytes": 19922944,
+      "sha256": "6b9b82b2431fb855b7e40622bdbf6e86f9913025376ed4c86b937944774d03cb"
+    },
+    {
+      "path": "GlitchesBuckshot-W-MPsupport.pck.part30",
+      "bytes": 19922944,
+      "sha256": "578b1411dac1efb74fc6dfdb5992681b21689c5a4fd95aff84d297e46d33af1e"
+    },
+    {
+      "path": "GlitchesBuckshot-W-MPsupport.pck.part31",
+      "bytes": 19922944,
+      "sha256": "29fecf6d10fbbacdf3df380d82ec093487d58504bb36ee89b131cfea454f8449"
+    },
+    {
+      "path": "GlitchesBuckshot-W-MPsupport.pck.part32",
+      "bytes": 19922944,
+      "sha256": "b774a1493938736683d06db1ede8495682e5260494e8948ddae7d1a3675c2d83"
+    },
+    {
+      "path": "GlitchesBuckshot-W-MPsupport.pck.part33",
+      "bytes": 19922944,
+      "sha256": "bd22d55c2081c4ad47e98d776911f553d410d537ddb128eaeccc7e8bb0202f0c"
+    },
+    {
+      "path": "GlitchesBuckshot-W-MPsupport.pck.part34",
+      "bytes": 19922944,
+      "sha256": "5f50921f636cfc5f13d3089e6d4eede252ca67d643e946643ab22f6b742a3b2b"
+    },
+    {
+      "path": "GlitchesBuckshot-W-MPsupport.pck.part35",
+      "bytes": 19922944,
+      "sha256": "e9828a1fb81d1cb75d342f07a4ee84985ae144cf39a7d19df052ef94122f8f03"
+    },
+    {
+      "path": "GlitchesBuckshot-W-MPsupport.pck.part36",
+      "bytes": 19922944,
+      "sha256": "4fcc84537339acdfc879321579542d81aefd4bde84001ba7353b7f54715851da"
+    },
+    {
+      "path": "GlitchesBuckshot-W-MPsupport.pck.part37",
+      "bytes": 7928680,
+      "sha256": "63d45d0f1d37afd8f1a8d458fca6c998e7dca240fee138518c80c686541ae3a4"
+    },
+    {
+      "path": "GlitchesBuckshot-W-MPsupport.wasm.part1",
+      "bytes": 19922944,
+      "sha256": "e217419648b0312817c65e51a54e8392aeb260d5c270a7007b71bd2649ab1b6a"
+    },
+    {
+      "path": "GlitchesBuckshot-W-MPsupport.wasm.part2",
+      "bytes": 19590147,
+      "sha256": "8742f119f0c931662bd04399601bed6c8073d23f5161ab154fbb93e2901fb9fb"
+    }
+  ],
+  "resources": [
+    {
+      "path": "GlitchesBuckshot-W-MPsupport.js",
+      "bytes": 279831
+    },
+    {
+      "path": "GlitchesBuckshot-W-MPsupport.audio.position.worklet.js",
+      "bytes": 2973
+    },
+    {
+      "path": "GlitchesBuckshot-W-MPsupport.audio.worklet.js",
+      "bytes": 7298
+    },
+    {
+      "path": "apollo.gd",
+      "bytes": 944
+    },
+    {
+      "path": "GlitchesBuckshot-W-MPsupport.pck",
+      "bytes": 725154664,
+      "parts": 37
+    },
+    {
+      "path": "GlitchesBuckshot-W-MPsupport.wasm",
+      "bytes": 39513091,
+      "parts": 2
+    }
+  ]
+}
