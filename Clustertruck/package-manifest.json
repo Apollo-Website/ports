@@ -5,9 +5,9 @@
   "partBytes": 19922944,
   "build": "Clustertruck",
   "html5": false,
-  "dataBytes": 103270205,
+  "dataBytes": 102958115,
   "dataParts": 6,
-  "dataSha256": "70f8a148d42ca15869b59e248497911ea6434ce90376ac5e5f548e95be44846a",
+  "dataSha256": "131a4b655fa212e8ed79b72d18221f06a4816b1c164213dbe4ff342673807ba6",
   "wasmBytes": 84590178,
   "wasmParts": 5,
   "wasmSha256": "0e20d037fd69a713973f85ece9d79925a887a849d16f3e32a33a9215d1e27885",
@@ -20,32 +20,32 @@
     {
       "path": "Build/Clustertruck.data.part1",
       "bytes": 19922944,
-      "sha256": "555ca91a35e90ffdfdff5ffd68855a20351e0cd6de1457cd83449b931e1e0d92"
+      "sha256": "daa0f84f8a8b1206974da5a3c9c8a700fdf814c59243aeb135bdf3d408ab4931"
     },
     {
       "path": "Build/Clustertruck.data.part2",
       "bytes": 19922944,
-      "sha256": "3bef431425f58e1bcd3d3dcc960e9136155580209f708e61215bd59c08a2e9eb"
+      "sha256": "77e801559b45c1572021c00e02978ed4adecc7c2f351865c1d04fe43c1588122"
     },
     {
       "path": "Build/Clustertruck.data.part3",
       "bytes": 19922944,
-      "sha256": "b76ccc127e39d8fb7e0ea696934d650e83e1f34a388e4effc339ea29c2736e97"
+      "sha256": "1b243e9070017bcb4f824e913ba1f98cc302b4feee403e1802882b632c58a7de"
     },
     {
       "path": "Build/Clustertruck.data.part4",
       "bytes": 19922944,
-      "sha256": "84cbde7dc909a69696e46b004b9b63925a01175bd1c77734c68ac99cfcc77223"
+      "sha256": "d0d8b875948a0d541790025ed5d06320ea8cd98640235681783d0579b0d8a18a"
     },
     {
       "path": "Build/Clustertruck.data.part5",
       "bytes": 19922944,
-      "sha256": "3a32b566ce3a5d53b61c925505db4f3307000b64129d669b624183115c7100f0"
+      "sha256": "20cc6882d72f01aa08908f80c42375a3f572b021bddf4c51f34c74ce9dad5f8b"
     },
     {
       "path": "Build/Clustertruck.data.part6",
-      "bytes": 3655485,
-      "sha256": "15793a86a415c4310ad3354e187fd68f242800f6e3fb864000a7f428383e9d91"
+      "bytes": 3343395,
+      "sha256": "5cd3ff12beac37802ae94fa1ee202c85d1e4e349782c93d1678d092e97afbb69"
     },
     {
       "path": "Build/Clustertruck.framework.js",
@@ -151,7 +151,7 @@
   "removedLogoObjects": [
     [
       "sharedassets0.assets",
-      917
+      215
     ]
   ]
 }
