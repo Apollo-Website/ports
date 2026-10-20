@@ -39,6 +39,16 @@
       "path": "UnityLoader.js",
       "bytes": 157128,
       "sha256": "09cf226e3d59b235f51dceec11eccd0cab4e415a132af33a2eaa3e5354deddd9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 793,
+      "sha256": "fa361048c94dd0118e4b779aa6380365d62992c585598458fb998b1ea371677e"
+    },
+    {
+      "path": "apollo-html5.js",
+      "bytes": 4243,
+      "sha256": "d544bcffe0e5911f2477de6d7581d28f105151e8d167c93aa17d756e27171862"
     }
   ],
   "resources": [
@@ -133,5 +143,7 @@
     ]
   ],
   "removedPortUI": [],
-  "unchangedObjectCount": 5709
+  "unchangedObjectCount": 5709,
+  "html5": true,
+  "player": "html5"
 }
