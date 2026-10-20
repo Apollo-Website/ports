@@ -7,8 +7,8 @@
   "files": [
     {
       "path": "_framework/blazor.boot.json",
-      "bytes": 10090,
-      "sha256": "8ccc818901e46563a23fcdca33b49a5d8138976345c05c781924711fc41255b5"
+      "bytes": 10091,
+      "sha256": "8ac02c0aa8874f3834ed03579c6e6fad4a1d287bbea2080ba4603d7016733450"
     },
     {
       "path": "_framework/dotnet.js",
@@ -73,7 +73,7 @@
     {
       "path": "_framework/stardew.s7rkdvzs7p.wasm",
       "bytes": 5693721,
-      "sha256": "c8ffae1199dcb1614695c975beefaf2d3facef5a4fa586f8f10956b5b2084a01"
+      "sha256": "5786469fad9e7aabe956240d4c2a7ce16aa06888059505d4402f21424e0049b7"
     },
     {
       "path": "_framework/System.Collections.Concurrent.qlhbjf9bos.wasm",
@@ -523,7 +523,7 @@
     },
     {
       "path": "_framework/blazor.boot.json",
-      "bytes": 10090
+      "bytes": 10091
     },
     {
       "path": "_framework/dotnet.runtime.2hocyfcbj2.js",

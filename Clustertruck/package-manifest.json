@@ -5,13 +5,58 @@
   "partBytes": 19922944,
   "build": "Clustertruck",
   "html5": false,
-  "dataBytes": 103271328,
+  "dataBytes": 103270205,
   "dataParts": 6,
-  "dataSha256": "c7affe74bfd3cc37d8c177d0a787cd737c21a7b033fe51a9922e7aff88ba3022",
+  "dataSha256": "70f8a148d42ca15869b59e248497911ea6434ce90376ac5e5f548e95be44846a",
   "wasmBytes": 84590178,
   "wasmParts": 5,
   "wasmSha256": "0e20d037fd69a713973f85ece9d79925a887a849d16f3e32a33a9215d1e27885",
   "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 22,
+      "sha256": "bc3bbfd0a42e545fb02b63aa5f885b6416bc3eebcf834bd66adc4db32277f8a3"
+    },
+    {
+      "path": "Build/Clustertruck.data.part1",
+      "bytes": 19922944,
+      "sha256": "555ca91a35e90ffdfdff5ffd68855a20351e0cd6de1457cd83449b931e1e0d92"
+    },
+    {
+      "path": "Build/Clustertruck.data.part2",
+      "bytes": 19922944,
+      "sha256": "3bef431425f58e1bcd3d3dcc960e9136155580209f708e61215bd59c08a2e9eb"
+    },
+    {
+      "path": "Build/Clustertruck.data.part3",
+      "bytes": 19922944,
+      "sha256": "b76ccc127e39d8fb7e0ea696934d650e83e1f34a388e4effc339ea29c2736e97"
+    },
+    {
+      "path": "Build/Clustertruck.data.part4",
+      "bytes": 19922944,
+      "sha256": "84cbde7dc909a69696e46b004b9b63925a01175bd1c77734c68ac99cfcc77223"
+    },
+    {
+      "path": "Build/Clustertruck.data.part5",
+      "bytes": 19922944,
+      "sha256": "3a32b566ce3a5d53b61c925505db4f3307000b64129d669b624183115c7100f0"
+    },
+    {
+      "path": "Build/Clustertruck.data.part6",
+      "bytes": 3655485,
+      "sha256": "15793a86a415c4310ad3354e187fd68f242800f6e3fb864000a7f428383e9d91"
+    },
+    {
+      "path": "Build/Clustertruck.framework.js",
+      "bytes": 511360,
+      "sha256": "b86ec9d4b1de569e6424209ef17f77a40dc15c8dfeb8dcd990e5d9004aca2c63"
+    },
+    {
+      "path": "Build/Clustertruck.loader.js",
+      "bytes": 20680,
+      "sha256": "95d413ec942c6764ee89174a13da7a4c7f80567f6a4fb43992a6e8273c3b93d2"
+    },
     {
       "path": "Build/Clustertruck.wasm.part1",
       "bytes": 19922944,
@@ -36,51 +81,6 @@
       "path": "Build/Clustertruck.wasm.part5",
       "bytes": 4898402,
       "sha256": "ea28642b740381ca3302d62f83e7651b1e0f4802f7212a5137bf25f2003a8bfd"
-    },
-    {
-      "path": "Build/Clustertruck.loader.js",
-      "bytes": 20680,
-      "sha256": "95d413ec942c6764ee89174a13da7a4c7f80567f6a4fb43992a6e8273c3b93d2"
-    },
-    {
-      "path": "Build/Clustertruck.framework.js",
-      "bytes": 511360,
-      "sha256": "b86ec9d4b1de569e6424209ef17f77a40dc15c8dfeb8dcd990e5d9004aca2c63"
-    },
-    {
-      "path": ".gitattributes",
-      "bytes": 22,
-      "sha256": "bc3bbfd0a42e545fb02b63aa5f885b6416bc3eebcf834bd66adc4db32277f8a3"
-    },
-    {
-      "path": "Build/Clustertruck.data.part1",
-      "bytes": 19922944,
-      "sha256": "05ba1519304ad9d830239c997743a55790cfff512e7277a24138b0c5b763a11b"
-    },
-    {
-      "path": "Build/Clustertruck.data.part2",
-      "bytes": 19922944,
-      "sha256": "ff4d2b6826e15377ff6b742c95c61ad984130ea7b4cb5d6abe164bbe17deeb25"
-    },
-    {
-      "path": "Build/Clustertruck.data.part3",
-      "bytes": 19922944,
-      "sha256": "bee706ce63537e9389d72e6e55497c01d71efbcac8fa5d2aea1776475a14bea1"
-    },
-    {
-      "path": "Build/Clustertruck.data.part4",
-      "bytes": 19922944,
-      "sha256": "ab43dfc129fbe8ae5e304024c69b364cb28ecee3c6632570d09a425b640ca309"
-    },
-    {
-      "path": "Build/Clustertruck.data.part5",
-      "bytes": 19922944,
-      "sha256": "dcbe68fba4130a53187007f017e68199694056eeea9791d17a5bdd3d0b656b4e"
-    },
-    {
-      "path": "Build/Clustertruck.data.part6",
-      "bytes": 3656608,
-      "sha256": "c9d39170252efaa5f0d83af0c362f2a1ee0f1d8538933a7e31222d56eddb1512"
     }
   ],
   "changedObjects": [
@@ -147,5 +147,11 @@
       "navigation": false
     }
   ],
-  "unchangedObjectCount": 236854
+  "unchangedObjectCount": 236854,
+  "removedLogoObjects": [
+    [
+      "sharedassets0.assets",
+      917
+    ]
+  ]
 }
