@@ -58,9 +58,14 @@
       "sha256": "c9a50a4d85fb2abbcf68361a1f03e3151ea24f876007ceb08ee2c02fe35a00b1"
     },
     {
+      "path": "gameinfo-url.txt",
+      "bytes": 36,
+      "sha256": "92841b83544bc46e7e80233b28fb28db61d48a4565d91be7115b41a7749db029"
+    },
+    {
       "path": "index.html",
-      "bytes": 2520,
-      "sha256": "ff25d46c00c91ff9652828ff7dd29b40f3ad74afdbea997b0bfeba1d08c8aca9"
+      "bytes": 3058,
+      "sha256": "cb4fd04ebbaff70a51558c9201af1dfc36be2495d7fbe0796e546811ec58727f"
     }
   ],
   "changedObjects": [

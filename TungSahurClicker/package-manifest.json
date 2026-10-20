@@ -48,9 +48,14 @@
       "sha256": "739c9ac38af4d75aa9fff82b0daf506230c7e9f3a0dd4fd9ad014d688d6d76e7"
     },
     {
+      "path": "gameinfo-url.txt",
+      "bytes": 36,
+      "sha256": "92841b83544bc46e7e80233b28fb28db61d48a4565d91be7115b41a7749db029"
+    },
+    {
       "path": "index.html",
-      "bytes": 2527,
-      "sha256": "89c1a3d0e04bca72335e3091fde44b541cd8021dd018a699b422d0aa4a842174"
+      "bytes": 3065,
+      "sha256": "ad32c27493a3103528dea86ee797b7f62b86a7c0a587eb2ec4cab7d5715e0562"
     },
     {
       "path": "StreamingAssets/UnityServicesProjectConfiguration.json",
