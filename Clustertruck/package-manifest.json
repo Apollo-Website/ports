@@ -5,9 +5,9 @@
   "partBytes": 19922944,
   "build": "Clustertruck",
   "html5": false,
-  "dataBytes": 102958115,
+  "dataBytes": 102958123,
   "dataParts": 6,
-  "dataSha256": "131a4b655fa212e8ed79b72d18221f06a4816b1c164213dbe4ff342673807ba6",
+  "dataSha256": "3025c0882456b564b30a8b25188a92350156229a076661b01dfdcead313f0d96",
   "wasmBytes": 84590178,
   "wasmParts": 5,
   "wasmSha256": "0e20d037fd69a713973f85ece9d79925a887a849d16f3e32a33a9215d1e27885",
@@ -20,32 +20,32 @@
     {
       "path": "Build/Clustertruck.data.part1",
       "bytes": 19922944,
-      "sha256": "daa0f84f8a8b1206974da5a3c9c8a700fdf814c59243aeb135bdf3d408ab4931"
+      "sha256": "585dc550a11cfcd2a513c2a1747ebf38a28d6e2ee51113197d42c544f0d3009d"
     },
     {
       "path": "Build/Clustertruck.data.part2",
       "bytes": 19922944,
-      "sha256": "77e801559b45c1572021c00e02978ed4adecc7c2f351865c1d04fe43c1588122"
+      "sha256": "d51bb4f0f740496cc84fd00bd41c5d8ac437e5790dfa5ac8b628158ac384516e"
     },
     {
       "path": "Build/Clustertruck.data.part3",
       "bytes": 19922944,
-      "sha256": "1b243e9070017bcb4f824e913ba1f98cc302b4feee403e1802882b632c58a7de"
+      "sha256": "c770c04f71384c7677389f7c2db023ae0832f2fdffa2e33e2cd2f9bba110c3d1"
     },
     {
       "path": "Build/Clustertruck.data.part4",
       "bytes": 19922944,
-      "sha256": "d0d8b875948a0d541790025ed5d06320ea8cd98640235681783d0579b0d8a18a"
+      "sha256": "9a8091e9e0d65892228febe729c93b50e6405ce58d544d1d199637a7dff9bf3d"
     },
     {
       "path": "Build/Clustertruck.data.part5",
       "bytes": 19922944,
-      "sha256": "20cc6882d72f01aa08908f80c42375a3f572b021bddf4c51f34c74ce9dad5f8b"
+      "sha256": "f11308a5bc3a5c8aa05a1fd5bc9dff5fef63c4a7759575c7d708c61d26384ef6"
     },
     {
       "path": "Build/Clustertruck.data.part6",
-      "bytes": 3343395,
-      "sha256": "5cd3ff12beac37802ae94fa1ee202c85d1e4e349782c93d1678d092e97afbb69"
+      "bytes": 3343403,
+      "sha256": "7f50c8a358958f9cba992b8353fa339c56e742a3bfe63e7bba1e19988f1dd233"
     },
     {
       "path": "Build/Clustertruck.framework.js",
@@ -153,5 +153,337 @@
       "sharedassets0.assets",
       215
     ]
-  ]
+  ],
+  "performancePatch": {
+    "objects": [
+      [
+        "globalgamemanagers",
+        8
+      ],
+      [
+        "globalgamemanagers",
+        12
+      ],
+      [
+        "level0",
+        14010
+      ],
+      [
+        "level0",
+        14249
+      ],
+      [
+        "level0",
+        14296
+      ],
+      [
+        "level0",
+        14483
+      ],
+      [
+        "level0",
+        14938
+      ],
+      [
+        "level0",
+        15147
+      ],
+      [
+        "level1",
+        5759
+      ],
+      [
+        "level1",
+        5761
+      ],
+      [
+        "level1",
+        5764
+      ],
+      [
+        "level1",
+        6303
+      ],
+      [
+        "level1",
+        6304
+      ],
+      [
+        "resources.assets",
+        41334
+      ],
+      [
+        "resources.assets",
+        41349
+      ],
+      [
+        "resources.assets",
+        41417
+      ],
+      [
+        "resources.assets",
+        41430
+      ],
+      [
+        "resources.assets",
+        41472
+      ],
+      [
+        "resources.assets",
+        41498
+      ],
+      [
+        "resources.assets",
+        41587
+      ],
+      [
+        "resources.assets",
+        41644
+      ],
+      [
+        "resources.assets",
+        41953
+      ],
+      [
+        "resources.assets",
+        42782
+      ],
+      [
+        "resources.assets",
+        42788
+      ],
+      [
+        "resources.assets",
+        42816
+      ],
+      [
+        "resources.assets",
+        42850
+      ],
+      [
+        "sharedassets0.assets",
+        164912
+      ]
+    ],
+    "previous": [
+      {
+        "type": "TimeManager",
+        "before": {
+          "Fixed Timestep": 0.016599999740719795,
+          "Maximum Allowed Timestep": 0.3333333432674408,
+          "m_TimeScale": 1,
+          "Maximum Particle Timestep": 0.029999999329447746
+        }
+      },
+      {
+        "type": "QualitySettings",
+        "before": {
+          "name": "Fantastic",
+          "pixelLightCount": 4,
+          "shadows": 2,
+          "shadowResolution": 2,
+          "shadowProjection": 1,
+          "shadowCascades": 4,
+          "shadowDistance": 150,
+          "shadowNearPlaneOffset": 2,
+          "shadowCascade2Split": 0.3333333432674408,
+          "shadowCascade4Split": {
+            "x": 0.02618079073727131,
+            "y": 0.20000000298023224,
+            "z": 0.46666663885116577
+          },
+          "shadowmaskMode": 0,
+          "skinWeights": 4,
+          "globalTextureMipmapLimit": 0,
+          "textureMipmapLimitSettings": [],
+          "anisotropicTextures": 2,
+          "antiAliasing": 0,
+          "softParticles": true,
+          "softVegetation": true,
+          "realtimeReflectionProbes": true,
+          "billboardsFaceCameraPosition": true,
+          "useLegacyDetailDistribution": true,
+          "vSyncCount": 1,
+          "realtimeGICPUUsage": 25,
+          "lodBias": 2,
+          "maximumLODLevel": 0,
+          "enableLODCrossFade": true,
+          "streamingMipmapsActive": false,
+          "streamingMipmapsAddAllCameras": true,
+          "streamingMipmapsMemoryBudget": 512,
+          "streamingMipmapsRenderersPerFrame": 512,
+          "streamingMipmapsMaxLevelReduction": 2,
+          "streamingMipmapsMaxFileIORequests": 1024,
+          "particleRaycastBudget": 4096,
+          "asyncUploadTimeSlice": 2,
+          "asyncUploadBufferSize": 4,
+          "asyncUploadPersistentBuffer": true,
+          "resolutionScalingFixedDPIFactor": 1,
+          "customRenderPipeline": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "terrainQualityOverrides": 0,
+          "terrainPixelError": 1,
+          "terrainDetailDensityScale": 1,
+          "terrainBasemapDistance": 1000,
+          "terrainDetailDistance": 80,
+          "terrainTreeDistance": 5000,
+          "terrainBillboardStart": 50,
+          "terrainFadeLength": 5,
+          "terrainMaxTrees": 50
+        }
+      },
+      {
+        "type": "VignetteAndChromaticAberration",
+        "file": "sharedassets0.assets",
+        "id": 164912,
+        "enabled": 1
+      },
+      {
+        "type": "SENaturalBloomAndDirtyLens",
+        "file": "level0",
+        "id": 14010,
+        "enabled": 1
+      },
+      {
+        "type": "SENaturalBloomAndDirtyLens",
+        "file": "level0",
+        "id": 14249,
+        "enabled": 1
+      },
+      {
+        "type": "SENaturalBloomAndDirtyLens",
+        "file": "level0",
+        "id": 14296,
+        "enabled": 1
+      },
+      {
+        "type": "VignetteAndChromaticAberration",
+        "file": "level0",
+        "id": 14483,
+        "enabled": 1
+      },
+      {
+        "type": "SENaturalBloomAndDirtyLens",
+        "file": "level0",
+        "id": 14938,
+        "enabled": 1
+      },
+      {
+        "type": "SENaturalBloomAndDirtyLens",
+        "file": "level0",
+        "id": 15147,
+        "enabled": 1
+      },
+      {
+        "type": "LerpableBlur",
+        "file": "level1",
+        "id": 5759,
+        "enabled": 1
+      },
+      {
+        "type": "SENaturalBloomAndDirtyLens",
+        "file": "level1",
+        "id": 5761,
+        "enabled": 1
+      },
+      {
+        "type": "VignetteAndChromaticAberration",
+        "file": "level1",
+        "id": 5764,
+        "enabled": 1
+      },
+      {
+        "type": "VignetteAndChromaticAberration",
+        "file": "level1",
+        "id": 6303,
+        "enabled": 1
+      },
+      {
+        "type": "SENaturalBloomAndDirtyLens",
+        "file": "level1",
+        "id": 6304,
+        "enabled": 1
+      },
+      {
+        "type": "VignetteAndChromaticAberration",
+        "file": "resources.assets",
+        "id": 41334,
+        "enabled": 1
+      },
+      {
+        "type": "VignetteAndChromaticAberration",
+        "file": "resources.assets",
+        "id": 41349,
+        "enabled": 1
+      },
+      {
+        "type": "VignetteAndChromaticAberration",
+        "file": "resources.assets",
+        "id": 41417,
+        "enabled": 1
+      },
+      {
+        "type": "VignetteAndChromaticAberration",
+        "file": "resources.assets",
+        "id": 41430,
+        "enabled": 1
+      },
+      {
+        "type": "SENaturalBloomAndDirtyLens",
+        "file": "resources.assets",
+        "id": 41472,
+        "enabled": 1
+      },
+      {
+        "type": "LerpableBlur",
+        "file": "resources.assets",
+        "id": 41498,
+        "enabled": 1
+      },
+      {
+        "type": "SENaturalBloomAndDirtyLens",
+        "file": "resources.assets",
+        "id": 41587,
+        "enabled": 1
+      },
+      {
+        "type": "SENaturalBloomAndDirtyLens",
+        "file": "resources.assets",
+        "id": 41644,
+        "enabled": 1
+      },
+      {
+        "type": "LerpableBlur",
+        "file": "resources.assets",
+        "id": 41953,
+        "enabled": 1
+      },
+      {
+        "type": "VignetteAndChromaticAberration",
+        "file": "resources.assets",
+        "id": 42782,
+        "enabled": 1
+      },
+      {
+        "type": "SENaturalBloomAndDirtyLens",
+        "file": "resources.assets",
+        "id": 42788,
+        "enabled": 1
+      },
+      {
+        "type": "LerpableBlur",
+        "file": "resources.assets",
+        "id": 42816,
+        "enabled": 1
+      },
+      {
+        "type": "Antialiasing",
+        "file": "resources.assets",
+        "id": 42850,
+        "enabled": 1
+      }
+    ]
+  }
 }
