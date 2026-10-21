@@ -36,7 +36,7 @@
     {
       "path": "GlitchesBuckshot-W-MPsupport.pck.part1",
       "bytes": 19922944,
-      "sha256": "3551c43d658a3d3c32118dcc664921d57406d32ebb088731c6a9cc61faaa2be1"
+      "sha256": "59da26662791a8ca3ceb135a47e75faffda66de3bc24b6d16d52421a6706dec0"
     },
     {
       "path": "GlitchesBuckshot-W-MPsupport.pck.part2",
@@ -215,8 +215,8 @@
     },
     {
       "path": "GlitchesBuckshot-W-MPsupport.pck.part37",
-      "bytes": 7929980,
-      "sha256": "cdaff36a7fa19a8e346a5ffe752881acd950865937305d672c16f37af160e889"
+      "bytes": 8412996,
+      "sha256": "717f3f8e9d74d4b0d46e0a0623ebdd5c95ffefd60a65a2d23f87ace7ab5ece18"
     },
     {
       "path": "GlitchesBuckshot-W-MPsupport.wasm.part1",
@@ -227,6 +227,11 @@
       "path": "GlitchesBuckshot-W-MPsupport.wasm.part2",
       "bytes": 19590147,
       "sha256": "8742f119f0c931662bd04399601bed6c8073d23f5161ab154fbb93e2901fb9fb"
+    },
+    {
+      "path": "apollo-steam.gd",
+      "bytes": 389,
+      "sha256": "3562f90e7e4f4a8513d0bcec5a67870fa6807d3da67fa47ac023deeb1da3ab98"
     }
   ],
   "resources": [
@@ -248,7 +253,7 @@
     },
     {
       "path": "GlitchesBuckshot-W-MPsupport.pck",
-      "bytes": 725155964,
+      "bytes": 725638980,
       "parts": 37
     },
     {
@@ -257,5 +262,6 @@
       "parts": 2
     }
   ],
-  "cleanupAutoload": true
+  "cleanupAutoload": true,
+  "canonicalLobbyIds": true
 }
