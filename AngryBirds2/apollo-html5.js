@@ -21,11 +21,11 @@
     window.open = () => null;
     if (manifest.engine === 'legacy-unity') {
       if (manifest.id === 'ducklife6') {
-      let pokiObject;
-      window.initPokiBridge = object => { pokiObject = object; setTimeout(() => window.gameInstance.SendMessage(object, 'Ready'), 0); };
-      window.pokiRequestAd = () => window.gameInstance.SendMessage(pokiObject, 'AdEvent', 'skipped');
-      window.pokiTrack = () => {};
-      window.poki = { ads: { position: { midroll: 'midroll' } }, tracking: { screen: { gameLoaderStart: 'gameLoaderStart', gameLoaderFinished: 'gameLoaderFinished', gameStart: 'gameStart' } } };
+        let pokiObject;
+        window.initPokiBridge = object => { pokiObject = object; setTimeout(() => window.gameInstance.SendMessage(object, 'Ready'), 0); };
+        window.pokiRequestAd = () => window.gameInstance.SendMessage(pokiObject, 'AdEvent', 'skipped');
+        window.pokiTrack = () => {};
+        window.poki = { ads: { position: { midroll: 'midroll' } }, tracking: { screen: { gameLoaderStart: 'gameLoaderStart', gameLoaderFinished: 'gameLoaderFinished', gameStart: 'gameStart' } } };
       }
       const config = await (await fetch('Build/game.json')).json();
       config.cacheControl = { default: 'no-store' };
@@ -37,10 +37,27 @@
       if (manifest.id === 'angry-birds-2') await script('streaming-fix.js');
       await script('UnityLoader.js');
       const configuration = URL.createObjectURL(new Blob([JSON.stringify(config)], { type: 'application/json' }));
+      const fit = () => {
+        if (!['angry-birds', 'angry-birds-2'].includes(manifest.id)) return;
+        const module = window.gameInstance?.Module, canvas = module?.canvas;
+        const width = canvas?.clientWidth, height = canvas?.clientHeight;
+        if (!(width > 0 && height > 0) || typeof module.setCanvasSize !== 'function') return false;
+        if (canvas.width !== width || canvas.height !== height) module.setCanvasSize(width, height);
+        return true;
+      };
       window.gameInstance = UnityLoader.instantiate('gameContainer', configuration, { onProgress(instance, progress) {
         loading.textContent = 'Loading… ' + Math.round(progress * 100) + '%';
-        if (progress === 1) { loading.remove(); window.__APOLLO_ENGINE_READY__ = true; }
+        if (progress === 1) { fit(); loading.remove(); window.__APOLLO_ENGINE_READY__ = true; }
       } });
+      if (['angry-birds', 'angry-birds-2'].includes(manifest.id)) {
+        addEventListener('resize', fit);
+        document.addEventListener('fullscreenchange', fit);
+        const container = document.getElementById('gameContainer');
+        const timer = setInterval(() => { if (fit()) clearInterval(timer); }, 50);
+        setTimeout(() => clearInterval(timer), 180000);
+        new ResizeObserver(fit).observe(container);
+        new MutationObserver(() => requestAnimationFrame(fit)).observe(container, { childList: true, subtree: true, attributes: true, attributeFilter: ['width', 'height'] });
+      }
       if (manifest.id === 'angry-birds-2') setInterval(() => {
         const module = window.gameInstance?.Module, exports = module?.asm;
         if (!module?.calledRun || !exports?.dynCall_iiii) return;

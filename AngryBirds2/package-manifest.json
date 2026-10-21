@@ -11,6 +11,11 @@
       "sha256": "bc3bbfd0a42e545fb02b63aa5f885b6416bc3eebcf834bd66adc4db32277f8a3"
     },
     {
+      "path": "apollo-html5.js",
+      "bytes": 5356,
+      "sha256": "33bbb66345869d7aaf6ddc9eb46f5d0004e89a6c2a88e9cf5ff28d7a0f3d05f9"
+    },
+    {
       "path": "Build/game.data.part1",
       "bytes": 19922944,
       "sha256": "67440e66eb78e575acfa070f5d0efb4b5a043ef6affe40151cc73206d351dea7"
@@ -66,6 +71,16 @@
       "sha256": "f7fa270197901f37b20a13265c8a446906115c87c9b95f25bd91309a91bc2692"
     },
     {
+      "path": "icon.jpg",
+      "bytes": 44325,
+      "sha256": "f99fbb0b9234137ef04d8b34425bb782171009b3ffe6f6b7ad37de8d800ba383"
+    },
+    {
+      "path": "index.html",
+      "bytes": 793,
+      "sha256": "fa361048c94dd0118e4b779aa6380365d62992c585598458fb998b1ea371677e"
+    },
+    {
       "path": "streaming-fix.js",
       "bytes": 27449,
       "sha256": "584b6396a3e054b91ce5857e9851edfc262456b0066c1820a3b0ee2274c7c058"
@@ -74,16 +89,6 @@
       "path": "UnityLoader.js",
       "bytes": 157128,
       "sha256": "09cf226e3d59b235f51dceec11eccd0cab4e415a132af33a2eaa3e5354deddd9"
-    },
-    {
-      "path": "index.html",
-      "bytes": 793,
-      "sha256": "fa361048c94dd0118e4b779aa6380365d62992c585598458fb998b1ea371677e"
-    },
-    {
-      "path": "apollo-html5.js",
-      "bytes": 4243,
-      "sha256": "d544bcffe0e5911f2477de6d7581d28f105151e8d167c93aa17d756e27171862"
     }
   ],
   "resources": [
@@ -358,5 +363,6 @@
     ]
   },
   "html5": true,
-  "player": "html5"
+  "player": "html5",
+  "iconSource": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/66/37/756637ec-b2bf-3ddf-7c6a-38fa9bc0d8c7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg"
 }
