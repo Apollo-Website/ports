@@ -1,0 +1,32 @@
+{
+  "title": "Majora's Mask 3D: Project Restoration",
+  "status": "browser-compatibility-pending",
+  "source": "https://github.com/leoetlino/project-restoration/releases/tag/v1.5.9",
+  "files": [
+    {
+      "path": "mods/0004000000125500/code.bps",
+      "bytes": 596469,
+      "sha256": "972972f445d61e24c87c97c29c2057dff9461647492307cb3ac6d65385db7258"
+    },
+    {
+      "path": "mods/0004000000125500/exheader.bin",
+      "bytes": 2048,
+      "sha256": "1da15cfe8b1878bd0e3005e55e7caef643b31e345128ed75aea88fdec482996c"
+    },
+    {
+      "path": "verification.json",
+      "bytes": 596,
+      "sha256": "5c3612a72c32ab76827cc28c012de9613ec428084e94326036a53bcc7f0cbc96"
+    },
+    {
+      "path": "README.md",
+      "bytes": 783,
+      "sha256": "0607ab5a5fc88901ee774e956585737b6d8199d955c33b73b0297927d0bd9fc8"
+    },
+    {
+      "path": ".gitattributes",
+      "bytes": 22,
+      "sha256": "bc3bbfd0a42e545fb02b63aa5f885b6416bc3eebcf834bd66adc4db32277f8a3"
+    }
+  ]
+}

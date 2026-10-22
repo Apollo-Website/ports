@@ -1,0 +1,15 @@
+{
+  "titleId": "0004000000125500",
+  "release": "1.5.9",
+  "variant": "v110/citra",
+  "sourceBytes": 5967872,
+  "targetBytes": 7827456,
+  "sourceCRC32": "ffdf1ee8",
+  "targetCRC32": "6d2eb5d4",
+  "sourceSHA256": "6eec27b1827eab2c87744ac38066d569ffe6fe75790b1eb3300bd91f5099038d",
+  "targetSHA256": "f3d8b649adeaef0eab43288726a824f607d301bbf5a1b48ff9873404e241be3f",
+  "patchSHA256": "972972f445d61e24c87c97c29c2057dff9461647492307cb3ac6d65385db7258",
+  "patchCRC32": "e538ce05",
+  "exheaderSHA256": "1da15cfe8b1878bd0e3005e55e7caef643b31e345128ed75aea88fdec482996c",
+  "browserPlayable": false
+}
