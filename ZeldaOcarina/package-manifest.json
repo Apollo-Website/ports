@@ -1,0 +1,29 @@
+{
+  "bytes": 33554432,
+  "sha256": "49acd3885f13b0730119b78fb970911cc8aba614fe383368015c21565983368d",
+  "files": [
+    {
+      "path": "game.n64.part1",
+      "bytes": 20971520,
+      "sha256": "2500a87f2c5b6f518b21a20fd3d0017794e8184c3705816a2f53970b7e1bd45f"
+    },
+    {
+      "path": "game.n64.part2",
+      "bytes": 12582912,
+      "sha256": "02a6e793a362f0f9f7abecfe88d47cd4c07b72104dcc4a58a99c3bff01f6f401"
+    },
+    {
+      "path": "cover.jpg",
+      "bytes": 50858,
+      "sha256": "6faca7ac47610863a0a18381f783670688d36808ce22c99131e634effa62e118"
+    },
+    {
+      "path": ".gitattributes",
+      "bytes": 22,
+      "sha256": "bc3bbfd0a42e545fb02b63aa5f885b6416bc3eebcf834bd66adc4db32277f8a3"
+    }
+  ],
+  "title": "The Legend of Zelda: Ocarina of Time",
+  "source": "https://selenite.cc/resources/semag/ocarinaoftime/ocarina.z64",
+  "format": "n64"
+}

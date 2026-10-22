@@ -1,0 +1,29 @@
+{
+  "bytes": 33554432,
+  "sha256": "8dc31559174f958a938ab7eccb25dd310a4167f98cb68a521181f4653b684431",
+  "files": [
+    {
+      "path": "game.n64.part1",
+      "bytes": 20971520,
+      "sha256": "e7f49ccffd6acf601791a089bc63fa86a16c5b2045d094e05ef215c4c33f5e32"
+    },
+    {
+      "path": "game.n64.part2",
+      "bytes": 12582912,
+      "sha256": "f08ed9c86d53a4aa99e6590b01a8728dd915733699dd69bd33662e5a836d3861"
+    },
+    {
+      "path": "cover.png",
+      "bytes": 206222,
+      "sha256": "4f49a3d962126becf0528caad8d84649d35da1fa74945630036c1ed2e986bb5e"
+    },
+    {
+      "path": ".gitattributes",
+      "bytes": 22,
+      "sha256": "bc3bbfd0a42e545fb02b63aa5f885b6416bc3eebcf834bd66adc4db32277f8a3"
+    }
+  ],
+  "title": "The Legend of Zelda: Majoraâ€™s Mask",
+  "source": "https://selenite.cc/resources/semag/majorasmask/Legend%20of%20Zelda%2C%20The%20-%20Majora's%20Mask%20(USA).n64",
+  "format": "n64"
+}

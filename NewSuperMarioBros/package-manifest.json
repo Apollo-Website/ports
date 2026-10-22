@@ -1,0 +1,29 @@
+{
+  "bytes": 33554432,
+  "sha256": "9f67fef1b4c73e966767f6153431ada3751dc1b0da2c70f386c14a5e3017f354",
+  "files": [
+    {
+      "path": "game.nds.part1",
+      "bytes": 20971520,
+      "sha256": "5b0943a194a5c8b44cb26ebcc4b052b3fc9f9e03a1fcb0d0c187ea0173d419f7"
+    },
+    {
+      "path": "game.nds.part2",
+      "bytes": 12582912,
+      "sha256": "6747318cfda6f6bb9e77ee1c229d37b1799610bc1d41e5165cc40ccf2363a7c4"
+    },
+    {
+      "path": "cover.jpg",
+      "bytes": 222169,
+      "sha256": "9384cdaca76d192a05f1b160de834cc6ca755acc162012d8aab4b21c95c085c3"
+    },
+    {
+      "path": ".gitattributes",
+      "bytes": 22,
+      "sha256": "bc3bbfd0a42e545fb02b63aa5f885b6416bc3eebcf834bd66adc4db32277f8a3"
+    }
+  ],
+  "title": "New Super Mario Bros.",
+  "source": "https://selenite.cc/resources/semag/newsupermariobros/new-super-mario-bros.zip",
+  "format": "nds"
+}

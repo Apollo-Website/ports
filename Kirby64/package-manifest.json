@@ -1,0 +1,29 @@
+{
+  "bytes": 33554432,
+  "sha256": "d7fdef71199aac5f6ddb3e03e7ae9d39ee123a548ba9043053e854937c4d88a3",
+  "files": [
+    {
+      "path": "game.n64.part1",
+      "bytes": 20971520,
+      "sha256": "126203482a6add4d0920f8bde4198ab6fbee2a417469a46d72daef7d28f76e10"
+    },
+    {
+      "path": "game.n64.part2",
+      "bytes": 12582912,
+      "sha256": "8f2c0b507a7be1deadfb76a96fb53c1b66b982b49556027f677815ad72ef5a25"
+    },
+    {
+      "path": "cover.png",
+      "bytes": 317651,
+      "sha256": "9b43e588592f57740e646b5d865a84afb7b32d07bffaf9a2a16c9c27b4ff0f4d"
+    },
+    {
+      "path": ".gitattributes",
+      "bytes": 22,
+      "sha256": "bc3bbfd0a42e545fb02b63aa5f885b6416bc3eebcf834bd66adc4db32277f8a3"
+    }
+  ],
+  "title": "Kirby 64: The Crystal Shards",
+  "source": "https://selenite.cc/resources/semag/kirby64/kirby64.zip",
+  "format": "n64"
+}

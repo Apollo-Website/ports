@@ -1,0 +1,29 @@
+{
+  "bytes": 33554432,
+  "sha256": "0ea8a91a0ae3e9db26337c25a6a8568f6737fa36c1e0761988c0fa0ecbf210ed",
+  "files": [
+    {
+      "path": "game.nds.part1",
+      "bytes": 20971520,
+      "sha256": "4c36e0ee771256299cf1be4fc3c91fd5b9b33cae6ef49f08e0b5db294415a484"
+    },
+    {
+      "path": "game.nds.part2",
+      "bytes": 12582912,
+      "sha256": "ffb434000e9450225674f0162535ccbc34bb84259efa37bf89751e8546460256"
+    },
+    {
+      "path": "cover.png",
+      "bytes": 216821,
+      "sha256": "1a1360e9db4d2bc298c733c0eda7463425cbed43c89b2b8da72f9f72b3b22c92"
+    },
+    {
+      "path": ".gitattributes",
+      "bytes": 22,
+      "sha256": "bc3bbfd0a42e545fb02b63aa5f885b6416bc3eebcf834bd66adc4db32277f8a3"
+    }
+  ],
+  "title": "Mario Kart DS",
+  "source": "https://selenite.cc/resources/semag/mariokartds/Mario%20Kart%20DS%20(USA)%20(En%2CFr%2CDe%2CEs%2CIt).nds",
+  "format": "nds"
+}

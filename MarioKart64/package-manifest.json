@@ -1,0 +1,24 @@
+{
+  "bytes": 12582912,
+  "sha256": "a8588ffdfb628c0433a2a18664cf68942812b975d16ae4d8b1c66f2045920065",
+  "files": [
+    {
+      "path": "game.n64.part1",
+      "bytes": 12582912,
+      "sha256": "a8588ffdfb628c0433a2a18664cf68942812b975d16ae4d8b1c66f2045920065"
+    },
+    {
+      "path": "cover.png",
+      "bytes": 313299,
+      "sha256": "c6de99137340869eaa86200ab8209b161c2daad6a7bdd0241d585a3603df22ce"
+    },
+    {
+      "path": ".gitattributes",
+      "bytes": 22,
+      "sha256": "bc3bbfd0a42e545fb02b63aa5f885b6416bc3eebcf834bd66adc4db32277f8a3"
+    }
+  ],
+  "title": "Mario Kart 64",
+  "source": "https://selenite.cc/resources/semag/mariokart64/mariokart64.zip",
+  "format": "n64"
+}

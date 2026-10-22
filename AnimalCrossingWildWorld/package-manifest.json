@@ -1,0 +1,29 @@
+{
+  "bytes": 33554432,
+  "sha256": "b2b7031f1d08dd0544952757a1ab2164501b16fae2a44b64954a03a76e31fb87",
+  "files": [
+    {
+      "path": "game.nds.part1",
+      "bytes": 20971520,
+      "sha256": "342a8b1a6e48b5eac76377138235825d3f437739b44370f7b6b06264a9abf556"
+    },
+    {
+      "path": "game.nds.part2",
+      "bytes": 12582912,
+      "sha256": "4cf9b3df37471fb466108ce81ba88b3354b63fdb1d3979bd1418fbb1ff49f92d"
+    },
+    {
+      "path": "cover.png",
+      "bytes": 12822,
+      "sha256": "9790656d084e4a0194bb15449825423f5d52583088ba1bb295d2d9387ae1ce67"
+    },
+    {
+      "path": ".gitattributes",
+      "bytes": 22,
+      "sha256": "bc3bbfd0a42e545fb02b63aa5f885b6416bc3eebcf834bd66adc4db32277f8a3"
+    }
+  ],
+  "title": "Animal Crossing: Wild World",
+  "source": "https://selenite.cc/resources/semag/animalcrossingwildworld/Animal%20Crossing%20-%20Wild%20World%20(USA)%20(Rev%201).nds",
+  "format": "nds"
+}

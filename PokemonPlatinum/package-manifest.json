@@ -1,0 +1,54 @@
+{
+  "bytes": 134217728,
+  "sha256": "fbce4c4def0c7797f8dd238a3d7a5e48b4a7e3abd86890ac65f6321cef781bdb",
+  "files": [
+    {
+      "path": "game.nds.part1",
+      "bytes": 20971520,
+      "sha256": "87744acde7fa3ff1bda6816b6e4058190cdc5444759bcef7a51b0ed43d6421a6"
+    },
+    {
+      "path": "game.nds.part2",
+      "bytes": 20971520,
+      "sha256": "e4356bc54a22d5fa1306e6123a7a25e557b37b96959880af614873e816eaec11"
+    },
+    {
+      "path": "game.nds.part3",
+      "bytes": 20971520,
+      "sha256": "283b680db526b7d5e57932d83af742b2d485337e2f03b32c6bf604feb8af659b"
+    },
+    {
+      "path": "game.nds.part4",
+      "bytes": 20971520,
+      "sha256": "0faf1f362c9a1e3854c387355ed1a0451e348e3979d5ce97f47aef2bf5653088"
+    },
+    {
+      "path": "game.nds.part5",
+      "bytes": 20971520,
+      "sha256": "9de2f284b5e2652a848da01042fc883d38141d7c2e8f91c9b4a8e95251a8ff8b"
+    },
+    {
+      "path": "game.nds.part6",
+      "bytes": 20971520,
+      "sha256": "3256ee369d24ef50c15a53b6b1ea17584f81dfd2d3b7b04c7f958c4706b93fc2"
+    },
+    {
+      "path": "game.nds.part7",
+      "bytes": 8388608,
+      "sha256": "9f9b02f5ee6cbef5e018c1ee424095fc21a842ea6968c0d36114b5930dab2ba1"
+    },
+    {
+      "path": "cover.jpeg",
+      "bytes": 19288,
+      "sha256": "672c5d85ecaf064fe4c0e4bf43653bcbbaad969aac54be1da6e919d579dbd964"
+    },
+    {
+      "path": ".gitattributes",
+      "bytes": 22,
+      "sha256": "bc3bbfd0a42e545fb02b63aa5f885b6416bc3eebcf834bd66adc4db32277f8a3"
+    }
+  ],
+  "title": "PokÃ©mon Platinum",
+  "source": "https://selenite.cc/resources/semag/pokemonplatinum/pokemon-platinum.zip",
+  "format": "nds"
+}

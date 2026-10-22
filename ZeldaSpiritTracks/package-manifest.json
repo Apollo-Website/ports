@@ -1,0 +1,54 @@
+{
+  "bytes": 134217728,
+  "sha256": "1cbe92794eb2459ac7c335625ab3c0ba8beff36b4e7734f036ce02344ba1b37e",
+  "files": [
+    {
+      "path": "game.nds.part1",
+      "bytes": 20971520,
+      "sha256": "8d574718a497e386abb58dcf66753b3aabd776f2d5fab30550bcbfb8bacfb290"
+    },
+    {
+      "path": "game.nds.part2",
+      "bytes": 20971520,
+      "sha256": "5511dc9ee3a2a2386cae76ed892e94b1cebdc8651b4551b7ad09e73cc07e7d3e"
+    },
+    {
+      "path": "game.nds.part3",
+      "bytes": 20971520,
+      "sha256": "09b88b9e6f6537d249450bea25c4f644e2d5b6f5ff745eb68b0203cb561be17e"
+    },
+    {
+      "path": "game.nds.part4",
+      "bytes": 20971520,
+      "sha256": "4280ed2f1fa7137162684e504672135eda42c12f9ca9da1f095c8ac40e38cdda"
+    },
+    {
+      "path": "game.nds.part5",
+      "bytes": 20971520,
+      "sha256": "f499ef29fe555c6531f088044e004d35fe23ef290d3936fdf3433fb72604dd50"
+    },
+    {
+      "path": "game.nds.part6",
+      "bytes": 20971520,
+      "sha256": "3256ee369d24ef50c15a53b6b1ea17584f81dfd2d3b7b04c7f958c4706b93fc2"
+    },
+    {
+      "path": "game.nds.part7",
+      "bytes": 8388608,
+      "sha256": "9f9b02f5ee6cbef5e018c1ee424095fc21a842ea6968c0d36114b5930dab2ba1"
+    },
+    {
+      "path": "cover.jpg",
+      "bytes": 113085,
+      "sha256": "271bfa98fa27af7f9982677b82bcff010fe8e8c39c840a4fa09c1f53ff666180"
+    },
+    {
+      "path": ".gitattributes",
+      "bytes": 22,
+      "sha256": "bc3bbfd0a42e545fb02b63aa5f885b6416bc3eebcf834bd66adc4db32277f8a3"
+    }
+  ],
+  "title": "The Legend of Zelda: Spirit Tracks",
+  "source": "https://selenite.cc/resources/semag/spirittracks/Legend%20of%20Zelda%2C%20The%20-%20Spirit%20Tracks%20(USA)%20(En%2CFr%2CEs).zip",
+  "format": "nds"
+}

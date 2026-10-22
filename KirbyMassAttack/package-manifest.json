@@ -1,0 +1,54 @@
+{
+  "bytes": 134217728,
+  "sha256": "7daee44de44c79164a1c252d1d313506151e5f2e0a5e48a8e492b9f462bdec0d",
+  "files": [
+    {
+      "path": "game.nds.part1",
+      "bytes": 20971520,
+      "sha256": "d3ecadec8c1c21c60074c9d6d621e5299404f88c268908d899afe2750e2c1f27"
+    },
+    {
+      "path": "game.nds.part2",
+      "bytes": 20971520,
+      "sha256": "418977472eed241af13cef67c24d68c5fa32ae8b6e842198a4fcb4d04ac62f55"
+    },
+    {
+      "path": "game.nds.part3",
+      "bytes": 20971520,
+      "sha256": "eb817238ff45bd9cfbb058b00e81c535f661376e136506dfb5e2ecd38cb60390"
+    },
+    {
+      "path": "game.nds.part4",
+      "bytes": 20971520,
+      "sha256": "64e59da6c47d5bc3bcdb9eafd6d32486f0b3c011294e6cafab1845608f53e1c7"
+    },
+    {
+      "path": "game.nds.part5",
+      "bytes": 20971520,
+      "sha256": "3256ee369d24ef50c15a53b6b1ea17584f81dfd2d3b7b04c7f958c4706b93fc2"
+    },
+    {
+      "path": "game.nds.part6",
+      "bytes": 20971520,
+      "sha256": "3256ee369d24ef50c15a53b6b1ea17584f81dfd2d3b7b04c7f958c4706b93fc2"
+    },
+    {
+      "path": "game.nds.part7",
+      "bytes": 8388608,
+      "sha256": "9f9b02f5ee6cbef5e018c1ee424095fc21a842ea6968c0d36114b5930dab2ba1"
+    },
+    {
+      "path": "cover.png",
+      "bytes": 462305,
+      "sha256": "d34d39b699dc79f34734ec00d07e6f1d69b6e0c74e652baa9dae5cfd134babdb"
+    },
+    {
+      "path": ".gitattributes",
+      "bytes": 22,
+      "sha256": "bc3bbfd0a42e545fb02b63aa5f885b6416bc3eebcf834bd66adc4db32277f8a3"
+    }
+  ],
+  "title": "Kirby Mass Attack",
+  "source": "https://selenite.cc/resources/semag/kirbymassattack/kirby-mass-attack.zip",
+  "format": "nds"
+}

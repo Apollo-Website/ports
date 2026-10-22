@@ -1,0 +1,29 @@
+{
+  "bytes": 41943040,
+  "sha256": "c68c784570c27253f8fa021d6415e01bc4ddd42cd5a20a79483153c3691215fd",
+  "files": [
+    {
+      "path": "game.n64.part1",
+      "bytes": 20971520,
+      "sha256": "bf432467c14c7fc6b6640a809bbe16f1180f55bebe4f25f090e763bb4a9122cf"
+    },
+    {
+      "path": "game.n64.part2",
+      "bytes": 20971520,
+      "sha256": "426df4faa74950d8d0d39cebd6e90950cebef8b7749910ac6de37b90b25aa57d"
+    },
+    {
+      "path": "cover.png",
+      "bytes": 143856,
+      "sha256": "5a5ca2ae4e17cba7127093dcef8acbf2a0e82619312d7478e484b64ce5d77d8d"
+    },
+    {
+      "path": ".gitattributes",
+      "bytes": 22,
+      "sha256": "bc3bbfd0a42e545fb02b63aa5f885b6416bc3eebcf834bd66adc4db32277f8a3"
+    }
+  ],
+  "title": "Paper Mario",
+  "source": "https://selenite.cc/resources/semag/papermario/Paper%20Mario%20(USA).n64",
+  "format": "n64"
+}
