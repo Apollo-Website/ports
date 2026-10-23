@@ -1,0 +1,19 @@
+{
+  "bytes": 33554432,
+  "sha256": "9e4864f6061792059ec10d51ead20908d4b92f537dd1d1023f28a391af6c7a3b",
+  "files": [
+    {
+      "path": "game.nds.part1",
+      "bytes": 20971520,
+      "sha256": "2b1672f708c53d82b30d0433bc7c63b53bea415a7f4da46022fb8eb96a486678"
+    },
+    {
+      "path": "game.nds.part2",
+      "bytes": 12582912,
+      "sha256": "f6d640bb9efdac632fe241d688705ec3967653e8c88bcbc702c09c97afc0894a"
+    }
+  ],
+  "title": "Mario Party DS",
+  "source": "https://selenite.cc/resources/semag/mariopartyds/1704%20-%20Mario%20Party%20DS%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds",
+  "format": "nds"
+}

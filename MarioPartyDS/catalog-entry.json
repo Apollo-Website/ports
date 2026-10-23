@@ -1,0 +1,11 @@
+{
+  "id": "mario-party-ds",
+  "name": "Mario Party DS",
+  "url": "https://raw.githubusercontent.com/Apollo-Website/ports/main/MarioPartyDS/game.nds",
+  "player": "emulator",
+  "core": "desmume",
+  "romParts": 2,
+  "romPartBytes": 20971520,
+  "romBytes": 33554432,
+  "romSha256": "9e4864f6061792059ec10d51ead20908d4b92f537dd1d1023f28a391af6c7a3b"
+}

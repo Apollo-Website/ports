@@ -1,0 +1,11 @@
+{
+  "id": "mario-luigi-bowsers-inside-story",
+  "name": "Mario & Luigi: Bowser's Inside Story",
+  "url": "https://raw.githubusercontent.com/Apollo-Website/ports/main/MarioLuigiBowser/game.nds",
+  "player": "emulator",
+  "core": "desmume",
+  "romParts": 7,
+  "romPartBytes": 20971520,
+  "romBytes": 134217728,
+  "romSha256": "4d8a3ffa13ad525db85e596d576675860a816aa77560ca87c4505451c172c60b"
+}

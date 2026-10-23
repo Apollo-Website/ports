@@ -1,0 +1,11 @@
+{
+  "id": "mario-party-2",
+  "name": "Mario Party 2",
+  "url": "https://raw.githubusercontent.com/Apollo-Website/ports/main/MarioParty2/game.n64",
+  "player": "emulator",
+  "core": "mupen64plus_next",
+  "romParts": 2,
+  "romPartBytes": 20971520,
+  "romBytes": 33554432,
+  "romSha256": "369e409a3f9821a3b33e13cc74618c0df3379c1968185d16fdb5c231e5e49269"
+}

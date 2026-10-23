@@ -1,0 +1,11 @@
+{
+  "id": "star-fox-64",
+  "name": "Star Fox 64",
+  "url": "https://raw.githubusercontent.com/Apollo-Website/ports/main/StarFox64/game.n64",
+  "player": "emulator",
+  "core": "mupen64plus_next",
+  "romParts": 1,
+  "romPartBytes": 20971520,
+  "romBytes": 12582912,
+  "romSha256": "599e604c59db55a64c5a5bedef1e22bf0a776a43526c5745d80d24a1cb45727e"
+}

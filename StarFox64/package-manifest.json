@@ -1,0 +1,14 @@
+{
+  "bytes": 12582912,
+  "sha256": "599e604c59db55a64c5a5bedef1e22bf0a776a43526c5745d80d24a1cb45727e",
+  "files": [
+    {
+      "path": "game.n64.part1",
+      "bytes": 12582912,
+      "sha256": "599e604c59db55a64c5a5bedef1e22bf0a776a43526c5745d80d24a1cb45727e"
+    }
+  ],
+  "title": "Star Fox 64",
+  "source": "https://selenite.cc/resources/semag/starfox64/Star%20Fox%2064%20(USA)%20(Rev%20A).n64",
+  "format": "n64"
+}

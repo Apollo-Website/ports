@@ -1,0 +1,11 @@
+{
+  "id": "warioware-touched",
+  "name": "WarioWare: Touched!",
+  "url": "https://raw.githubusercontent.com/Apollo-Website/ports/main/WarioWareTouched/game.nds",
+  "player": "emulator",
+  "core": "desmume",
+  "romParts": 2,
+  "romPartBytes": 20971520,
+  "romBytes": 33554432,
+  "romSha256": "3a203638c8a5ace080b503a7789d5885467425f39de20e80a693400237bcb2bf"
+}

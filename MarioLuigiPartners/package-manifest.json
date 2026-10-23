@@ -1,0 +1,29 @@
+{
+  "bytes": 67108864,
+  "sha256": "164c82b37531f561b9a5e5457edcb20417cbc2e04dd4f8234c2d16db4bfcb23a",
+  "files": [
+    {
+      "path": "game.nds.part1",
+      "bytes": 20971520,
+      "sha256": "f90ea9bad138fa6014455b58f6121b162231f489037014b20b0cbe59ec24be08"
+    },
+    {
+      "path": "game.nds.part2",
+      "bytes": 20971520,
+      "sha256": "f500c28e6792f114a55d471517f506782eb416ce34b742e0cb4b5e8c60eeb80b"
+    },
+    {
+      "path": "game.nds.part3",
+      "bytes": 20971520,
+      "sha256": "d7329dff6d5519f406211e30ece19c5e1622b4badf11e8f4b2e9f123d33b4689"
+    },
+    {
+      "path": "game.nds.part4",
+      "bytes": 4194304,
+      "sha256": "cd3517473707d59c3d915b52a3e16213cadce80d9ffb2b4371958fb7acb51a08"
+    }
+  ],
+  "title": "Mario & Luigi: Partners in Time",
+  "source": "https://selenite.cc/resources/semag/marioandluigipartnersintime/Mario%20%26%20Luigi%20-%20Partners%20in%20Time%20(USA)%20(Rev%201).nds",
+  "format": "nds"
+}

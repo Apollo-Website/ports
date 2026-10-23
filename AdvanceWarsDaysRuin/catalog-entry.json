@@ -1,0 +1,11 @@
+{
+  "id": "advance-wars-days-of-ruin",
+  "name": "Advance Wars: Days of Ruin",
+  "url": "https://raw.githubusercontent.com/Apollo-Website/ports/main/AdvanceWarsDaysRuin/game.nds",
+  "player": "emulator",
+  "core": "desmume",
+  "romParts": 4,
+  "romPartBytes": 20971520,
+  "romBytes": 67108864,
+  "romSha256": "aa17e43b468ef525e6e4e634eb02c66e9318a6d808c78107ff5a905900d0b2db"
+}

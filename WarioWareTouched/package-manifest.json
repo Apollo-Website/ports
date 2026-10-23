@@ -1,0 +1,19 @@
+{
+  "bytes": 33554432,
+  "sha256": "3a203638c8a5ace080b503a7789d5885467425f39de20e80a693400237bcb2bf",
+  "files": [
+    {
+      "path": "game.nds.part1",
+      "bytes": 20971520,
+      "sha256": "359b5b93df65f1ae9c35c1b8c64f179aba732d4205a89e42889c3809d929a644"
+    },
+    {
+      "path": "game.nds.part2",
+      "bytes": 12582912,
+      "sha256": "c5fc1284c446acf193b74f0683a8c7821b77f79a5c4c873133ee8f5c97fb4859"
+    }
+  ],
+  "title": "WarioWare: Touched!",
+  "source": "https://selenite.cc/resources/semag/wariowaretouched/WarioWare%20-%20Touched!%20(USA).zip",
+  "format": "nds"
+}

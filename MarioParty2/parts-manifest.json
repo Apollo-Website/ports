@@ -1,0 +1,16 @@
+{
+  "bytes": 33554432,
+  "sha256": "369e409a3f9821a3b33e13cc74618c0df3379c1968185d16fdb5c231e5e49269",
+  "files": [
+    {
+      "path": "game.n64.part1",
+      "bytes": 20971520,
+      "sha256": "35033114d88156725c11a13b1ed1273cdca6cd6e7eb6ebd1bbd5b303ff9105ef"
+    },
+    {
+      "path": "game.n64.part2",
+      "bytes": 12582912,
+      "sha256": "770b9953ab215f265d4d78cff4e31430bfc8f46e9f2c583f67dbd0806db6ced6"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "mario-luigi-partners-in-time",
+  "name": "Mario & Luigi: Partners in Time",
+  "url": "https://raw.githubusercontent.com/Apollo-Website/ports/main/MarioLuigiPartners/game.nds",
+  "player": "emulator",
+  "core": "desmume",
+  "romParts": 4,
+  "romPartBytes": 20971520,
+  "romBytes": 67108864,
+  "romSha256": "164c82b37531f561b9a5e5457edcb20417cbc2e04dd4f8234c2d16db4bfcb23a"
+}

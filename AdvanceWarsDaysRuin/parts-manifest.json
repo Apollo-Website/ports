@@ -1,0 +1,26 @@
+{
+  "bytes": 67108864,
+  "sha256": "aa17e43b468ef525e6e4e634eb02c66e9318a6d808c78107ff5a905900d0b2db",
+  "files": [
+    {
+      "path": "game.nds.part1",
+      "bytes": 20971520,
+      "sha256": "89edf8cfd502c369bd3f29ef8e95d3ffa3822b475e45d2d7292a292bce54bb36"
+    },
+    {
+      "path": "game.nds.part2",
+      "bytes": 20971520,
+      "sha256": "72377265a1950e9bd2b2d6a649dafb7015bbb85f8df6fb4d199e4f711d4099f7"
+    },
+    {
+      "path": "game.nds.part3",
+      "bytes": 20971520,
+      "sha256": "ce70107b8b629de5c9ce0ee70d33a7942aef421c9feb79fef1b28ccf459b03bb"
+    },
+    {
+      "path": "game.nds.part4",
+      "bytes": 4194304,
+      "sha256": "cd3517473707d59c3d915b52a3e16213cadce80d9ffb2b4371958fb7acb51a08"
+    }
+  ]
+}
