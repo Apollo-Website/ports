@@ -1,0 +1,149 @@
+{
+  "id": "geometry-dash",
+  "folder": "Geodash2209",
+  "source": "https://truffled.lol/f/WxUUCwMfSgMRHVoPCAgAHFoaAQsK/",
+  "gameVersion": "2.209",
+  "build": "9274beaaad27e3fbd46ebce7",
+  "images": {
+    "GeometryDash.exe.img": "dab65e0527e343f03ea08614b2967f5a20cdb481b1622aadde76cde648803c2a",
+    "libcocos2d.dll.img": "1ade9d1b9603d82a41f2211348ec98516098b6d012114f785a763b8762512257",
+    "libExtensions.dll.img": "7543bb6eb7f480a11d9568eb6fe3a46e549616866ef7f6c717bddb38639facbd"
+  },
+  "partBytes": 19922944,
+  "dataBytes": 322237583,
+  "dataParts": 17,
+  "wasmBytes": 123481510,
+  "wasmParts": 7,
+  "files": [
+    {
+      "path": "gd_web.data.part1",
+      "bytes": 19922944,
+      "sha256": "b3e061c4874455705d6f6f68f0a9175bd3921433ad07a65e9b3b9c668e3a2600"
+    },
+    {
+      "path": "gd_web.data.part2",
+      "bytes": 19922944,
+      "sha256": "2ccdff78b2790fd636a73728550e5d692cff1b02f2ba6bbefe0ba63c0d496aae"
+    },
+    {
+      "path": "gd_web.data.part3",
+      "bytes": 19922944,
+      "sha256": "8c9ffd64af48b32a4d1327b87e4d68f657693b4919b892ffdadbf7e0379ca457"
+    },
+    {
+      "path": "gd_web.data.part4",
+      "bytes": 19922944,
+      "sha256": "15b14f223cf861b6b6736a9673c631cb23396c4577a1fffa261176e7b848fc2d"
+    },
+    {
+      "path": "gd_web.data.part5",
+      "bytes": 19922944,
+      "sha256": "2b5c372b145cd450d8dabf410012ba8b929dd1e01cd8b0c1dcba6bd1f0ad5066"
+    },
+    {
+      "path": "gd_web.data.part6",
+      "bytes": 19922944,
+      "sha256": "75106c16e680e2f9fb6d5c49896cf7c7e7b598a551406e88890e37f4293745e7"
+    },
+    {
+      "path": "gd_web.data.part7",
+      "bytes": 19922944,
+      "sha256": "0b7efe65dc95e903c09fed643c762d851ecebc6dccec0735e7a4781b61db0ec9"
+    },
+    {
+      "path": "gd_web.data.part8",
+      "bytes": 19922944,
+      "sha256": "1cebc401f4201eda7b171be00e2b650dcbb78de78df903a49cc09f6e0c835686"
+    },
+    {
+      "path": "gd_web.data.part9",
+      "bytes": 19922944,
+      "sha256": "edfd135c97899cdb2b9452ba5b1b1594d401de4a30a5e73bf778f3133266ae1c"
+    },
+    {
+      "path": "gd_web.data.part10",
+      "bytes": 19922944,
+      "sha256": "72ff426d7a3ddd722c353a8f9d355d633635e85c9c6681ffb641ecc41895720a"
+    },
+    {
+      "path": "gd_web.data.part11",
+      "bytes": 19922944,
+      "sha256": "c5ea5a42783b3f0750c61f8e2c6359846866ccd71e061cf543c8f2f91eb5071f"
+    },
+    {
+      "path": "gd_web.data.part12",
+      "bytes": 19922944,
+      "sha256": "e79f890ad206152382f1d235d427538f3e917055dea65288cc5cadb406a22fcf"
+    },
+    {
+      "path": "gd_web.data.part13",
+      "bytes": 19922944,
+      "sha256": "70cc5fb2c68f2509a8c3c8a6b1b4835b05764f1af8905a642b582a7e95a5f730"
+    },
+    {
+      "path": "gd_web.data.part14",
+      "bytes": 19922944,
+      "sha256": "9d64b40ef422ac9fd13b83295164c01a53c0e7f598b55e1b19bc918ecac40ac0"
+    },
+    {
+      "path": "gd_web.data.part15",
+      "bytes": 19922944,
+      "sha256": "d8d3007d65bbaf7ef4620b5db8db5b626ce9c191c94a3379f60f4b963d2a3406"
+    },
+    {
+      "path": "gd_web.data.part16",
+      "bytes": 19922944,
+      "sha256": "1273b183f5a430c42d5fd7c51cde7e574ced10ab34e8bfcf631a32f84a657d79"
+    },
+    {
+      "path": "gd_web.data.part17",
+      "bytes": 3470479,
+      "sha256": "4c9736b66a18df2649d528faffba65d787164efdd688d6bf64276af9d314b7ad"
+    },
+    {
+      "path": "gd_web.wasm.part1",
+      "bytes": 19922944,
+      "sha256": "7e6e0a8ae07dcc2f7998564a08609d2bf2db83341d4741805687a7763d7f9803"
+    },
+    {
+      "path": "gd_web.wasm.part2",
+      "bytes": 19922944,
+      "sha256": "9167213002d6d05ec4069f0ef94ca5523b8146ad9aefb75602365664436a262f"
+    },
+    {
+      "path": "gd_web.wasm.part3",
+      "bytes": 19922944,
+      "sha256": "90917dd9c2eb87c1e540c65181c907d6f8af134e3e84a9a9a82a1584db07bf67"
+    },
+    {
+      "path": "gd_web.wasm.part4",
+      "bytes": 19922944,
+      "sha256": "5e69cd5d3886d572ff85e8dd1b800c6a35895da062fdf1d3228b27d7ead0ba77"
+    },
+    {
+      "path": "gd_web.wasm.part5",
+      "bytes": 19922944,
+      "sha256": "d1ad8ff72285425f9f7dae5718e49b9f44efe4c2058ad8afb39810c40b6f81ec"
+    },
+    {
+      "path": "gd_web.wasm.part6",
+      "bytes": 19922944,
+      "sha256": "53771a9c63740cda6982116dda3684e495d7910ee614e25e9440a672ba871e52"
+    },
+    {
+      "path": "gd_web.wasm.part7",
+      "bytes": 3943846,
+      "sha256": "a3c453eeaf2e80ba150fb8f86a5f9df216484aa8ae1a426f32dafbf9cef04d4b"
+    },
+    {
+      "path": "gd_web.js",
+      "bytes": 1289097,
+      "sha256": "49cd4697c95ff9a86fa370f9b8f208f41c70f2753a90fdc5ce46ef3f04ce66c7"
+    },
+    {
+      "path": "gd_input.js",
+      "bytes": 9198,
+      "sha256": "39689dfe6dd44e650d3b6e351326424b2a6905939e70540a07520bdc76af9601"
+    }
+  ]
+}
