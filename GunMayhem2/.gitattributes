@@ -1,0 +1,4 @@
+* -text
+*.unityweb binary
+*.wasm binary
+*.swf binary

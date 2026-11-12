@@ -1,0 +1,31 @@
+{
+  "id": "gun-mayhem-redux",
+  "name": "Gun Mayhem Redux",
+  "folder": "GunMayhemRedux",
+  "source": "https://selenite.cc/resources/semag/gunmayhemredux/",
+  "flash": true,
+  "asset": "gunmayhemredux.swf",
+  "cover": "cover.jpg",
+  "coverSource": "https://images.twoplayergames.org/files/games/o4/gun-mayhem-redux.jpg",
+  "tags": [
+    "twoplayer"
+  ],
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 53,
+      "sha256": "7f9e7cb5a68fede877035a6d31ad6b476e2fb57b0f174d193899c89d96dede1b"
+    },
+    {
+      "path": "cover.jpg",
+      "bytes": 53006,
+      "sha256": "963f1215145c2e1b2c61c0009bff2bead48f64342c086b47a2565abb4c7bcb46"
+    },
+    {
+      "path": "gunmayhemredux.swf",
+      "bytes": 7268278,
+      "sha256": "6a52c8c105afc1f65b938d27e4ab8c4a0de959fd2e6cfdc5520776b75ee266c8"
+    }
+  ],
+  "totalBytes": 7321337
+}

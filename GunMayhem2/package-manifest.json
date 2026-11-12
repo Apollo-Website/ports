@@ -1,0 +1,31 @@
+{
+  "id": "gun-mayhem-2",
+  "name": "Gun Mayhem 2",
+  "folder": "GunMayhem2",
+  "source": "https://selenite.cc/resources/semag/gunmayhem2/",
+  "flash": true,
+  "asset": "gunmayhem2.swf",
+  "cover": "cover.jpg",
+  "coverSource": "https://images.twoplayergames.org/files/games/o3/Gun-Mayhem-2.jpg",
+  "tags": [
+    "twoplayer"
+  ],
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 53,
+      "sha256": "7f9e7cb5a68fede877035a6d31ad6b476e2fb57b0f174d193899c89d96dede1b"
+    },
+    {
+      "path": "cover.jpg",
+      "bytes": 65330,
+      "sha256": "55575554101cd5ec11a62bf40011cd6c9b109508e0460c293b7e09c6e0fc741a"
+    },
+    {
+      "path": "gunmayhem2.swf",
+      "bytes": 8882538,
+      "sha256": "86ada75cbc7c9f06e8e03e3f38df326b2847c766de79d52188a5c293879f1f38"
+    }
+  ],
+  "totalBytes": 8947921
+}

@@ -12,8 +12,8 @@
   "files": [
     {
       "path": ".gitattributes",
-      "bytes": 40,
-      "sha256": "03aba6601281b33228d92f61cbe83d64186c1d757448c511f083774dd14daf08"
+      "bytes": 53,
+      "sha256": "7f9e7cb5a68fede877035a6d31ad6b476e2fb57b0f174d193899c89d96dede1b"
     },
     {
       "path": "895b299e7e49558ca383b23648314860.jpg",
@@ -56,5 +56,5 @@
       "sha256": "fa9ff09ce648b9973ea1d54b1e0f5631fc7b6935ffb3a4d8f1ce7a0de30b7589"
     }
   ],
-  "totalBytes": 27263695
+  "totalBytes": 27263708
 }

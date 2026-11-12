@@ -13,8 +13,8 @@
   "files": [
     {
       "path": ".gitattributes",
-      "bytes": 40,
-      "sha256": "03aba6601281b33228d92f61cbe83d64186c1d757448c511f083774dd14daf08"
+      "bytes": 53,
+      "sha256": "7f9e7cb5a68fede877035a6d31ad6b476e2fb57b0f174d193899c89d96dede1b"
     },
     {
       "path": "box2d.wasm",
@@ -377,5 +377,5 @@
       "sha256": "94cd9b06dc38ee8aec2ceb83effd5287bbd4540a5b306f686870f2096c42bf99"
     }
   ],
-  "totalBytes": 2647029
+  "totalBytes": 2647042
 }
