@@ -1,0 +1,381 @@
+{
+  "id": "boxing-random",
+  "name": "Boxing Random",
+  "folder": "BoxingRandom",
+  "source": "https://raw.githubusercontent.com/bladeclickers/bladeclickers.github.io/ef314f4eb8da17fcea967b3c7a64de58ce225d76/boxing-random/",
+  "cover": "cover.jpg",
+  "coverSource": "https://images.twoplayergames.org/files/games/other/Boxing_Random/boxing-random-the-game.jpg",
+  "classic": true,
+  "assetIndex": "boxing-random-source.json",
+  "tags": [
+    "twoplayer"
+  ],
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 40,
+      "sha256": "03aba6601281b33228d92f61cbe83d64186c1d757448c511f083774dd14daf08"
+    },
+    {
+      "path": "box2d.wasm",
+      "bytes": 246906,
+      "sha256": "980c1932c6b690cc927a5df0cf2b483b58740979f2966922a2f1c9af7270a80e"
+    },
+    {
+      "path": "box2d.wasm.js",
+      "bytes": 287926,
+      "sha256": "1a69e0b7122a8bc0ebc45ce1a540f81b5c0862aee3d724f472236a2ba27af19d"
+    },
+    {
+      "path": "cover.jpg",
+      "bytes": 18170,
+      "sha256": "01b0928112600c369a802655b55b40768400877e28a2fbc35c7246adec0ec912"
+    },
+    {
+      "path": "data.json",
+      "bytes": 200787,
+      "sha256": "24d4be91af783e5c7646e8b7b34c7265e2b555ec353d7b9d77155c5443bfb268"
+    },
+    {
+      "path": "images/armskin-sheet0.png",
+      "bytes": 456,
+      "sha256": "4b6e12d9389d2c4c3665deba16696ee7910a58ca2ffa08fac57d17bc5792d92b"
+    },
+    {
+      "path": "images/bombtimer-sheet0.png",
+      "bytes": 650,
+      "sha256": "eed349c51f51dea4249c7703427d19e051fec8700721f427c135d6699449c4c5"
+    },
+    {
+      "path": "images/buildingtile-sheet0.png",
+      "bytes": 1952,
+      "sha256": "30ed501cd1157f933fb4a03fd26f64df39b4fdc7f993950e926cd410229fa4d1"
+    },
+    {
+      "path": "images/buildingtile2-sheet0.png",
+      "bytes": 2012,
+      "sha256": "eda84896cc312dff30d009c328d55311be1400e7c239233c2eb9009d3833e78b"
+    },
+    {
+      "path": "images/buildingtile3-sheet0.png",
+      "bytes": 1953,
+      "sha256": "73e7a79400e05a5888c4c1e5c3b128013abb9313b6b58085a62630b9a56454f8"
+    },
+    {
+      "path": "images/cloudtile-sheet0.png",
+      "bytes": 775,
+      "sha256": "a455a7b2eb40ac22c7273e84ffd77189fc9ffb3d5f870d619c548a143106a07a"
+    },
+    {
+      "path": "images/fencetile-sheet0.png",
+      "bytes": 388,
+      "sha256": "e1f10d38e9ea0c66e0ecdd25d88ffab617aba9c1fec4d8cc9b05ba347f4620b6"
+    },
+    {
+      "path": "images/game_bg-sheet0.png",
+      "bytes": 282,
+      "sha256": "314adcb863b2fda4260a4bc5fdf961402c6ce217301c6b1cd5c436c2a74a556a"
+    },
+    {
+      "path": "images/grasslinetile-sheet0.png",
+      "bytes": 1604,
+      "sha256": "f7de1b02ec304b251d54fe7a2b271ddd7257129aadce090dd308a75b6e252d04"
+    },
+    {
+      "path": "images/grasstile-sheet0.png",
+      "bytes": 512,
+      "sha256": "bcb5c7b1e265a0f8ace61c9291aa8f582e40f386fd80d99fd4c59768c0f46086"
+    },
+    {
+      "path": "images/grasstile2-sheet0.png",
+      "bytes": 585,
+      "sha256": "4a990679b75f2491ae788e2887b64efef2f727f175b8ed774f44dd2166ef1ae1"
+    },
+    {
+      "path": "images/groundtile-sheet0.png",
+      "bytes": 126,
+      "sha256": "c90ef8c902dd7f2670394faddc528f4f3ad51cd6d8ee96e5f3fa0a8d4e0915c3"
+    },
+    {
+      "path": "images/groundtileindoor-sheet0.png",
+      "bytes": 135,
+      "sha256": "f07c5a95a449c448eb4c17fa9a96cda5bb68ed041a38ebf47e211621ccbe502e"
+    },
+    {
+      "path": "images/groundtileplaj-sheet0.png",
+      "bytes": 253,
+      "sha256": "d6bcc01356f61fddf3ff8a173252e56302ea1fc70331fb002c1abb5477b5639a"
+    },
+    {
+      "path": "images/groundtilesnow-sheet0.png",
+      "bytes": 79,
+      "sha256": "028b337e330e58004bdc2f43bf092341a57428be10d6b6b26e364be847e1fd95"
+    },
+    {
+      "path": "images/hair-sheet0.png",
+      "bytes": 442,
+      "sha256": "a7e9a90888f87c31d1707af5537567666e3abb2dae4e9220d344cadae6ea694d"
+    },
+    {
+      "path": "images/hair-sheet1.png",
+      "bytes": 488,
+      "sha256": "a68eda7eac7d56bd349a8249d30e6cca92665b348d1f4b7e79e3b1ae299faded"
+    },
+    {
+      "path": "images/indoorbgtile-sheet0.png",
+      "bytes": 691,
+      "sha256": "d739c906e279daa90bc86d556b30669054ddb72798b72596e9861c1fd6cfd1c2"
+    },
+    {
+      "path": "images/indoorbgtile2-sheet0.png",
+      "bytes": 205,
+      "sha256": "1579bf48e912e2a1f90164a8ff0fe98fc7a9fd5ed6ffb24f5e359fd9afdcf4f3"
+    },
+    {
+      "path": "images/indoorbgtile3-sheet0.png",
+      "bytes": 139,
+      "sha256": "5547a099ac5e9a4f0627e0688bba36d3090ecb049b113e48206b096d1fe6ce03"
+    },
+    {
+      "path": "images/rightshoe-sheet0.png",
+      "bytes": 663,
+      "sha256": "d88255dced3250124882ae98a5512810570581668be1eb625cded711acfd911d"
+    },
+    {
+      "path": "images/rightshort-sheet0.png",
+      "bytes": 609,
+      "sha256": "4fd2a612a8de59530d86f7ea49458311b5b09c91a7b7010b44a3af9933b17a57"
+    },
+    {
+      "path": "images/seatile-sheet0.png",
+      "bytes": 141,
+      "sha256": "5cc5c7635b004b7d360fb051fea48dfa521ff9760a87692b1b0e881b5353c706"
+    },
+    {
+      "path": "images/shared-0-sheet0.png",
+      "bytes": 15688,
+      "sha256": "2cb1586248b640eeec996525453029f992bfd23833e856bab6d45189026f3cfb"
+    },
+    {
+      "path": "images/shared-0-sheet1.png",
+      "bytes": 12579,
+      "sha256": "a07e78332fa173e11121b02f3bded6c1c1a7fea0da868759eb133b51c48c95ad"
+    },
+    {
+      "path": "images/shared-0-sheet2.png",
+      "bytes": 2736,
+      "sha256": "06df75e90beff3b003f8964085249238e0b0d63bc638c4fb30cafb9ae840c64f"
+    },
+    {
+      "path": "images/shared-0-sheet3.png",
+      "bytes": 152,
+      "sha256": "8e0074c89e6510c7ef054dcb33a21dfc63386be45869dbb6ef71350ef35216aa"
+    },
+    {
+      "path": "images/shared-1-sheet0.png",
+      "bytes": 12047,
+      "sha256": "4c74774bfaa383554c83294252da66bd0314d84bf28684eb58a4daf797bcc75d"
+    },
+    {
+      "path": "images/shared-1-sheet1.png",
+      "bytes": 3537,
+      "sha256": "8ef586ad0f056a1b7fd5810775e6179b30a9d8e4dfc2db227a351991f1d86e03"
+    },
+    {
+      "path": "images/shared-1-sheet2.png",
+      "bytes": 563,
+      "sha256": "e0ce26e4aa159e3203d66047ecc3765faf4985f5d7b314436d69fd73e0d6c0a6"
+    },
+    {
+      "path": "images/smoketile-sheet0.png",
+      "bytes": 168,
+      "sha256": "3cf89e3c1c63a265d3cb20fd47b63318862546bdbf0fd52e7e7171a738dcb742"
+    },
+    {
+      "path": "images/snowtile-sheet0.png",
+      "bytes": 1760,
+      "sha256": "11d35157506a72f4108f314ebcff3d32930b9645c77eddcbc4aab727c5e89290"
+    },
+    {
+      "path": "images/startile-sheet0.png",
+      "bytes": 267,
+      "sha256": "7cfe50df6b19d5a6630b279fc795de8da6cfecd1e89d4f20782a02040f223322"
+    },
+    {
+      "path": "images/titlebg-sheet0.png",
+      "bytes": 76,
+      "sha256": "3439da833127f287e10dbbbbdace6cee526bc45b006d757e5b7a3da5ebb868be"
+    },
+    {
+      "path": "images/titlechars-sheet0.png",
+      "bytes": 1081,
+      "sha256": "9aa9ca768dc2d09c502001061aa5f63beb049dd3efc4d9ff587688f7b0e2c4e2"
+    },
+    {
+      "path": "images/tshirt-sheet0.png",
+      "bytes": 422,
+      "sha256": "70241426fe4db4238182f321b55c6169d0e34a7278421aaa41e505c1b193eec3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 528,
+      "sha256": "bd3ea63f95764b466b6f952ce75f5b3a803a649259be9a1bd900947cb0242922"
+    },
+    {
+      "path": "media/bonebreak.webm",
+      "bytes": 9580,
+      "sha256": "1ee3873df3491195d769accb4d645a2c66db0ca87ff53bd9408076ebedc639da"
+    },
+    {
+      "path": "media/boxhit.webm",
+      "bytes": 5367,
+      "sha256": "5bd1ce5f92075c233762a329a93c9585762b687373473ba0ba76fc0e3189d2af"
+    },
+    {
+      "path": "media/buttonx.webm",
+      "bytes": 1594,
+      "sha256": "63f827595366a296d535e5109a5f77e529b92c669720609d8dc69ce2f7ad8f01"
+    },
+    {
+      "path": "media/counter,.webm",
+      "bytes": 9720,
+      "sha256": "087aff90a3668d569232853ecdc09f77b5f00b7f4ca6e6f560d6256c481a35cb"
+    },
+    {
+      "path": "media/goasoc.webm",
+      "bytes": 20224,
+      "sha256": "6efcc38d63bf633ef2bb457aa38b001565f0a196d37b74023d8c31ec868524ce"
+    },
+    {
+      "path": "media/intro-button.webm",
+      "bytes": 12499,
+      "sha256": "2e920522dc092540ae338751cbf743f63a94918e6b6b941662d62f5e3326107f"
+    },
+    {
+      "path": "media/intro-sound.webm",
+      "bytes": 38492,
+      "sha256": "aa8797972cf57f21a6e7488add0e5c895d58eb4eb0ce3f2435fee2c0b79436f2"
+    },
+    {
+      "path": "media/menu.webm",
+      "bytes": 41953,
+      "sha256": "05e87756055d90ed1c26ceb8c6300be15edd10d59dbed6013899856a3624b06e"
+    },
+    {
+      "path": "media/metal.webm",
+      "bytes": 3958,
+      "sha256": "2e9f26e2d830f6d9e7b2c20e332546b84613baa871bec0d7c8280f4cb69e9eb0"
+    },
+    {
+      "path": "media/music.webm",
+      "bytes": 367346,
+      "sha256": "bce5109cfede6cfb8daaea007c9e179ee7c481dc8689ca62c7500dd5d3855b43"
+    },
+    {
+      "path": "media/pain.webm",
+      "bytes": 4360,
+      "sha256": "7a5532e25f6f20b3eec90064a6c72c5b40e944856571be033bb7a68e671f5abb"
+    },
+    {
+      "path": "media/pof.webm",
+      "bytes": 3632,
+      "sha256": "ef405801d3a8a7b1b9fa35bf820c429c9cedff2eb79ef7bac44ba85e5bb76d88"
+    },
+    {
+      "path": "media/press.webm",
+      "bytes": 3216,
+      "sha256": "06a6b2efcc4f5c2995f1e0f85ea9fff7bb9f1f0b4cb05681a7767d81f0f93c89"
+    },
+    {
+      "path": "media/punch.webm",
+      "bytes": 5979,
+      "sha256": "2c0d43ef2e6ff46577ad039f07ab2d3a9ae33aab1b5e1895ad7d3708899bf300"
+    },
+    {
+      "path": "media/refsoc.webm",
+      "bytes": 17492,
+      "sha256": "580792168d74c0b7a51eaa730bf059795b1408cb7632bc6bf79ededffbe95646"
+    },
+    {
+      "path": "media/roket.webm",
+      "bytes": 7947,
+      "sha256": "a5b284ef77c377c38450be78806a389afc381a42bb45f3de50eb3ef0cb7ae393"
+    },
+    {
+      "path": "media/spring.webm",
+      "bytes": 9440,
+      "sha256": "4f71dd7bdf29a6024752d9464b95b73962464e59872390d38f59bb4bc95bae96"
+    },
+    {
+      "path": "media/start.webm",
+      "bytes": 21451,
+      "sha256": "17f48945c0e9c6de4e6e85c20d04a8e9889100254103cd94545c18d9c1f69e90"
+    },
+    {
+      "path": "media/win.webm",
+      "bytes": 29710,
+      "sha256": "50f0f303b1acfbc92d0588f8cb04a2f595425010f23f25161cd26927178ac6d0"
+    },
+    {
+      "path": "media/woosh.webm",
+      "bytes": 1873,
+      "sha256": "ed009355afc07fa4efd4379c7bd03072c3ecc8a29009447a3f90e57e7d901188"
+    },
+    {
+      "path": "media/wrong.webm",
+      "bytes": 5314,
+      "sha256": "ae1a30f3bc2f92f572b4c50a07119eda36905256ec283cf6d047ececafab9c13"
+    },
+    {
+      "path": "offline.json",
+      "bytes": 1753,
+      "sha256": "613a8a687f7df21842b35d951967903cdfde55094799109d579db49c2332b443"
+    },
+    {
+      "path": "patch/js/gd-sdk.js",
+      "bytes": 3023,
+      "sha256": "bd1ffd181a823d030539aeef95a5d483f967de2938b3f8b10c6e57376560bcd0"
+    },
+    {
+      "path": "scripts/c3runtime.js",
+      "bytes": 1096718,
+      "sha256": "a5e2cb56a2d0024c59e0289daf69b60e1a244867afe4102cc52314e17c9835e2"
+    },
+    {
+      "path": "scripts/dispatchworker.js",
+      "bytes": 3775,
+      "sha256": "c9e5e4fe17cd26eea11f1fca5b34a85a11f992d119717f3c35e46163ab1034ad"
+    },
+    {
+      "path": "scripts/jobworker.js",
+      "bytes": 3119,
+      "sha256": "8e32f1b3b09ce176ef6997711b2399ab480a0a12dc99ae622f5ca44836b4b65b"
+    },
+    {
+      "path": "scripts/main.js",
+      "bytes": 93509,
+      "sha256": "36338857e2c7955737f8c17307848d687d183ddc6ac8467de489dbb5deee507e"
+    },
+    {
+      "path": "scripts/offlineclient.js",
+      "bytes": 602,
+      "sha256": "0699419ce20d02eded20d5cbae07a1f0fd0a1ff3841213f41efbb89b8a7ab684"
+    },
+    {
+      "path": "scripts/register-sw.js",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "scripts/supportcheck.js",
+      "bytes": 2310,
+      "sha256": "d2101404d4b05bcd35d6248ca344aa405b277252f014db7615bb9889aa14cffc"
+    },
+    {
+      "path": "style.css",
+      "bytes": 500,
+      "sha256": "94cd9b06dc38ee8aec2ceb83effd5287bbd4540a5b306f686870f2096c42bf99"
+    }
+  ],
+  "totalBytes": 2647029
+}

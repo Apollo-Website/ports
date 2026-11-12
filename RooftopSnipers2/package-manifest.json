@@ -1,0 +1,60 @@
+{
+  "id": "rooftop-snipers-2",
+  "name": "Rooftop Snipers 2",
+  "folder": "RooftopSnipers2",
+  "source": "https://selenite.cc/resources/semag/rooftopsnipers2/",
+  "build": "RooftopSnipers2.json",
+  "loader": "UnityLoader.js",
+  "cover": "895b299e7e49558ca383b23648314860.jpg",
+  "tags": [
+    "twoplayer"
+  ],
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 40,
+      "sha256": "03aba6601281b33228d92f61cbe83d64186c1d757448c511f083774dd14daf08"
+    },
+    {
+      "path": "895b299e7e49558ca383b23648314860.jpg",
+      "bytes": 4150,
+      "sha256": "afb393cc24f4ee107dd787ad676f85fffecbd33fbe4289a19a275357ab22ba8f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1426,
+      "sha256": "1837ff7e42b32ce4662b364a5482c1882c801d4176a7724ad069959e98e56266"
+    },
+    {
+      "path": "RooftopSnipers2.data.unityweb",
+      "bytes": 9563147,
+      "sha256": "c63e24c3befac61cd62b454561f2247892596082ad81d9bbbf9047b95cb65237"
+    },
+    {
+      "path": "RooftopSnipers2.json",
+      "bytes": 548,
+      "sha256": "ec24aeeeae8d4c424ed179bddd0a5b9706abf85fcd31cc42ee37d8031cbd71d1"
+    },
+    {
+      "path": "RooftopSnipers2.wasm.code.unityweb",
+      "bytes": 17055668,
+      "sha256": "210e74f9b6337ec7f29643ccf0faf15cf7ead8f9234435fa1b78fc2d8b3a4267"
+    },
+    {
+      "path": "RooftopSnipers2.wasm.framework.unityweb",
+      "bytes": 474966,
+      "sha256": "ca072e14bd769101a2cae4b4589982d74d95b4024cba1887d08ea0b813de9943"
+    },
+    {
+      "path": "unity-config.json",
+      "bytes": 2,
+      "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+    },
+    {
+      "path": "UnityLoader.js",
+      "bytes": 163748,
+      "sha256": "fa9ff09ce648b9973ea1d54b1e0f5631fc7b6935ffb3a4d8f1ce7a0de30b7589"
+    }
+  ],
+  "totalBytes": 27263695
+}

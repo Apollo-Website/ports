@@ -1,0 +1,65 @@
+{
+  "id": "rooftop-snipers",
+  "name": "Rooftop Snipers",
+  "folder": "RooftopSnipers",
+  "source": "https://cdn.geltain.cfd/html5/rooftop-snipers/",
+  "build": "Build/rooftop-snipers.json",
+  "loader": "TemplateData/UnityLoader.js",
+  "cover": "img/thumb.png",
+  "tags": [
+    "twoplayer"
+  ],
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 40,
+      "sha256": "03aba6601281b33228d92f61cbe83d64186c1d757448c511f083774dd14daf08"
+    },
+    {
+      "path": "Build/rooftop-snipers.asm.code.unityweb",
+      "bytes": 5013861,
+      "sha256": "9fdb1d5414f6bab1f84467e7d834f5694cb612d80af6394e4b6c13b85c7ba5da"
+    },
+    {
+      "path": "Build/rooftop-snipers.asm.framework.unityweb",
+      "bytes": 89396,
+      "sha256": "89b185bd7aaefb6081595b8e9a96dc025f45310ea28520ff359e4465ca7b6330"
+    },
+    {
+      "path": "Build/rooftop-snipers.asm.memory.unityweb",
+      "bytes": 349865,
+      "sha256": "884ffa169399ef39af758b6d4fbc0dfd0a97e6dc8bff5d35a4cf2cf46098b682"
+    },
+    {
+      "path": "Build/rooftop-snipers.data.unityweb",
+      "bytes": 2883506,
+      "sha256": "b82dd5d2ee5567e5759c1f49413d8e48428a92fae7cc79d8da577b4345682f82"
+    },
+    {
+      "path": "Build/rooftop-snipers.json",
+      "bytes": 300,
+      "sha256": "ca6ea795ea2f06abd2bdd4b3bfc0d7f36efbbc15de697c77cf734f3d7a9381f2"
+    },
+    {
+      "path": "img/thumb.png",
+      "bytes": 8689,
+      "sha256": "900dacfc368bd6bb7e9d68de774fb7d5a40bbae0781742e931c2a94c5cd0b8ee"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1443,
+      "sha256": "b934b61fb96c2a429ee88bae1785ffce976d113293c190bceb67d2708895a34c"
+    },
+    {
+      "path": "TemplateData/UnityLoader.js",
+      "bytes": 153592,
+      "sha256": "0cdfef65bc212196eacf023a487cf0b1f8fbcb0e22bc1041afd570f5db3de7a4"
+    },
+    {
+      "path": "unity-config.json",
+      "bytes": 2,
+      "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+    }
+  ],
+  "totalBytes": 8500694
+}
